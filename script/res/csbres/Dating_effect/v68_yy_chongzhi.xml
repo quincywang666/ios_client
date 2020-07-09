@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>v68_yy_chongzhi.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>v68_yy_chongzhi</name>
+            <delay>0.07</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>yy_chongzhi_01.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_02.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_03.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_04.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_05.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_06.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_07.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_08.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_09.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_10.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_11.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_12.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_13.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_14.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_15.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_16.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+            <spriteFrame>yy_chongzhi_17.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

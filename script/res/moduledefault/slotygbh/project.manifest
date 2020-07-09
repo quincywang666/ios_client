@@ -1,0 +1,12 @@
+{
+  "assets": {
+    "slotygbh/slotygbhinit.lua": {
+      "md5": "c01ac077ba5b5387df6a560da3c879f7"
+    }
+  }, 
+  "packageUrl": "http://euqp_hotupdate.64b88.cn", 
+  "remoteManifestUrl": "http://euqp_hotupdate.64b88.cn/slotygbh/version/project.manifest", 
+  "remoteVersionUrl": "http://euqp_hotupdate.64b88.cn/slotygbh/version/version.manifest", 
+  "searchPaths": [], 
+  "version": "0.0.1"
+}

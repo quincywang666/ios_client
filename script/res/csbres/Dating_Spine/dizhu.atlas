@@ -1,0 +1,111 @@
+
+dizhu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 193, 216
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 122, 185
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 122, 162
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 193, 191
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 334, 372
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 242, 256
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 277, 335
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 64, 120
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 277, 343
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 135
+  size: 118, 127
+  orig: 118, 127
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 2, 8
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+vw
+  rotate: false
+  xy: 2, 44
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+xvd
+  rotate: false
+  xy: 2, 264
+  size: 189, 113
+  orig: 189, 113
+  offset: 0, 0
+  index: -1
+xvds
+  rotate: false
+  xy: 193, 268
+  size: 82, 109
+  orig: 82, 109
+  offset: 0, 0
+  index: -1

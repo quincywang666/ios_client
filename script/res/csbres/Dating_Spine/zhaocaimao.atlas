@@ -1,0 +1,62 @@
+
+zhaocaimao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 468
+  size: 314, 334
+  orig: 314, 334
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 318, 675
+  size: 287, 127
+  orig: 287, 127
+  offset: 0, 0
+  index: -1
+hongbao
+  rotate: false
+  xy: 607, 716
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+hongbao1
+  rotate: false
+  xy: 2, 50
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+other
+  rotate: true
+  xy: 2, 148
+  size: 318, 290
+  orig: 318, 290
+  offset: 0, 0
+  index: -1
+other1
+  rotate: false
+  xy: 318, 578
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+tongqian
+  rotate: false
+  xy: 68, 101
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+tongqian1
+  rotate: false
+  xy: 2, 2
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1

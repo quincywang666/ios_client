@@ -1,0 +1,6 @@
+{
+  "packageUrl": "http://download.tianjigame.com/jlpk/debug_hotupdate", 
+  "version": "1.0.1", 
+  "remoteVersionUrl": "http://download.tianjigame.com/jlpk/debug_hotupdate/version.manifest", 
+  "remoteManifestUrl": "http://download.tianjigame.com/jlpk/debug_hotupdate/project.manifest"
+}

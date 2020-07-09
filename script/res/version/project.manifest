@@ -1,0 +1,5857 @@
+{
+  "assets": {
+    "base/cocos/3d/3dConstants.luac": {
+      "md5": "6aadfa4ba2f9ee76a7e3c33fac7541cd", 
+      "size": 213
+    }, 
+    "base/cocos/cocos2d/Cocos2d.luac": {
+      "md5": "75d89c55705562a378d1a864a2963ff2", 
+      "size": 13397
+    }, 
+    "base/cocos/cocos2d/Cocos2dConstants.luac": {
+      "md5": "de044123b5b02051726d87642d97a714", 
+      "size": 16489
+    }, 
+    "base/cocos/cocos2d/DeprecatedCocos2dClass.luac": {
+      "md5": "229e1d3dadd75c39b9e1526ab5ece652", 
+      "size": 60753
+    }, 
+    "base/cocos/cocos2d/DeprecatedCocos2dEnum.luac": {
+      "md5": "83f26d838405a88b694ecb20cb122af1", 
+      "size": 16885
+    }, 
+    "base/cocos/cocos2d/DeprecatedCocos2dFunc.luac": {
+      "md5": "5cd8eb490c1cba19521b1dac06136028", 
+      "size": 39485
+    }, 
+    "base/cocos/cocos2d/DeprecatedOpenglEnum.luac": {
+      "md5": "54db783d2146fb67dd7b1905ea203f77", 
+      "size": 11949
+    }, 
+    "base/cocos/cocos2d/DrawPrimitives.luac": {
+      "md5": "6ea2a4097b52208953b83f4ddbc5b813", 
+      "size": 12037
+    }, 
+    "base/cocos/cocos2d/Opengl.luac": {
+      "md5": "299ddf94d30441f9ae7e66a06ab9e92e", 
+      "size": 6869
+    }, 
+    "base/cocos/cocos2d/OpenglConstants.luac": {
+      "md5": "d9dbe8145b8a070720de8689bdc69780", 
+      "size": 27141
+    }, 
+    "base/cocos/cocos2d/bitExtend.luac": {
+      "md5": "e1c4908d8eb66012b923c0ae063050e1", 
+      "size": 1605
+    }, 
+    "base/cocos/cocos2d/deprecated.luac": {
+      "md5": "7abfbc7be85025a925680c616c2ac2ff", 
+      "size": 505
+    }, 
+    "base/cocos/cocos2d/functions.luac": {
+      "md5": "8c497b0d60ea2bd032d314732f706f2a", 
+      "size": 17249
+    }, 
+    "base/cocos/cocos2d/json.luac": {
+      "md5": "c8f364ddd9818bac04c535bfa1f1bc22", 
+      "size": 15369
+    }, 
+    "base/cocos/cocos2d/luaj.luac": {
+      "md5": "c2419c6a58006df7603bc5aa68f68132", 
+      "size": 941
+    }, 
+    "base/cocos/cocos2d/luaoc.luac": {
+      "md5": "ad37f01721a7a56f72e82e242318b76d", 
+      "size": 893
+    }, 
+    "base/cocos/cocosbuilder/CCBReaderLoad.luac": {
+      "md5": "b7a6bc2d231479978bfa2f07a6f1eff4", 
+      "size": 5589
+    }, 
+    "base/cocos/cocosbuilder/DeprecatedCocosBuilderClass.luac": {
+      "md5": "4f21afff61fbbd2cfba452dcfd9e84d1", 
+      "size": 1189
+    }, 
+    "base/cocos/cocosdenshion/AudioEngine.luac": {
+      "md5": "0feaac4be5f2af3fd62acbc9886dcc16", 
+      "size": 2681
+    }, 
+    "base/cocos/cocosdenshion/DeprecatedCocosDenshionClass.luac": {
+      "md5": "f09f24c0cba570b199d0be4e32a2eb47", 
+      "size": 677
+    }, 
+    "base/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.luac": {
+      "md5": "2a77a1083f2de418317b8c48ed41f73d", 
+      "size": 925
+    }, 
+    "base/cocos/cocostudio/CocoStudio.luac": {
+      "md5": "42d160dceafbc255344423cd9171e65a", 
+      "size": 9449
+    }, 
+    "base/cocos/cocostudio/DeprecatedCocoStudioClass.luac": {
+      "md5": "e6712e5e29926e24328b49e0ed6f9cb1", 
+      "size": 10761
+    }, 
+    "base/cocos/cocostudio/DeprecatedCocoStudioFunc.luac": {
+      "md5": "5f3b8ea960c304e9616220fdbd851a27", 
+      "size": 3469
+    }, 
+    "base/cocos/cocostudio/StudioConstants.luac": {
+      "md5": "7b6188dbca34b751d3820e40ddd09bec", 
+      "size": 221
+    }, 
+    "base/cocos/controller/ControllerConstants.luac": {
+      "md5": "2b16d8a88464a2f737ce307168743e3c", 
+      "size": 741
+    }, 
+    "base/cocos/extension/DeprecatedExtensionClass.luac": {
+      "md5": "0583805bd663ca12be84746e1570b144", 
+      "size": 4853
+    }, 
+    "base/cocos/extension/DeprecatedExtensionEnum.luac": {
+      "md5": "70ecd3a05737c59d21e393f6c6edea1d", 
+      "size": 1425
+    }, 
+    "base/cocos/extension/DeprecatedExtensionFunc.luac": {
+      "md5": "2786fa54369f53fcfa04703a58fd9e0f", 
+      "size": 1365
+    }, 
+    "base/cocos/extension/ExtensionConstants.luac": {
+      "md5": "ed6bedf9bb2bbcf6466b9eb8ebd848d1", 
+      "size": 2013
+    }, 
+    "base/cocos/framework/audio.luac": {
+      "md5": "2a7b7ecf491d3c7dc6e10bdd712bc7b8", 
+      "size": 5661
+    }, 
+    "base/cocos/framework/components/event.luac": {
+      "md5": "b8c077cd85e5d93fc8e55c8ccdefac6e", 
+      "size": 4765
+    }, 
+    "base/cocos/framework/device.luac": {
+      "md5": "5df6704bd0777a29a02062dafaecca48", 
+      "size": 3857
+    }, 
+    "base/cocos/framework/display.luac": {
+      "md5": "51ec83ed4bbe0c0adf34ca7ad1ca686f", 
+      "size": 21357
+    }, 
+    "base/cocos/framework/extends/LayerEx.luac": {
+      "md5": "14091238e8e4ae7af5e07733c664064f", 
+      "size": 2621
+    }, 
+    "base/cocos/framework/extends/MenuEx.luac": {
+      "md5": "99fabe2bdf265c4dc0b8e99003fb1ff6", 
+      "size": 1241
+    }, 
+    "base/cocos/framework/extends/NodeEx.luac": {
+      "md5": "394df40b94049034fe573d2fb6b8cd34", 
+      "size": 5177
+    }, 
+    "base/cocos/framework/extends/SpriteEx.luac": {
+      "md5": "b4396bd8033d76a6636251e1a076be56", 
+      "size": 2165
+    }, 
+    "base/cocos/framework/extends/UICheckBox.luac": {
+      "md5": "88fbaf9b43bb4d2eb50c8267e7b311f9", 
+      "size": 1449
+    }, 
+    "base/cocos/framework/extends/UIEditBox.luac": {
+      "md5": "677f493b6adba695a031054d89e791fe", 
+      "size": 1457
+    }, 
+    "base/cocos/framework/extends/UIListView.luac": {
+      "md5": "edb452d0433e52aa5c8193e18fbed781", 
+      "size": 2529
+    }, 
+    "base/cocos/framework/extends/UIPageView.luac": {
+      "md5": "40bb1db86ca248c04ba3fa7ff3d55564", 
+      "size": 1397
+    }, 
+    "base/cocos/framework/extends/UIScrollView.luac": {
+      "md5": "92086ef42771d9e1605d8755c1a41bb3", 
+      "size": 2213
+    }, 
+    "base/cocos/framework/extends/UISlider.luac": {
+      "md5": "40f4fdb6f874d650752b311d44a0714f", 
+      "size": 1405
+    }, 
+    "base/cocos/framework/extends/UITextField.luac": {
+      "md5": "5f858203f2c2c911d619c708f5699132", 
+      "size": 1641
+    }, 
+    "base/cocos/framework/extends/UIWidget.luac": {
+      "md5": "b4b6adfd7232d62151feb7a85f7217a0", 
+      "size": 2049
+    }, 
+    "base/cocos/framework/init.luac": {
+      "md5": "8673f32f94b30f3bad4b2584269322c6", 
+      "size": 2713
+    }, 
+    "base/cocos/framework/package_support.luac": {
+      "md5": "1dc00eb2816671902df2fe3739cb28af", 
+      "size": 4021
+    }, 
+    "base/cocos/framework/transition.luac": {
+      "md5": "d0e9ffdfd1c7aed6ccfcd08c9480a9c8", 
+      "size": 7525
+    }, 
+    "base/cocos/init.luac": {
+      "md5": "b25ae660b8cd86b56012b41028f34a8b", 
+      "size": 3321
+    }, 
+    "base/cocos/network/DeprecatedNetworkClass.luac": {
+      "md5": "55278ad0ad551944ffbb258183a14d30", 
+      "size": 577
+    }, 
+    "base/cocos/network/DeprecatedNetworkEnum.luac": {
+      "md5": "8181a50b2e977a3fd5a427b8c07592a0", 
+      "size": 537
+    }, 
+    "base/cocos/network/DeprecatedNetworkFunc.luac": {
+      "md5": "eda60467e7c6904a9398c2081aa217c0", 
+      "size": 1137
+    }, 
+    "base/cocos/network/NetworkConstants.luac": {
+      "md5": "76ba0951a0de9294fa5ea376b16b4a24", 
+      "size": 525
+    }, 
+    "base/cocos/physics3d/physics3d-constants.luac": {
+      "md5": "6ad2537f8b294403b5816e88ddac979a", 
+      "size": 277
+    }, 
+    "base/cocos/spine/SpineConstants.luac": {
+      "md5": "4456e66807cca5102ed63605cb38e5aa", 
+      "size": 173
+    }, 
+    "base/cocos/ui/DeprecatedUIEnum.luac": {
+      "md5": "7e6fd5fb26300264292deb6487b82c92", 
+      "size": 5141
+    }, 
+    "base/cocos/ui/DeprecatedUIFunc.luac": {
+      "md5": "87a453fb57756fe80081a1bcc97c77ad", 
+      "size": 9845
+    }, 
+    "base/cocos/ui/GuiConstants.luac": {
+      "md5": "070faa83af58769276ffa7b6b21e1b33", 
+      "size": 3417
+    }, 
+    "base/cocos/ui/experimentalUIConstants.luac": {
+      "md5": "b6c5c7aa4d6b2425060117a55560a997", 
+      "size": 145
+    }, 
+    "base/packages/mvc/AppBase.luac": {
+      "md5": "c41d8a7bac9a6f602b8ee29e59c8c974", 
+      "size": 4461
+    }, 
+    "base/packages/mvc/ViewBase.luac": {
+      "md5": "7645d02130ea076adb84df3f416fdfbe", 
+      "size": 4093
+    }, 
+    "base/packages/mvc/init.luac": {
+      "md5": "fcd6375ede4a25ecfdd527121db59cd9", 
+      "size": 109
+    }, 
+    "res/Default/Button_Disable.png": {
+      "md5": "fa79821349dd686f516187283bc2fb8c", 
+      "size": 1111
+    }, 
+    "res/Default/Button_Normal.png": {
+      "md5": "5f8329d6525b01810d68e39036e5f066", 
+      "size": 1113
+    }, 
+    "res/Default/Button_Press.png": {
+      "md5": "ea5e72abd451a76f62a2906abb7ef4bf", 
+      "size": 1153
+    }, 
+    "res/Default/CheckBoxNode_Disable.png": {
+      "md5": "33e821a1e9307b492bf27500078279da", 
+      "size": 1231
+    }, 
+    "res/Default/CheckBoxNode_Normal.png": {
+      "md5": "7b7f98e04a5fc8121f8ec0414954d210", 
+      "size": 1241
+    }, 
+    "res/Default/CheckBox_Disable.png": {
+      "md5": "940e6105cf619f5eba6cc190774b66f9", 
+      "size": 1204
+    }, 
+    "res/Default/CheckBox_Normal.png": {
+      "md5": "0d09d6e06b35a6c207e8c464131600af", 
+      "size": 1204
+    }, 
+    "res/Default/CheckBox_Press.png": {
+      "md5": "7348769ebbb9bf68a11bb2ef20d68b6f", 
+      "size": 1243
+    }, 
+    "res/Default/ImageFile.png": {
+      "md5": "8b8ddbe2391511ba6e05d975dd2d9dba", 
+      "size": 1735
+    }, 
+    "res/Default/SliderNode_Disable.png": {
+      "md5": "3ee7a87d45853ac7278b7325d4c64d6c", 
+      "size": 1675
+    }, 
+    "res/Default/SliderNode_Normal.png": {
+      "md5": "07af9ea54427fdec4cf8e93296adf30a", 
+      "size": 1678
+    }, 
+    "res/Default/SliderNode_Press.png": {
+      "md5": "da245f28b1d67174cfe6d3fa3d933a97", 
+      "size": 1567
+    }, 
+    "res/Default/Slider_Back.png": {
+      "md5": "45c41c1910da4cda82b5a604eb664d39", 
+      "size": 1166
+    }, 
+    "res/Default/Slider_PressBar.png": {
+      "md5": "adf7de39246f474fcd29447672f8b66b", 
+      "size": 1087
+    }, 
+    "res/Default/Sprite.png": {
+      "md5": "380f19a83e69524450a3fc2b466dc275", 
+      "size": 1773
+    }, 
+    "res/Images26.plist": {
+      "md5": "6e314c6e4977cfd227b5de1b51df808a", 
+      "size": 11728
+    }, 
+    "res/Images26.png": {
+      "md5": "7c17826d6910d0f2488b6d1bc30e1ed1", 
+      "size": 521976
+    }, 
+    "res/LuaExtend.luac": {
+      "md5": "d7e4b05fa842ea5efa1ee337fc8352c9", 
+      "size": 1365
+    }, 
+    "res/config/GameTypeList.luac": {
+      "md5": "33fbb931c2862ec026db01df4d4c450a", 
+      "size": 5725
+    }, 
+    "res/config/RoomLevelList.luac": {
+      "md5": "e7d3cc145efc39f44b740c0eda6698f2", 
+      "size": 793
+    }, 
+    "res/config/bag_info_cfg.luac": {
+      "md5": "9d1f38a27d270d1d9c3083c2853f7a30", 
+      "size": 6125
+    }, 
+    "res/config/forceupdateconfig.luac": {
+      "md5": "45dd3de72046a114d839c42780d2caad", 
+      "size": 281
+    }, 
+    "res/config/ipconfig.luac": {
+      "md5": "d3075ec68234bbf74dd9715d1743db95", 
+      "size": 685
+    }, 
+    "res/config/shareConfig.luac": {
+      "md5": "6e3fa318420f647f7187255502d62035", 
+      "size": 461
+    }, 
+    "res/config/test/forceupdateconfig.luac": {
+      "md5": "14667f669d1016d72b8a2008048389e1", 
+      "size": 185
+    }, 
+    "res/config/test/version_info.json": {
+      "md5": "c7a46f2a2083af9b9cdf1fec6d314dd9", 
+      "size": 283
+    }, 
+    "res/config/version_info.json": {
+      "md5": "6f177c8b6b907ad71c7051c57c2ad228", 
+      "size": 221
+    }, 
+    "res/csbres/Dating_Spine/aijiduobao.atlas": {
+      "md5": "c7490bd68e6b52926ba6c46153044e37", 
+      "size": 1012
+    }, 
+    "res/csbres/Dating_Spine/aijiduobao.json": {
+      "md5": "a0d1f4ef99de8cd628f852287d04a6c2", 
+      "size": 10345
+    }, 
+    "res/csbres/Dating_Spine/aijiduobao.png": {
+      "md5": "7d2592aff90d6a2fd2b5a530aebfdfdb", 
+      "size": 27941
+    }, 
+    "res/csbres/Dating_Spine/baijiale.atlas": {
+      "md5": "cb59a102a1abb00a13f84446b6e38b01", 
+      "size": 707
+    }, 
+    "res/csbres/Dating_Spine/baijiale.json": {
+      "md5": "5298616d504b39a2b6b5713d497e9373", 
+      "size": 17090
+    }, 
+    "res/csbres/Dating_Spine/baijiale.png": {
+      "md5": "702a5e039807e6255eeb4dea0bd50cb7", 
+      "size": 74835
+    }, 
+    "res/csbres/Dating_Spine/beijing.atlas": {
+      "md5": "97a66d8cd4dcf73096991b816c5cdb07", 
+      "size": 4735
+    }, 
+    "res/csbres/Dating_Spine/beijing.json": {
+      "md5": "7827c728f223044b03bd14cb8bf2b952", 
+      "size": 54964
+    }, 
+    "res/csbres/Dating_Spine/beijing.png": {
+      "md5": "7202e7f7091e176ea43937c80bcaba40", 
+      "size": 183472
+    }, 
+    "res/csbres/Dating_Spine/binqiutupo.atlas": {
+      "md5": "a907c931c499acd3db7e37d1a66cadbd", 
+      "size": 805
+    }, 
+    "res/csbres/Dating_Spine/binqiutupo.json": {
+      "md5": "8f0757b7d8cd14774df55fd96c624d5d", 
+      "size": 11534
+    }, 
+    "res/csbres/Dating_Spine/binqiutupo.png": {
+      "md5": "b3d5b2596b3e1a6b2e6c666c47415d2d", 
+      "size": 89146
+    }, 
+    "res/csbres/Dating_Spine/chaoji777.atlas": {
+      "md5": "1f3223bfcbe3d59d7ec0ab7222fdf02c", 
+      "size": 980
+    }, 
+    "res/csbres/Dating_Spine/chaoji777.json": {
+      "md5": "27471304c44d8d32ca36bd5c999af11b", 
+      "size": 6605
+    }, 
+    "res/csbres/Dating_Spine/chaoji777.png": {
+      "md5": "e26fbf0737d665a357a3c425f85fe4fd", 
+      "size": 22678
+    }, 
+    "res/csbres/Dating_Spine/denglong.atlas": {
+      "md5": "5c98eef8a1f133330dc5d9aab77ab29f", 
+      "size": 554
+    }, 
+    "res/csbres/Dating_Spine/denglong.json": {
+      "md5": "481062ad26313447c8ed3cb3a967a4d0", 
+      "size": 18212
+    }, 
+    "res/csbres/Dating_Spine/denglong.png": {
+      "md5": "45bfa36bd82d11f3a20d2a1164c9727c", 
+      "size": 15788
+    }, 
+    "res/csbres/Dating_Spine/dizhu.atlas": {
+      "md5": "66402a4a0e0e1910f5974ea6cf9f1b4e", 
+      "size": 1416
+    }, 
+    "res/csbres/Dating_Spine/dizhu.json": {
+      "md5": "b138fd8166930206469246f85945b251", 
+      "size": 8598
+    }, 
+    "res/csbres/Dating_Spine/dizhu.png": {
+      "md5": "af5c9808f6cf6ae5097a64eef593d6ab", 
+      "size": 24112
+    }, 
+    "res/csbres/Dating_Spine/fumantang.atlas": {
+      "md5": "81358f832641569930224ea6c440f597", 
+      "size": 712
+    }, 
+    "res/csbres/Dating_Spine/fumantang.json": {
+      "md5": "c4043678ac1401b8cb5c8f4890c1ed58", 
+      "size": 21719
+    }, 
+    "res/csbres/Dating_Spine/fumantang.png": {
+      "md5": "4a728ccafd9adf365e360528feb76783", 
+      "size": 19476
+    }, 
+    "res/csbres/Dating_Spine/gongfuxiongmao.atlas": {
+      "md5": "fe38db102cbfbeaab24dbfb48db604d4", 
+      "size": 830
+    }, 
+    "res/csbres/Dating_Spine/gongfuxiongmao.json": {
+      "md5": "aee84690399835082d2210a06ee64fe9", 
+      "size": 14531
+    }, 
+    "res/csbres/Dating_Spine/gongfuxiongmao.png": {
+      "md5": "a6b15c6b110b24fe909315db95c3a46f", 
+      "size": 17657
+    }, 
+    "res/csbres/Dating_Spine/honghei.atlas": {
+      "md5": "8d9ce246374d372b5040906ade666428", 
+      "size": 535
+    }, 
+    "res/csbres/Dating_Spine/honghei.json": {
+      "md5": "92995f58ba164ebdd0dfd3d788c5e603", 
+      "size": 14227
+    }, 
+    "res/csbres/Dating_Spine/honghei.png": {
+      "md5": "112272d9ace6c92b19699b15b928a1db", 
+      "size": 18329
+    }, 
+    "res/csbres/Dating_Spine/huodongrenwu1.atlas": {
+      "md5": "e059d2c8a3b62bc04da84d6d6d703997", 
+      "size": 1404
+    }, 
+    "res/csbres/Dating_Spine/huodongrenwu1.json": {
+      "md5": "26bd8dccd2772bf089789dac1f73d6af", 
+      "size": 43443
+    }, 
+    "res/csbres/Dating_Spine/huodongrenwu1.png": {
+      "md5": "50d41627ab70c66daeaf9d5af576ff18", 
+      "size": 74388
+    }, 
+    "res/csbres/Dating_Spine/jinpingmei.atlas": {
+      "md5": "dcaa100e073a0992fccbbd2f2d198be1", 
+      "size": 1119
+    }, 
+    "res/csbres/Dating_Spine/jinpingmei.json": {
+      "md5": "df866011da4504b0fc55c6a0576b34c2", 
+      "size": 10718
+    }, 
+    "res/csbres/Dating_Spine/jinpingmei.png": {
+      "md5": "c79be5d91da61ab2668807a43b74e9c8", 
+      "size": 19915
+    }, 
+    "res/csbres/Dating_Spine/kansanzhang.atlas": {
+      "md5": "4277deee56171a98872e4212d6dee42d", 
+      "size": 979
+    }, 
+    "res/csbres/Dating_Spine/kansanzhang.json": {
+      "md5": "ef6cff41d22a256d0a1d8dbc20e36d9e", 
+      "size": 9197
+    }, 
+    "res/csbres/Dating_Spine/kansanzhang.png": {
+      "md5": "fe21644ef2d73699137c7c0fd58d2eec", 
+      "size": 20612
+    }, 
+    "res/csbres/Dating_Spine/longhudou.atlas": {
+      "md5": "0106e52919dd9c95989b9b861d9e60e3", 
+      "size": 1896
+    }, 
+    "res/csbres/Dating_Spine/longhudou.json": {
+      "md5": "b6c6ddcaac28aaa292526ecec800980a", 
+      "size": 48183
+    }, 
+    "res/csbres/Dating_Spine/longhudou.png": {
+      "md5": "5fe6d330e147e3edf1b05aa5528f413d", 
+      "size": 23377
+    }, 
+    "res/csbres/Dating_Spine/nniu.atlas": {
+      "md5": "e15919c1c01648dd4f6ae1da6a840fe1", 
+      "size": 923
+    }, 
+    "res/csbres/Dating_Spine/nniu.json": {
+      "md5": "706033b254daca46599fb9f7625d2485", 
+      "size": 18850
+    }, 
+    "res/csbres/Dating_Spine/nniu.png": {
+      "md5": "73bca7fd5ae5e44f5cf4d16e76d0ea18", 
+      "size": 20007
+    }, 
+    "res/csbres/Dating_Spine/pdk.atlas": {
+      "md5": "090afcfca291fcbf567692bb550f1d07", 
+      "size": 1056
+    }, 
+    "res/csbres/Dating_Spine/pdk.json": {
+      "md5": "398e5b45c60c7ba33528f4ae85336947", 
+      "size": 11630
+    }, 
+    "res/csbres/Dating_Spine/pdk.png": {
+      "md5": "df705af812f35960f054a81c697bbc37", 
+      "size": 18966
+    }, 
+    "res/csbres/Dating_Spine/qiangzhuangniuniu.atlas": {
+      "md5": "cf7da277dc1fc2251c3e47a870ec8a7b", 
+      "size": 622
+    }, 
+    "res/csbres/Dating_Spine/qiangzhuangniuniu.json": {
+      "md5": "7e17162f3ccda01363178ba871a4b271", 
+      "size": 5700
+    }, 
+    "res/csbres/Dating_Spine/qiangzhuangniuniu.png": {
+      "md5": "f34b8e11fb1405cf183b91de4731757f", 
+      "size": 16548
+    }, 
+    "res/csbres/Dating_Spine/ren.atlas": {
+      "md5": "e9d3c393519425709fd84b77a264f618", 
+      "size": 2047
+    }, 
+    "res/csbres/Dating_Spine/ren.json": {
+      "md5": "fde629b4554e0f47b811ba98e7fc9ac9", 
+      "size": 27328
+    }, 
+    "res/csbres/Dating_Spine/ren.png": {
+      "md5": "d1757a6f5332a6052185ea934a10c957", 
+      "size": 44636
+    }, 
+    "res/csbres/Dating_Spine/ririshengcai.atlas": {
+      "md5": "1bf657145d0fe7123b09e7bab77bd92e", 
+      "size": 547
+    }, 
+    "res/csbres/Dating_Spine/ririshengcai.json": {
+      "md5": "8fa0bb67242bb5078d37b6f04843850f", 
+      "size": 3669
+    }, 
+    "res/csbres/Dating_Spine/ririshengcai.png": {
+      "md5": "a45917eec0537065cc5ce7a0aa68e511", 
+      "size": 17569
+    }, 
+    "res/csbres/Dating_Spine/shuiguo777.atlas": {
+      "md5": "25335a6b7741a93bf8f9a8d38e099bd8", 
+      "size": 837
+    }, 
+    "res/csbres/Dating_Spine/shuiguo777.json": {
+      "md5": "b95d4008d1eb07efe546aac2e5760646", 
+      "size": 20661
+    }, 
+    "res/csbres/Dating_Spine/shuiguo777.png": {
+      "md5": "8850b91a483f8a5186ebfc60dad30d7d", 
+      "size": 20604
+    }, 
+    "res/csbres/Dating_Spine/tongbiniuniu.atlas": {
+      "md5": "f02ebe6bf5b88d71e76e8e37739f131d", 
+      "size": 1038
+    }, 
+    "res/csbres/Dating_Spine/tongbiniuniu.json": {
+      "md5": "1733a29ceeb72f709b90c73ded4f3fbc", 
+      "size": 12334
+    }, 
+    "res/csbres/Dating_Spine/tongbiniuniu.png": {
+      "md5": "06b7e5cd2f78f063f85a1f0a3b05b1b1", 
+      "size": 73694
+    }, 
+    "res/csbres/Dating_Spine/tongzi.atlas": {
+      "md5": "71da80118336b6b2ccbc95b5c770e28b", 
+      "size": 534
+    }, 
+    "res/csbres/Dating_Spine/tongzi.json": {
+      "md5": "69b3f9ec0d3bd70cb56e547dc27bbc23", 
+      "size": 5234
+    }, 
+    "res/csbres/Dating_Spine/tongzi.png": {
+      "md5": "996d1387acf28dca3a9ab9d14ce37c3c", 
+      "size": 19336
+    }, 
+    "res/csbres/Dating_Spine/yueguangbaohe.atlas": {
+      "md5": "625964d09b9a9867aee62a325eae1754", 
+      "size": 458
+    }, 
+    "res/csbres/Dating_Spine/yueguangbaohe.json": {
+      "md5": "7f938a92353d02a99d418f09f32456ff", 
+      "size": 2383
+    }, 
+    "res/csbres/Dating_Spine/yueguangbaohe.png": {
+      "md5": "03c6a5d3c4da555b6222d1bc027e11e1", 
+      "size": 15869
+    }, 
+    "res/csbres/Dating_Spine/zhajinhua.atlas": {
+      "md5": "12bf4a1afa8242dccc6e43c7b81fbb33", 
+      "size": 618
+    }, 
+    "res/csbres/Dating_Spine/zhajinhua.json": {
+      "md5": "8799274f5a244120e759a68a06e011e0", 
+      "size": 3880
+    }, 
+    "res/csbres/Dating_Spine/zhajinhua.png": {
+      "md5": "a2a82380c6293ff0f0877910de436239", 
+      "size": 27356
+    }, 
+    "res/csbres/Dating_Spine/zhaocaimao.atlas": {
+      "md5": "a6ab1c6b4a00c660bec4767ef9199bc7", 
+      "size": 847
+    }, 
+    "res/csbres/Dating_Spine/zhaocaimao.json": {
+      "md5": "e3e94350c9e3cc7d423eaaec1e38054d", 
+      "size": 8331
+    }, 
+    "res/csbres/Dating_Spine/zhaocaimao.png": {
+      "md5": "c220764f848c281cab729f294551f8cc", 
+      "size": 57713
+    }, 
+    "res/csbres/Dating_Spine/zjh.atlas": {
+      "md5": "01e367b6b43e3337da6ff86da6c218a6", 
+      "size": 612
+    }, 
+    "res/csbres/Dating_Spine/zjh.json": {
+      "md5": "2213a4e42eef390f5bb1c1d1c63c1ab7", 
+      "size": 4449
+    }, 
+    "res/csbres/Dating_Spine/zjh.png": {
+      "md5": "a2a82380c6293ff0f0877910de436239", 
+      "size": 27356
+    }, 
+    "res/csbres/Dating_effect/eff_quanpinglizi.plist": {
+      "md5": "e0fedef68f0e3778a1cd51ded3b256bd", 
+      "size": 2706
+    }, 
+    "res/csbres/Dating_effect/eff_quanpinglizi.png": {
+      "md5": "92aa08940f4f78a8b4d5bb0bff843e3d", 
+      "size": 3140
+    }, 
+    "res/csbres/Dating_effect/piaoxue1.plist": {
+      "md5": "a27378b60ec3a3220606af65e106d802", 
+      "size": 2697
+    }, 
+    "res/csbres/Dating_effect/piaoxue1.png": {
+      "md5": "87e2deb414011759b3e38893dd805597", 
+      "size": 1609
+    }, 
+    "res/csbres/Dating_effect/piaoxue2.plist": {
+      "md5": "efd84d70757643734539b1b9fc73db8e", 
+      "size": 2698
+    }, 
+    "res/csbres/Dating_effect/piaoxue2.png": {
+      "md5": "7f0822955601142628aa471de9d50c21", 
+      "size": 3233
+    }, 
+    "res/csbres/Dating_effect/tongyong_gold.plist": {
+      "md5": "ab27796771c473099db8b7a033e02acd", 
+      "size": 8292
+    }, 
+    "res/csbres/Dating_effect/tongyong_gold.png": {
+      "md5": "b76b826e59eecd2fcda20a5b7590dcc3", 
+      "size": 82933
+    }, 
+    "res/csbres/Dating_effect/tongyong_gold.xml": {
+      "md5": "b0754d516679b82a3b465f9f59956705", 
+      "size": 1297
+    }, 
+    "res/csbres/Dating_effect/v68_loading.plist": {
+      "md5": "630d49b3818a0d4594da587db4ea8b23", 
+      "size": 6372
+    }, 
+    "res/csbres/Dating_effect/v68_loading.png": {
+      "md5": "d370389562c0b61f0daaff664078a933", 
+      "size": 4643
+    }, 
+    "res/csbres/Dating_effect/v68_loading.xml": {
+      "md5": "aab1e1fefdd5b942504144de245e3c2f", 
+      "size": 1029
+    }, 
+    "res/csbres/Dating_effect/v68_yy_chongzhi.plist": {
+      "md5": "8deeb8835ebcb0104973775125b8747d", 
+      "size": 8809
+    }, 
+    "res/csbres/Dating_effect/v68_yy_chongzhi.png": {
+      "md5": "832a6e77772c31e609164a66d66e5dbc", 
+      "size": 483481
+    }, 
+    "res/csbres/Dating_effect/v68_yy_chongzhi.xml": {
+      "md5": "57185b28abc8d55a0ba0bad3f4782887", 
+      "size": 2255
+    }, 
+    "res/csbres/Dating_effect/v68_yy_youhui.plist": {
+      "md5": "f15aca9a8a65961b51f774105910c403", 
+      "size": 11063
+    }, 
+    "res/csbres/Dating_effect/v68_yy_youhui.png": {
+      "md5": "ad11853e9205e50b045f3afe4cb2b6a1", 
+      "size": 196275
+    }, 
+    "res/csbres/Dating_effect/v68_yy_youhui.xml": {
+      "md5": "c113b6ed8110ed2159b430a5f463c37c", 
+      "size": 2465
+    }, 
+    "res/csbres/Dating_effect/xinnian_liuguang.plist": {
+      "md5": "ffa19661678556f90f88df1013616dbc", 
+      "size": 6624
+    }, 
+    "res/csbres/Dating_effect/xinnian_liuguang.png": {
+      "md5": "bf7c70f30b7d53318e531b299183a5c7", 
+      "size": 39161
+    }, 
+    "res/csbres/Dating_effect/xinnian_liuguang.xml": {
+      "md5": "037ea41f2d4c813ca85b7096707f3235", 
+      "size": 1134
+    }, 
+    "res/csbres/Dating_effect/xinnian_yanhua1.plist": {
+      "md5": "01844d5bb59a9d776b5c3a742e3de3cc", 
+      "size": 6982
+    }, 
+    "res/csbres/Dating_effect/xinnian_yanhua1.png": {
+      "md5": "3688c5df020c28995f9fa7c5f551fc04", 
+      "size": 353717
+    }, 
+    "res/csbres/Dating_effect/xinnian_yanhua1.xml": {
+      "md5": "4ed71e1754c2248d21d75f76012dc14c", 
+      "size": 1081
+    }, 
+    "res/csbres/Dating_effect/xinnian_yanhua2.plist": {
+      "md5": "633a0dce46630ec4ccfed398a89cad4f", 
+      "size": 5541
+    }, 
+    "res/csbres/Dating_effect/xinnian_yanhua2.png": {
+      "md5": "3bbbdd20cf42c1c490c8e000f8bf5bc4", 
+      "size": 221728
+    }, 
+    "res/csbres/Dating_effect/xinnian_yanhua2.xml": {
+      "md5": "af9bd83d4e1b5c505c165f57fa96053c", 
+      "size": 910
+    }, 
+    "res/csbres/Poker_agentView.luac": {
+      "md5": "0eb0a2502002fb286c4a9b6ad28d4c0d", 
+      "size": 33513
+    }, 
+    "res/csbres/Poker_bangding.luac": {
+      "md5": "786a99caae48b5288a9b43aabe8bf981", 
+      "size": 75805
+    }, 
+    "res/csbres/Poker_bg_ajdb.luac": {
+      "md5": "2bbce3d467c210a2f7c082c78f7ffd62", 
+      "size": 36773
+    }, 
+    "res/csbres/Poker_bg_bqtp.luac": {
+      "md5": "d4293a8a63caec5e27c90199c0c012ae", 
+      "size": 36781
+    }, 
+    "res/csbres/Poker_bg_brnn.luac": {
+      "md5": "a4aa13bc96cda1300a4d286a09e71191", 
+      "size": 34293
+    }, 
+    "res/csbres/Poker_bg_cj777.luac": {
+      "md5": "6b1fee4a97e73619dac9f8756583e7c2", 
+      "size": 36813
+    }, 
+    "res/csbres/Poker_bg_ddz.luac": {
+      "md5": "c0cf2adbaafafdd05478baf26a888d87", 
+      "size": 36809
+    }, 
+    "res/csbres/Poker_bg_flm.luac": {
+      "md5": "56105bf655ccfb1ae8b5bb53bb167611", 
+      "size": 36809
+    }, 
+    "res/csbres/Poker_bg_jpm.luac": {
+      "md5": "73ef7b950926c3a2eecdfd9d1db41c96", 
+      "size": 36817
+    }, 
+    "res/csbres/Poker_bg_jtbw.luac": {
+      "md5": "8972ccb35bdd22a862819b096cbab15e", 
+      "size": 36809
+    }, 
+    "res/csbres/Poker_bg_pdk.luac": {
+      "md5": "4b8d466e96ad1dd86dc4328b5c1b1100", 
+      "size": 37181
+    }, 
+    "res/csbres/Poker_bg_qznn.luac": {
+      "md5": "89d68b0117246558c2e752ab4accda00", 
+      "size": 38033
+    }, 
+    "res/csbres/Poker_bg_qznnkp.luac": {
+      "md5": "3dd645f76878011ce9b49a1db1b00ba1", 
+      "size": 38045
+    }, 
+    "res/csbres/Poker_bg_rrsc.luac": {
+      "md5": "74d06bbe2e189c8216a4495d6ba2de3f", 
+      "size": 36817
+    }, 
+    "res/csbres/Poker_bg_sg777.luac": {
+      "md5": "03fc892dea239e69ae72353ae59e0a92", 
+      "size": 40105
+    }, 
+    "res/csbres/Poker_bg_tbnn.luac": {
+      "md5": "440d41feeff910190e0c2938c0b7721a", 
+      "size": 37969
+    }, 
+    "res/csbres/Poker_bg_ygbh.luac": {
+      "md5": "1ac94a9ff2063ba0795176839c3774de", 
+      "size": 36809
+    }, 
+    "res/csbres/Poker_bg_zjh.luac": {
+      "md5": "9c7ea476c0eb3cbb531381feaf73427d", 
+      "size": 38065
+    }, 
+    "res/csbres/Poker_dating.luac": {
+      "md5": "fc55297396bad7fa499e3dacc7c12c6e", 
+      "size": 264357
+    }, 
+    "res/csbres/Poker_game_record.luac": {
+      "md5": "4edf7feb17be27efbf22a98ed6d26f82", 
+      "size": 14309
+    }, 
+    "res/csbres/Poker_game_record_1.luac": {
+      "md5": "6a545ad307085a4d1e3630aac25b3f8f", 
+      "size": 11017
+    }, 
+    "res/csbres/Poker_genghuan.luac": {
+      "md5": "1297be3567eaee5889f2f9a53622129c", 
+      "size": 27101
+    }, 
+    "res/csbres/Poker_huantouxiang.luac": {
+      "md5": "c1f3abd1bfb3e28cd0491755fabf0cc6", 
+      "size": 35053
+    }, 
+    "res/csbres/Poker_jifen/jifen_33.png": {
+      "md5": "f6461e9ed28795a15a1557389ba9aedd", 
+      "size": 3980
+    }, 
+    "res/csbres/Poker_jifen/jifen_34.png": {
+      "md5": "5d3dabc2478ed8b431a0ca8db743f36a", 
+      "size": 3986
+    }, 
+    "res/csbres/Poker_jifen/jifen_bjl.png": {
+      "md5": "265a94b274c467c7cf8971f2420cd249", 
+      "size": 5687
+    }, 
+    "res/csbres/Poker_jifen/jifen_bqtp.png": {
+      "md5": "0becbd4b85bde6eeab84f4ce10d3378a", 
+      "size": 7600
+    }, 
+    "res/csbres/Poker_jifen/jifen_brnn.png": {
+      "md5": "a615d516ee96a07aa34e4439a1d8dc43", 
+      "size": 5910
+    }, 
+    "res/csbres/Poker_jifen/jifen_cj777.png": {
+      "md5": "f581329844703ec7543078a41dd89b61", 
+      "size": 6642
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_1.png": {
+      "md5": "4382ab2a54b4cc1494841aacf332a65e", 
+      "size": 4520
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_1_1.png": {
+      "md5": "bf2e8e082e620b4ca5e61f50a4c6cfab", 
+      "size": 4570
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_2.png": {
+      "md5": "2ae81f7c8d8bce57e1e2cf62496e2e34", 
+      "size": 4643
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_2_1.png": {
+      "md5": "49a9fbb05c0714b2109bf316375f1fc7", 
+      "size": 4670
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_3.png": {
+      "md5": "98fc7a2eec22722932cf91f87cd45c1a", 
+      "size": 4791
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_3_1.png": {
+      "md5": "527bfa69169698b9f0f1d31b1f7f3d44", 
+      "size": 4763
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_4.png": {
+      "md5": "bcc620a73329aa0eae978add6ed560de", 
+      "size": 4823
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_4_1.png": {
+      "md5": "f0960dd8b9e34674137f49602c8a6e33", 
+      "size": 4806
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_5.png": {
+      "md5": "43d7b459c9bbe52df9941d970f39ec09", 
+      "size": 4827
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_5_1.png": {
+      "md5": "7e90bafdb4322810da38e3ab432243d7", 
+      "size": 4841
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_6.png": {
+      "md5": "5d287c6da17c93352f3288c1625f33f3", 
+      "size": 4764
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_6_1.png": {
+      "md5": "ed663b5a106ba226d93067cd32cc2123", 
+      "size": 4835
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_7.png": {
+      "md5": "db5d638c373f2a70c91ef03693a63667", 
+      "size": 4881
+    }, 
+    "res/csbres/Poker_jifen/jifen_day_7_1.png": {
+      "md5": "a51e9764d071adeb5ed2effe1e8a6d59", 
+      "size": 4901
+    }, 
+    "res/csbres/Poker_jifen/jifen_ddz.png": {
+      "md5": "6c3ee6bfc9420e6c4a8b01347382b12e", 
+      "size": 5693
+    }, 
+    "res/csbres/Poker_jifen/jifen_fmt.png": {
+      "md5": "7f40f681600d0a890adb3cc7ebdb146a", 
+      "size": 5907
+    }, 
+    "res/csbres/Poker_jifen/jifen_gfxm.png": {
+      "md5": "c59c1c4e7840479c11dc758570992ed3", 
+      "size": 7146
+    }, 
+    "res/csbres/Poker_jifen/jifen_hhdz.png": {
+      "md5": "940b4c713509a40e9830646e246486b7", 
+      "size": 7000
+    }, 
+    "res/csbres/Poker_jifen/jifen_jpm.png": {
+      "md5": "690e00f6f6382a94a78e72b694034b55", 
+      "size": 6006
+    }, 
+    "res/csbres/Poker_jifen/jifen_kszqznn.png": {
+      "md5": "a4d282c98d85374aae73de876b5da140", 
+      "size": 7822
+    }, 
+    "res/csbres/Poker_jifen/jifen_lhz.png": {
+      "md5": "131b02fbbc9b5138ab9d51c219341b7c", 
+      "size": 6009
+    }, 
+    "res/csbres/Poker_jifen/jifen_meiri.png": {
+      "md5": "ef0f3b61e172603a7b81094afa8a8db8", 
+      "size": 6740
+    }, 
+    "res/csbres/Poker_jifen/jifen_meizhou.png": {
+      "md5": "c7f32207e7209d5b337a973127c5a887", 
+      "size": 6953
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_01.png": {
+      "md5": "5e4beafe6b424b76a288da4d64078236", 
+      "size": 6408
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_02.png": {
+      "md5": "ac91ebe1bb0f83241fe3391b7d188f19", 
+      "size": 7520
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_03.png": {
+      "md5": "1e0fbbd1889784a1fa7eb043f2da63bc", 
+      "size": 5208
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_04.png": {
+      "md5": "bf935730c5f2533b27c61bd7698969b7", 
+      "size": 3454
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_05.png": {
+      "md5": "3b01aeeb90c7d15ae226ace62d21bf3d", 
+      "size": 4534
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_06.png": {
+      "md5": "9c0fa3526a2dc11a2419bd0ddf9567ae", 
+      "size": 4008
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_07.png": {
+      "md5": "090c486381c3a3b1dcfe24e4a615f4a9", 
+      "size": 5032
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_08.png": {
+      "md5": "c0f843efd7e54bf29ec4be688863b89d", 
+      "size": 4234
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_09.png": {
+      "md5": "58ae9dbb70330a6df48ab331dd1b15df", 
+      "size": 5120
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_10.png": {
+      "md5": "65dc9454bcfcd168c8f4601f07cd954d", 
+      "size": 4399
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_11.png": {
+      "md5": "405cb8c12004a3d6443c20bb7ef2c069", 
+      "size": 4258
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_12.png": {
+      "md5": "f3dcf156ae39f41d2533dbf72a7accca", 
+      "size": 7773
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_13.png": {
+      "md5": "e3f0b8dcffda0be3fec148de17904887", 
+      "size": 3637
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_14.png": {
+      "md5": "67f66bebae0a3729c28c5754475cda8c", 
+      "size": 2899
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_15.png": {
+      "md5": "d739290e9922c1a3b4373d178197a83c", 
+      "size": 6533
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_16.png": {
+      "md5": "ae55ce5ea3de6613eb58b19a2806fbd4", 
+      "size": 5714
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_17.png": {
+      "md5": "444e299f4412f32538105e67238194eb", 
+      "size": 7281
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_18.png": {
+      "md5": "72ea7a77d8f9cc75095ac2c4bd9d0e37", 
+      "size": 12731
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_18_1.png": {
+      "md5": "bf754c861cb4a325292b82936a6f3d4f", 
+      "size": 8693
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_19.png": {
+      "md5": "f6a584b7f4458af114fa3d2546cc54ff", 
+      "size": 2925
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_20.png": {
+      "md5": "a7eca120051bc7f4bb740cea69774f1a", 
+      "size": 2395
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_21.png": {
+      "md5": "293477d1b5a9dd351e6c3455f1788908", 
+      "size": 2878
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_22.png": {
+      "md5": "4b7f910f84cd45ea460cf8a64bbe85e1", 
+      "size": 3252
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_23.png": {
+      "md5": "c864c176f418d78b8b97d89c53386988", 
+      "size": 3543
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_24.png": {
+      "md5": "11b25cdb8e18c47cdf3d6701f4869acd", 
+      "size": 7505
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_25.png": {
+      "md5": "8a3d22fdc4e9699f11d0b2c96c4d8ee8", 
+      "size": 3203
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_26.png": {
+      "md5": "23b9fc6963c13b41d292d8a903ee6e96", 
+      "size": 3150
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_27.png": {
+      "md5": "a97f9d2534b146dac1fc7b7c6662271b", 
+      "size": 9668
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_28.png": {
+      "md5": "732aa6e2e21433478d80ed18829d51e4", 
+      "size": 2463
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_29.png": {
+      "md5": "f8d7b8e39c1b4923f09f185b98e7db02", 
+      "size": 2247
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_30.png": {
+      "md5": "56cb8f43def8574d3e1402209ddb88aa", 
+      "size": 9302
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_31.png": {
+      "md5": "13249cde7b57fa659892bc1f5db2d513", 
+      "size": 3264
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_32.png": {
+      "md5": "61758cf406f573a8b77eed551a490f91", 
+      "size": 9187
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_35.png": {
+      "md5": "0e60199658965c57b8bebf98bc06ee62", 
+      "size": 16233
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_36.png": {
+      "md5": "e992176973bdde4e05d8e75615ad1a37", 
+      "size": 15784
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_37.png": {
+      "md5": "b8eaf1d6c4f1aa0cc1df01bdccf023a7", 
+      "size": 15830
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_38.png": {
+      "md5": "b39aa878e9f9f5bdfaa4ca3a98d4e17e", 
+      "size": 15515
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_39.png": {
+      "md5": "b84563a2031dc7346a557d28561cea28", 
+      "size": 5988
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_40.png": {
+      "md5": "a134ce83b8b639c8b6dacf9624d00403", 
+      "size": 6165
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_40_1.png": {
+      "md5": "4c966a63274a6a2f1a6064ee5353743d", 
+      "size": 6695
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_41.png": {
+      "md5": "30d2cb84b52fdbfa79f45c6e641b8af3", 
+      "size": 4238
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_42.png": {
+      "md5": "f4ff778b411d2240625e00b05b962dfd", 
+      "size": 3347
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_43.png": {
+      "md5": "1c5ccaf137aae924575d8ad4f160447f", 
+      "size": 6629
+    }, 
+    "res/csbres/Poker_jifen/jifen_pic_44.png": {
+      "md5": "7edde89bd4410abb579cfbd38375388c", 
+      "size": 8060
+    }, 
+    "res/csbres/Poker_jifen/jifen_qiandao_1.png": {
+      "md5": "b37077ed59fab92d413c5361972c5af9", 
+      "size": 8414
+    }, 
+    "res/csbres/Poker_jifen/jifen_qiandao_2.png": {
+      "md5": "35c380bd9042a978cb29324430a7679b", 
+      "size": 7293
+    }, 
+    "res/csbres/Poker_jifen/jifen_qiandao_3.png": {
+      "md5": "1f84533eef79e2639f1e835c906fefbf", 
+      "size": 17168
+    }, 
+    "res/csbres/Poker_jifen/jifen_qiandao_4.png": {
+      "md5": "2f000420941dfc2b7aafb9213c3c6e42", 
+      "size": 16247
+    }, 
+    "res/csbres/Poker_jifen/jifen_qznn.png": {
+      "md5": "ca58478e499167e6058ed7de73bf993b", 
+      "size": 6401
+    }, 
+    "res/csbres/Poker_jifen/jifen_rrsc.png": {
+      "md5": "8fc9207da7d8c9b9743ef0a99e213213", 
+      "size": 5977
+    }, 
+    "res/csbres/Poker_jifen/jifen_sg777.png": {
+      "md5": "8489b48638cd01967d90a92aaffa1784", 
+      "size": 6258
+    }, 
+    "res/csbres/Poker_jifen/jifen_tbnn.png": {
+      "md5": "607348c851339c61e46560e2939227ac", 
+      "size": 6435
+    }, 
+    "res/csbres/Poker_jifen/jifen_ttz.png": {
+      "md5": "8b49c6894c850d572c3de70b17056b36", 
+      "size": 5812
+    }, 
+    "res/csbres/Poker_jifen/jifen_ygbh.png": {
+      "md5": "b2884e28b843d1e706b92a9e295217e8", 
+      "size": 6478
+    }, 
+    "res/csbres/Poker_jifen/jifen_zjh.png": {
+      "md5": "c2aa52df31724b732fe63125b7b2743f", 
+      "size": 6220
+    }, 
+    "res/csbres/Poker_loading.luac": {
+      "md5": "1d4775124771700923d5aedab8034cf3", 
+      "size": 5965
+    }, 
+    "res/csbres/Poker_lobby_Ranklist.luac": {
+      "md5": "67389360c7230bc981857edb013e0fc0", 
+      "size": 54173
+    }, 
+    "res/csbres/Poker_lobby_data.luac": {
+      "md5": "7ebb628cf1d057e2c90d226ed26ce743", 
+      "size": 52941
+    }, 
+    "res/csbres/Poker_lobby_event_gonggao.luac": {
+      "md5": "542f482efcffe3cbc759e4a5c495acd2", 
+      "size": 29777
+    }, 
+    "res/csbres/Poker_lobby_jifen.luac": {
+      "md5": "3cc8d783f39fe81eb9735185b133614d", 
+      "size": 127685
+    }, 
+    "res/csbres/Poker_lobby_mail.luac": {
+      "md5": "34c39b07ca8fc0dd0e4dd7727820dbc4", 
+      "size": 46165
+    }, 
+    "res/csbres/Poker_lobby_mail_content.luac": {
+      "md5": "ebdebc7343ef648e6a67a6408ce5b806", 
+      "size": 31785
+    }, 
+    "res/csbres/Poker_lobby_money.luac": {
+      "md5": "3cc4a45909ef6fb3256fd21c2716a814", 
+      "size": 51421
+    }, 
+    "res/csbres/Poker_lobby_money_jilu.luac": {
+      "md5": "167a5e4a2fa3084f744a85612f2a207b", 
+      "size": 32685
+    }, 
+    "res/csbres/Poker_lobby_wallet.luac": {
+      "md5": "bfafcd963d68b398c05d28d34c5cb118", 
+      "size": 27685
+    }, 
+    "res/csbres/Poker_lobby_youhuiquan.luac": {
+      "md5": "ae71994bf733225d91f471c23064a673", 
+      "size": 65673
+    }, 
+    "res/csbres/Poker_login_chongzhi.luac": {
+      "md5": "0ad103b049f9c3ce0bf8ab2476bcf164", 
+      "size": 30053
+    }, 
+    "res/csbres/Poker_login_denglu.luac": {
+      "md5": "29ecbd2cec9ce5bc19ac4f36f763c804", 
+      "size": 24381
+    }, 
+    "res/csbres/Poker_login_loading.luac": {
+      "md5": "731198c904d516d71e8c34b241187195", 
+      "size": 13869
+    }, 
+    "res/csbres/Poker_login_main.luac": {
+      "md5": "c749c510fed93f64820b424b1b4aaeaa", 
+      "size": 14485
+    }, 
+    "res/csbres/Poker_login_tel.luac": {
+      "md5": "45f8afc30642780a1c519515f812c22e", 
+      "size": 26117
+    }, 
+    "res/csbres/Poker_login_update_main.luac": {
+      "md5": "fd5fa70c7a51c585e3862f9e24ba8af6", 
+      "size": 19777
+    }, 
+    "res/csbres/Poker_login_zhanghao.luac": {
+      "md5": "ca37c86d879bb91e949b53dfb2a0e57a", 
+      "size": 29633
+    }, 
+    "res/csbres/Poker_login_zhuce.luac": {
+      "md5": "856d0b2a80f747db91ea32d4c0166d58", 
+      "size": 28577
+    }, 
+    "res/csbres/Poker_mall_gold.luac": {
+      "md5": "d7bcb5a8fb9c40184807951f41369d23", 
+      "size": 64041
+    }, 
+    "res/csbres/Poker_msgbox.luac": {
+      "md5": "06c2b20283840ae9cc8c82596b99a928", 
+      "size": 13421
+    }, 
+    "res/csbres/Poker_msgboxtishi.luac": {
+      "md5": "8cb2fbc1eaf0a795f1970d28dc5a7740", 
+      "size": 27889
+    }, 
+    "res/csbres/Poker_net_loading.luac": {
+      "md5": "c565883659edaa61fa075ab1a94d01bf", 
+      "size": 6917
+    }, 
+    "res/csbres/Poker_newplayer.luac": {
+      "md5": "08744421f20e41ad3c86ef38f739e0c5", 
+      "size": 22481
+    }, 
+    "res/csbres/Poker_phone_bangding.luac": {
+      "md5": "b33c6cdad8c8942a6b723c9765f4827b", 
+      "size": 26153
+    }, 
+    "res/csbres/Poker_setting.luac": {
+      "md5": "356fa72290fa6cc0a175930a8e296069", 
+      "size": 26173
+    }, 
+    "res/csbres/Poker_shuoming.luac": {
+      "md5": "8f4b98b328e6f0bb998201414e3702b6", 
+      "size": 90965
+    }, 
+    "res/csbres/Poker_shuping.luac": {
+      "md5": "4a286a39803435221add9e0a218ef37c", 
+      "size": 9645
+    }, 
+    "res/csbres/Poker_tixian.luac": {
+      "md5": "58a0095ee4bdd2f77080e123caaf0117", 
+      "size": 39465
+    }, 
+    "res/csbres/Poker_vip.luac": {
+      "md5": "5df72633ce390093cc449cd8705a0c6c", 
+      "size": 42617
+    }, 
+    "res/csbres/Poker_webView.luac": {
+      "md5": "e54f04585e1b443f26d8da4804e8f82f", 
+      "size": 12089
+    }, 
+    "res/csbres/Poker_webview_shuping.luac": {
+      "md5": "23ec09d63c0949cb922e6241ea4517e5", 
+      "size": 12085
+    }, 
+    "res/csbres/Poker_yindao.luac": {
+      "md5": "4585fa88249b79d44a4f6750115cd58a", 
+      "size": 22021
+    }, 
+    "res/csbres/Poker_youhui.luac": {
+      "md5": "4270695025ed66be53c0f7f63da0441d", 
+      "size": 90969
+    }, 
+    "res/csbres/Poker_youhui_help.luac": {
+      "md5": "ad031bc95bb02c2ee7535fddbdebab86", 
+      "size": 27925
+    }, 
+    "res/csbres/font/v68_shuzi_jinbi_1.fnt": {
+      "md5": "00cdab109133980b8454be7145efd131", 
+      "size": 1555
+    }, 
+    "res/csbres/font/v68_shuzi_jinbi_1_0.png": {
+      "md5": "13b8d51238f8ea04c51ca87b4256608d", 
+      "size": 12933
+    }, 
+    "res/csbres/font/v68_shuzi_jinbi_2.fnt": {
+      "md5": "82285680d10638b1b8d67e33c1504883", 
+      "size": 1441
+    }, 
+    "res/csbres/font/v68_shuzi_jinbi_2_0.png": {
+      "md5": "8e871d6251fca8d2f8f5bc194fe6926c", 
+      "size": 5631
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_1.fnt": {
+      "md5": "d49cf3495435a087185104d8e0ed211e", 
+      "size": 1443
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_1_0.png": {
+      "md5": "3b20dd7e3e268b6236bd742a177888e2", 
+      "size": 16163
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_2.fnt": {
+      "md5": "1b3cc9f51e5bc827f9bb95834af8d298", 
+      "size": 1557
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_2_0.png": {
+      "md5": "c8f446b44a044acfa7984e162e9d8c26", 
+      "size": 11397
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_3.fnt": {
+      "md5": "3b38fce9fca1dd66709b18f71df4cfc4", 
+      "size": 1443
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_3_0.png": {
+      "md5": "7e262485baa8910bc1bd3be18922b92e", 
+      "size": 5939
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_4.fnt": {
+      "md5": "b3196c9ce878707c18e8d38825ec621d", 
+      "size": 1443
+    }, 
+    "res/csbres/font/v68_shuzi_paihang_4_0.png": {
+      "md5": "37d3f7c5e5a7fc5ef221ad156ae61caf", 
+      "size": 11585
+    }, 
+    "res/csbres/font/ziti.TTF": {
+      "md5": "3141350c6d8770e12ef6b2b03660d980", 
+      "size": 2499348
+    }, 
+    "res/csbres/ui_v68_agent/add.png": {
+      "md5": "24cef80b00aff2b9a28c5c08b575c620", 
+      "size": 585
+    }, 
+    "res/csbres/ui_v68_agent/agentback.png": {
+      "md5": "062ae7f41adb1b7c8263a101a9eca1eb", 
+      "size": 335
+    }, 
+    "res/csbres/ui_v68_agent/alipayBg.png": {
+      "md5": "2a8ec5260e3544c7e2b429bef3088938", 
+      "size": 2258
+    }, 
+    "res/csbres/ui_v68_agent/avdef.png": {
+      "md5": "d743a4627acec8bea0062d83d76bb9fd", 
+      "size": 3251
+    }, 
+    "res/csbres/ui_v68_agent/bluebt.png": {
+      "md5": "4ed6b66ee3f2bd586be9ac9a6b00b17d", 
+      "size": 228
+    }, 
+    "res/csbres/ui_v68_agent/btmdi.png": {
+      "md5": "fed038998f79cc491eb17b38cf49ea3f", 
+      "size": 107
+    }, 
+    "res/csbres/ui_v68_agent/chatk1.png": {
+      "md5": "2208dd988ecad290debe867426838f91", 
+      "size": 186
+    }, 
+    "res/csbres/ui_v68_agent/chatk11.png": {
+      "md5": "762b4fd0ff2c2b1d48bc103df61aa07b", 
+      "size": 403
+    }, 
+    "res/csbres/ui_v68_agent/chatk2.png": {
+      "md5": "903612bd18ce90011e70fcffbf42883d", 
+      "size": 182
+    }, 
+    "res/csbres/ui_v68_agent/chatk22.png": {
+      "md5": "3769d5b1881f47debe0d14ee67a65876", 
+      "size": 398
+    }, 
+    "res/csbres/ui_v68_agent/comfirmbg.png": {
+      "md5": "7026347228f3377cb703d3abd3a2eeba", 
+      "size": 1321
+    }, 
+    "res/csbres/ui_v68_agent/emjo.png": {
+      "md5": "29f9489216fd3a9882eda579a1fcf28e", 
+      "size": 833
+    }, 
+    "res/csbres/ui_v68_agent/hb.png": {
+      "md5": "d0a37831efc3c18b76be2e7cc9a312fc", 
+      "size": 1437
+    }, 
+    "res/csbres/ui_v68_agent/infobg.png": {
+      "md5": "9591b66fc6b76244d3f3cb8f3e8c5370", 
+      "size": 83
+    }, 
+    "res/csbres/ui_v68_agent/inputbg.png": {
+      "md5": "a1c7c025cf8f5d65f55f0000681bc9d3", 
+      "size": 406
+    }, 
+    "res/csbres/ui_v68_agent/jt.png": {
+      "md5": "8895a3e6c1332a9bb2070e4142eef188", 
+      "size": 3285
+    }, 
+    "res/csbres/ui_v68_agent/keyboard.png": {
+      "md5": "eb2bbfdb82f5e000d432b897de36122d", 
+      "size": 594
+    }, 
+    "res/csbres/ui_v68_agent/redbt.png": {
+      "md5": "656dd018851a93e13063f61e1daedd05", 
+      "size": 1196
+    }, 
+    "res/csbres/ui_v68_agent/ui_v68_emoji.plist": {
+      "md5": "309649ce252c998cbf6513f2f2f67235", 
+      "size": 34635
+    }, 
+    "res/csbres/ui_v68_agent/ui_v68_emoji.png": {
+      "md5": "470223724cf6c17f759530cdac4d26a8", 
+      "size": 127314
+    }, 
+    "res/csbres/ui_v68_agent/wx.png": {
+      "md5": "96fcf201c2c7eeb2838f113ff8647554", 
+      "size": 2026
+    }, 
+    "res/csbres/ui_v68_agent/wxBh.png": {
+      "md5": "270f5656dea96a2985cb62ad3b800488", 
+      "size": 2290
+    }, 
+    "res/csbres/ui_v68_agent/xx.png": {
+      "md5": "0f9c0c5bab75da7bc55431c154b35ef3", 
+      "size": 3516
+    }, 
+    "res/csbres/ui_v68_agent/yhk.png": {
+      "md5": "8ab23024a77fcd7204875e4a285a6b33", 
+      "size": 3410
+    }, 
+    "res/csbres/ui_v68_agent/yhkbg.png": {
+      "md5": "b131ed8b56300e9565ce2d996c85837b", 
+      "size": 1834
+    }, 
+    "res/csbres/ui_v68_agent/yq001.png": {
+      "md5": "2c1fdeb30a60050451dfe8fd2cc0dc62", 
+      "size": 737
+    }, 
+    "res/csbres/ui_v68_agent/yq002.png": {
+      "md5": "c47fe9dece693b1f7a375d7da9bb7f13", 
+      "size": 956
+    }, 
+    "res/csbres/ui_v68_agent/zfb.png": {
+      "md5": "78559bb627fd863a620ecf0f77f94870", 
+      "size": 2044
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_01.png": {
+      "md5": "abde680deb17c10dcb12901aa973c910", 
+      "size": 2421
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_02.png": {
+      "md5": "e2bb0629677a3ca98fc39909f2d8021a", 
+      "size": 2516
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_03.png": {
+      "md5": "7cf73f687891060fab38e0d235dbcde6", 
+      "size": 2345
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_04.png": {
+      "md5": "abfdd3a8fe7173077b44fa4b80a0e432", 
+      "size": 2273
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_05.png": {
+      "md5": "1515970b8102a59f59f158d5820df903", 
+      "size": 2482
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_06.png": {
+      "md5": "848867e0827a4bd26203296133a2c3cb", 
+      "size": 2487
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_07.png": {
+      "md5": "621d636b8467174015c4cca8eb0cee5c", 
+      "size": 46518
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_08.png": {
+      "md5": "3137db9cb8f9425f67ef1edfd953e04c", 
+      "size": 47004
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_09.png": {
+      "md5": "bf025695d0adb0e3ad0b5acc1140d72b", 
+      "size": 40370
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_10.png": {
+      "md5": "02086c2d42ee3d38032aee6e16a90042", 
+      "size": 39854
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_100.png": {
+      "md5": "ddaf072ad3cddea3ed8489c026f691b6", 
+      "size": 37475
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_101.png": {
+      "md5": "c43449378548acf635af81d02b076bd0", 
+      "size": 37606
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_102.png": {
+      "md5": "96d205be049e4a52aa17413597d9c237", 
+      "size": 34697
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_103.png": {
+      "md5": "ab1851058beba375d5bd086093a84204", 
+      "size": 35381
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_104.png": {
+      "md5": "78ba49f6ae15d803e38e1df34636a189", 
+      "size": 39946
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_105.png": {
+      "md5": "3b52d8434796392d2ff02e016f08f58f", 
+      "size": 41408
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_106.png": {
+      "md5": "061674b3d782b160c19687b8cc0689e6", 
+      "size": 2992
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_107.png": {
+      "md5": "c9a1bd62e5146f513581920fc8e3d91d", 
+      "size": 33897
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_108.png": {
+      "md5": "3408a6d495ab01fcf197b4642e4a0912", 
+      "size": 33297
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_109.png": {
+      "md5": "a837a3a52284e145d0a70cbf5d598805", 
+      "size": 36969
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_11.png": {
+      "md5": "5a39bdfc9308012bf4b7126a88d652cf", 
+      "size": 39593
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_110.png": {
+      "md5": "c3ada2fff4719f60f2e656fe7b865566", 
+      "size": 38423
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_111.png": {
+      "md5": "8957fd14c1712623a4f38da043297bff", 
+      "size": 36084
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_112.png": {
+      "md5": "8964796861bfeee1be8cf968e90984dd", 
+      "size": 37291
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_113.png": {
+      "md5": "effb762b258f8a7e5b5b3a52b022e323", 
+      "size": 42644
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_114.png": {
+      "md5": "0dc154f8285c6b2cc467b6d335cf4e65", 
+      "size": 43519
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_115.png": {
+      "md5": "0486dadfbeabdfed750296c67f7124b3", 
+      "size": 2967
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_116.png": {
+      "md5": "f5c25832ca0c4946663a815d017d267f", 
+      "size": 4170
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_117.png": {
+      "md5": "d18fbb098e5ef45b3fd45abdc87cfc43", 
+      "size": 36314
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_118.png": {
+      "md5": "952883a1ab8197138cdc9e6e39dc65a6", 
+      "size": 36859
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_119.png": {
+      "md5": "721f321a5787c8d6e2aae3d149b2f921", 
+      "size": 36093
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_12.png": {
+      "md5": "11c84da00f0b1dc2e71d6ec1b864b16c", 
+      "size": 38259
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_120.png": {
+      "md5": "3725cda91b7892f4ccfb976a8416ca5c", 
+      "size": 36289
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_121.png": {
+      "md5": "2809450aa774e7654c1df2a1cb9da718", 
+      "size": 28294
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_122.png": {
+      "md5": "6b87e96087ea33a3caec428847b72c4d", 
+      "size": 29387
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_123.png": {
+      "md5": "5eb07a243d5ac7d7f043422203460021", 
+      "size": 35198
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_124.png": {
+      "md5": "f2c55d38ef3786deaf2144f3415a25f9", 
+      "size": 36018
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_13.png": {
+      "md5": "38e826459e7887cff22a6453ac5433a5", 
+      "size": 38838
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_14.png": {
+      "md5": "61f96d68ce155b2c86ab5e643b866f16", 
+      "size": 39459
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_15.png": {
+      "md5": "54e3a2fa75bb6a5f60ffeae49f150f89", 
+      "size": 37980
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_16.png": {
+      "md5": "87eede7f58cb256f490e594e87b8672a", 
+      "size": 38442
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_17.png": {
+      "md5": "46f2b4b97b393072878a6268a13d97e4", 
+      "size": 2735
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_18.png": {
+      "md5": "d52c16866965c0d3bcbf29712d2cbced", 
+      "size": 29474
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_19.png": {
+      "md5": "7813a4c936017252138c6bd60109d073", 
+      "size": 32056
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_20.png": {
+      "md5": "e21654016faecce8a5d36541c76ecb66", 
+      "size": 37052
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_21.png": {
+      "md5": "e62aad78a5dcc40262cdbf1ee2b3a3c9", 
+      "size": 36045
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_22.png": {
+      "md5": "19afd4ab1853d6d6eeeddbe82f09c1cf", 
+      "size": 32262
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_23.png": {
+      "md5": "4dd34b48723925332b686ebd8f3b034f", 
+      "size": 32063
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_24.png": {
+      "md5": "f384804ca66c1296490078d3aa437863", 
+      "size": 32543
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_25.png": {
+      "md5": "c06f5269ff1a87214f2131cdef137194", 
+      "size": 32331
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_26.png": {
+      "md5": "6a0d5cde6901a60ccd46b5e69c2753c4", 
+      "size": 37844
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_27.png": {
+      "md5": "c17b014f7a4481fccfa244195934aff1", 
+      "size": 38411
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_28.png": {
+      "md5": "ab4b11259a397c661a2301e9c2d0ee50", 
+      "size": 42176
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_29.png": {
+      "md5": "192819ecc30732c72ffbcf8645e2dae0", 
+      "size": 42417
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_30.png": {
+      "md5": "7e9cfb24b46c4bb604e5320a88653530", 
+      "size": 41265
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_31.png": {
+      "md5": "fee97691a98dc60ba7578a130a385256", 
+      "size": 41567
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_32.png": {
+      "md5": "cf7f3d2d0762778b5c190eede29ba2d7", 
+      "size": 45730
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_33.png": {
+      "md5": "72373776f2b94e9376dc75f822cab3e8", 
+      "size": 47561
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_34.png": {
+      "md5": "4db899dbf40a20ad36e508365c9a9bb6", 
+      "size": 2794
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_35.png": {
+      "md5": "0fdaccb6fbf14ff87ce81c86f23a967c", 
+      "size": 3437
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_36.png": {
+      "md5": "fb2c39a5f2f9aeb46451b375d5157d84", 
+      "size": 42807
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_37.png": {
+      "md5": "de13deba88bbde3cac0722bd78205625", 
+      "size": 44148
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_38.png": {
+      "md5": "e5bf47631e403e3b703b251be0601592", 
+      "size": 33715
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_39.png": {
+      "md5": "c5b2b48827e22bf7df02a4b53d906d37", 
+      "size": 33907
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_40.png": {
+      "md5": "df0c7b5bad376395384c577dda06ee8e", 
+      "size": 35841
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_41.png": {
+      "md5": "77a05ad0656ee0f5607c62fd2b21b6cb", 
+      "size": 37497
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_42.png": {
+      "md5": "59d74f32f7713205a435fd6afdff3160", 
+      "size": 34305
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_43.png": {
+      "md5": "aa16e398802a1801e3ab0188701608d1", 
+      "size": 33906
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_44.png": {
+      "md5": "b104ac85c0a80bb289a845ef99fb9bc1", 
+      "size": 3124
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_45.png": {
+      "md5": "508f649698d62ef12c2eb6c09f02f21b", 
+      "size": 32111
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_46.png": {
+      "md5": "462d8832bf03e72252d7ac9a73028955", 
+      "size": 32761
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_47.png": {
+      "md5": "c26ca7225efdea00df1c59c328179c93", 
+      "size": 34443
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_48.png": {
+      "md5": "d03c4627fa308cd51b433d2adc2db895", 
+      "size": 35157
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_49.png": {
+      "md5": "f47a735c44095a1f8506491395a07eb0", 
+      "size": 31210
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_50.png": {
+      "md5": "3bb9256002dbb593ec41fbfe66a2d141", 
+      "size": 31975
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_51.png": {
+      "md5": "c28ed8b1093489e00b6f426791ce02e6", 
+      "size": 34672
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_52.png": {
+      "md5": "42f5f03136ba57888fd8f33e6fad2220", 
+      "size": 36606
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_53.png": {
+      "md5": "9f6fd18be87fe682eebe698e13d9f307", 
+      "size": 36883
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_54.png": {
+      "md5": "ab77f6ee1c892159e2a01062b4e9b182", 
+      "size": 35562
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_55.png": {
+      "md5": "5a9828b448f3cf31a9f4e49bc25a1fdd", 
+      "size": 35220
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_56.png": {
+      "md5": "6a613d3c2c5bf210000f336b005961bb", 
+      "size": 34700
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_57.png": {
+      "md5": "23371c8d67b5776b9f96a0f6abba1789", 
+      "size": 36344
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_58.png": {
+      "md5": "4c7241f5e68c1fe2a2e0f35d6fde1de0", 
+      "size": 34046
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_59.png": {
+      "md5": "6838275d8f2d9cffbdf69cf4ecf31baa", 
+      "size": 40348
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_60.png": {
+      "md5": "559b1b145e97a5fdf0535226efc7f9b8", 
+      "size": 39391
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_61.png": {
+      "md5": "c6845c12025a872bfb6509e9b351ce38", 
+      "size": 2834
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_62.png": {
+      "md5": "48cad4bf2e44dd0a72e2566bdd5b03f9", 
+      "size": 32711
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_63.png": {
+      "md5": "5575f64d48ce47a2351da50f1abb135d", 
+      "size": 33880
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_64.png": {
+      "md5": "854ed7c8216d09b112d8d876b2de1e7e", 
+      "size": 31625
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_65.png": {
+      "md5": "bf67126e3561720743a565e547da4c54", 
+      "size": 32117
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_66.png": {
+      "md5": "0680ae0004158f933c7a348082a380eb", 
+      "size": 30546
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_67.png": {
+      "md5": "2fed19ce1495cc53319fd8dda63c4c70", 
+      "size": 30504
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_68.png": {
+      "md5": "7a268703e92de6fa539635ae0390dfe0", 
+      "size": 35276
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_69.png": {
+      "md5": "fac9120038c20d83c193ee8ab9cf0712", 
+      "size": 34567
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_70.png": {
+      "md5": "91ee441c94e579d5f15a7fc19731c5bb", 
+      "size": 2898
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_71.png": {
+      "md5": "a04c609747989ebcc7525fca5fa22a30", 
+      "size": 27353
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_72.png": {
+      "md5": "95cb78befc7f8a2074c7a899d660859f", 
+      "size": 29958
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_73.png": {
+      "md5": "49a643c6a41ec4aaffc32f14d1067bb1", 
+      "size": 35596
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_74.png": {
+      "md5": "7b9380ad12241678fe607d688ca89696", 
+      "size": 36655
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_75.png": {
+      "md5": "790141fcf65a21e0c7d6e915fc59ac19", 
+      "size": 33894
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_76.png": {
+      "md5": "ec14ca165ea924d464e14600b5feea13", 
+      "size": 34712
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_77.png": {
+      "md5": "8a483b926be32c3ef6e0f6249d9328d7", 
+      "size": 45168
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_78.png": {
+      "md5": "46d4f4eef4e374c2ee0543930904f1c6", 
+      "size": 45227
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_79.png": {
+      "md5": "07a048ba58b301c56ab4f92c933105b4", 
+      "size": 3197
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_80.png": {
+      "md5": "195ee551381bf8a49a475c49f41c4db1", 
+      "size": 39676
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_81.png": {
+      "md5": "3ca7d2032cd92a72c7d379fc3b7f793a", 
+      "size": 40434
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_82.png": {
+      "md5": "98e97db5135aa6853d54ab482bb422e5", 
+      "size": 43660
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_83.png": {
+      "md5": "344bb46e5ce6c17c96777309932e477a", 
+      "size": 43410
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_84.png": {
+      "md5": "3291b6098cac27d3f0c442aaf89c9c52", 
+      "size": 39927
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_85.png": {
+      "md5": "291ea56baac6bbdee2bfdbe5b7134266", 
+      "size": 41420
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_86.png": {
+      "md5": "8de4cb1170e8a9e13748780930339823", 
+      "size": 36787
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_87.png": {
+      "md5": "d05f122bae0bd343221bc3aee2c1142e", 
+      "size": 36448
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_88.png": {
+      "md5": "28548fed3c60114fc21fbdf87450e6e0", 
+      "size": 2820
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_89.png": {
+      "md5": "021fa469f19ae38e03b890c091dd5144", 
+      "size": 30741
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_90.png": {
+      "md5": "531603fc8edc0a07e3735588178dda6e", 
+      "size": 32356
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_91.png": {
+      "md5": "b1aeaec521dd1b03f2fc63266dbb3222", 
+      "size": 32270
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_92.png": {
+      "md5": "6cae7d2976609a89d328455bdff662f2", 
+      "size": 33279
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_93.png": {
+      "md5": "0830a9d5a813d74026320617a3716900", 
+      "size": 34070
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_94.png": {
+      "md5": "5ccb61ce96c1140d9076341d8572c672", 
+      "size": 35852
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_95.png": {
+      "md5": "ca7bf83c6fb38efbe924108a098a8ba2", 
+      "size": 36020
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_96.png": {
+      "md5": "485edd1b2aa103a48307f30ff22b27a4", 
+      "size": 35976
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_97.png": {
+      "md5": "785a1e08a2512f897011d285df13c750", 
+      "size": 3143
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_98.png": {
+      "md5": "8172191ff9253b1bee39f66d443c350b", 
+      "size": 35189
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_99.png": {
+      "md5": "033601bc51d3498376bef5199eb4a333", 
+      "size": 34618
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_help1.png": {
+      "md5": "2441e01af7f4a881f5742f0fdfd00575", 
+      "size": 7987
+    }, 
+    "res/csbres/ui_v68_changci/v68_changci_help2.png": {
+      "md5": "77f2cac00e270f5eea16a17fcddb30da", 
+      "size": 7694
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_anbtn_01.png": {
+      "md5": "e2ed44e001dbe81cb40cbde865e0c7ed", 
+      "size": 1500
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_anbtn_02.png": {
+      "md5": "8a11b4c6c72a9abf4cbf395e5d6201ee", 
+      "size": 1808
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_anbtn_03.png": {
+      "md5": "40f31325bfba492d1cacec2a97b68f2d", 
+      "size": 1822
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz01.png": {
+      "md5": "74f54b2bf0d547bf246d5331502e4922", 
+      "size": 5192
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz02.png": {
+      "md5": "b599997b8385003ed11a12dc6d20653f", 
+      "size": 5320
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz03.png": {
+      "md5": "7f41f19bfe79953b842b94269bc678e2", 
+      "size": 5107
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz04.png": {
+      "md5": "d43931d8048d7bdc730f72084b9f0d8b", 
+      "size": 5343
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz05.png": {
+      "md5": "a59cce8bd42c309d20fc9b0c0b54c7d0", 
+      "size": 5467
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz06.png": {
+      "md5": "3a42e61b5988cdde730e24e9caa55c80", 
+      "size": 5585
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz07.png": {
+      "md5": "f1223da57c6a37ed33cf76405e60ef08", 
+      "size": 5676
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz08.png": {
+      "md5": "59f41b62eb113219c8d4c516eaa72363", 
+      "size": 5579
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz09.png": {
+      "md5": "0064536124c1532db9cb526c683f9de3", 
+      "size": 803
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz09_1.png": {
+      "md5": "2f5424cf35ceebe84931116626770b3c", 
+      "size": 822
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz10.png": {
+      "md5": "13bb71a0df23b9aa89846549dc6402f3", 
+      "size": 3087
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz11.png": {
+      "md5": "da9ee9adb32081eb123d91e5df264bdc", 
+      "size": 178
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz12.png": {
+      "md5": "8cf33fde99bf41bd00351ae4e3066a57", 
+      "size": 5419
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz13.png": {
+      "md5": "b58095bddf8cfc62472526cce8e8f8c9", 
+      "size": 2961
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz14.png": {
+      "md5": "619b547942c07f29d1fed06abdcf50c0", 
+      "size": 3681
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz15.png": {
+      "md5": "bf55cd6299183897378f1643749c36c7", 
+      "size": 15840
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz16.png": {
+      "md5": "bfbb5af6d270f48736a88e515bc79e55", 
+      "size": 458
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz17.png": {
+      "md5": "4e210d2a584a148c09ba5ea4821fefd4", 
+      "size": 2906
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz18.png": {
+      "md5": "04f43b9d8bc22efe4461a33ab1373b31", 
+      "size": 2941
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz19.png": {
+      "md5": "ed2eab78b3bfffb0ab8d096b949a25ad", 
+      "size": 8952
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz20.png": {
+      "md5": "08810e848d8c0935c13e518203200f9e", 
+      "size": 4881
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz21.png": {
+      "md5": "e24abb279deb3a94df80b8851fbb5250", 
+      "size": 8073
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz22.png": {
+      "md5": "007a75d6af2c27e266aa59da22d4f38e", 
+      "size": 4220
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz23.png": {
+      "md5": "70b20088cd2b336239cff4c0c5077211", 
+      "size": 2662
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_cz24.png": {
+      "md5": "d11a86ce9ba69905c40545ddcdc38c11", 
+      "size": 2597
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_1.png": {
+      "md5": "b63aa1d3800204d4baadbbce96561609", 
+      "size": 2893
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_10.png": {
+      "md5": "8848e49df70f0b9361f4bac11ba2f892", 
+      "size": 2901
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_11.png": {
+      "md5": "026ab4b1be105e7b73f39ba45114fc7d", 
+      "size": 2695
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_12.png": {
+      "md5": "b2cf4d71a99c84a7e8494b187b2fa699", 
+      "size": 2827
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_2.png": {
+      "md5": "cde7401bb3b0b39619e36f2bd8232867", 
+      "size": 2954
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_3.png": {
+      "md5": "445627cf6a8a246820c4384c64053572", 
+      "size": 2814
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_4.png": {
+      "md5": "a9d79e9672f17554d739d88980ac1a00", 
+      "size": 2934
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_5.png": {
+      "md5": "56d1dc320fa959c4520bffe4a899c38e", 
+      "size": 2893
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_6.png": {
+      "md5": "8fde94f4398e06df1e3173a65949d775", 
+      "size": 2161
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_7.png": {
+      "md5": "d7763ff71eec2ab3b36e66ef1f993a5c", 
+      "size": 2842
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_8.png": {
+      "md5": "8b17a783f37931d09ef67482c1462cde", 
+      "size": 2614
+    }, 
+    "res/csbres/ui_v68_chongzhi/ui_v68_tx_9.png": {
+      "md5": "1ab1b71d4a0402b1228c97e56ae87993", 
+      "size": 2893
+    }, 
+    "res/csbres/ui_v68_data/input.png": {
+      "md5": "d5b5dbaacd5832ae21fe06d1f21d69b3", 
+      "size": 2798
+    }, 
+    "res/csbres/ui_v68_data/ui_data_01.png": {
+      "md5": "556b8d1dc614d1c542cca2c812a1b5d7", 
+      "size": 5641
+    }, 
+    "res/csbres/ui_v68_data/ui_data_02.png": {
+      "md5": "9c0dd3c39c7b97ccfdd7f58dc61e716a", 
+      "size": 5597
+    }, 
+    "res/csbres/ui_v68_data/ui_data_03.png": {
+      "md5": "3ceb725d2294bdf5e3914361b9609814", 
+      "size": 4516
+    }, 
+    "res/csbres/ui_v68_data/ui_data_04.png": {
+      "md5": "23ea317a145ce79542f947a10993a0cc", 
+      "size": 14569
+    }, 
+    "res/csbres/ui_v68_data/ui_data_05.png": {
+      "md5": "bfab262d395a64ad555b65f9f5630700", 
+      "size": 19498
+    }, 
+    "res/csbres/ui_v68_data/ui_data_06.png": {
+      "md5": "d2893c30d7daaab94fb0ad6a86e68d54", 
+      "size": 4843
+    }, 
+    "res/csbres/ui_v68_data/ui_data_07.png": {
+      "md5": "f604d91067e32c1e7eb3b706688ccead", 
+      "size": 5690
+    }, 
+    "res/csbres/ui_v68_data/ui_data_08.png": {
+      "md5": "415ebf7730275a53c78e4fb979b703c9", 
+      "size": 1967
+    }, 
+    "res/csbres/ui_v68_data/ui_data_09.png": {
+      "md5": "68ae16bfde5a76fa4f726324fbf1d5be", 
+      "size": 2086
+    }, 
+    "res/csbres/ui_v68_data/ui_data_10.png": {
+      "md5": "80732324c850f80bdc5d1650f2812fb9", 
+      "size": 1988
+    }, 
+    "res/csbres/ui_v68_data/ui_data_11.png": {
+      "md5": "5125598bffdf6c54fa3498d2e6102f57", 
+      "size": 2458
+    }, 
+    "res/csbres/ui_v68_data/ui_data_12.png": {
+      "md5": "9548a0e4ecd41135436ef61a3b709b16", 
+      "size": 2604
+    }, 
+    "res/csbres/ui_v68_data/ui_data_15.png": {
+      "md5": "4bb628eb5a0c911f2a118407ea8417d9", 
+      "size": 428
+    }, 
+    "res/csbres/ui_v68_data/ui_data_16.png": {
+      "md5": "184435711875b80be05749e585f2f4b4", 
+      "size": 2167
+    }, 
+    "res/csbres/ui_v68_data/ui_data_17.png": {
+      "md5": "2d446eb6cabf1a38f9317eb1a3fda03d", 
+      "size": 31393
+    }, 
+    "res/csbres/ui_v68_data/ui_data_18.png": {
+      "md5": "5105d9c20109b88142aeda746b1b5a53", 
+      "size": 1934
+    }, 
+    "res/csbres/ui_v68_data/ui_data_19.png": {
+      "md5": "7f303b743e237c9a2517e0f8072785cc", 
+      "size": 912
+    }, 
+    "res/csbres/ui_v68_data/ui_data_20.png": {
+      "md5": "4943dd4258b4199e69460d472a9debd7", 
+      "size": 3691
+    }, 
+    "res/csbres/ui_v68_data/ui_data_21.png": {
+      "md5": "fd33020190422b97fe1738b01cd295d5", 
+      "size": 4016
+    }, 
+    "res/csbres/ui_v68_data/ui_data_22.png": {
+      "md5": "349e39467eaf5656524120e1aebfc302", 
+      "size": 14923
+    }, 
+    "res/csbres/ui_v68_data/ui_data_23.png": {
+      "md5": "ab8b625dfc4fc6878c4f2737b271eb6a", 
+      "size": 14517
+    }, 
+    "res/csbres/ui_v68_data/ui_data_24.png": {
+      "md5": "89900384666ff897c8efdddaad5c06b1", 
+      "size": 4717
+    }, 
+    "res/csbres/ui_v68_data/ui_data_25.png": {
+      "md5": "2a3d5a7c40b841fac6845938f6485980", 
+      "size": 4719
+    }, 
+    "res/csbres/ui_v68_data/ui_data_26.png": {
+      "md5": "687f2c7b7d3c91852d3c81fc6741bb85", 
+      "size": 4480
+    }, 
+    "res/csbres/ui_v68_data/ui_data_27.png": {
+      "md5": "bab48b01c2296861016e223033686655", 
+      "size": 4628
+    }, 
+    "res/csbres/ui_v68_data/ui_data_28.png": {
+      "md5": "e67e368ad7a3d931a9278c86605fa1a8", 
+      "size": 1996
+    }, 
+    "res/csbres/ui_v68_data/ui_data_29.png": {
+      "md5": "5bc00d3cfa91582726597d997fc3fbba", 
+      "size": 46275
+    }, 
+    "res/csbres/ui_v68_data/ui_data_30.png": {
+      "md5": "3e984a20773bf2213bdedb2b38a1e18f", 
+      "size": 2026
+    }, 
+    "res/csbres/ui_v68_data/ui_data_31.png": {
+      "md5": "aa20b6b07fc948b176a13416c2a88e23", 
+      "size": 1904
+    }, 
+    "res/csbres/ui_v68_data/ui_data_32.png": {
+      "md5": "76ef930abd7885b38acaa650cfbaf0d2", 
+      "size": 27190
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_01.png": {
+      "md5": "7c52a153b83da6a37f320796a9c68bb0", 
+      "size": 794
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_02.png": {
+      "md5": "b0cf1db63b67d937e2eb873f52ca2dc8", 
+      "size": 1757
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_03.png": {
+      "md5": "fc39df3b11e71ec86178cb2a1ccc53a4", 
+      "size": 822
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_04.png": {
+      "md5": "74f823cac6d3c5a6f43eadc8450272f3", 
+      "size": 892
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_05.png": {
+      "md5": "46fdd41b1a711a3792eefcf08179bf1c", 
+      "size": 553
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_06.png": {
+      "md5": "73479928e2e6e89ea593765939334425", 
+      "size": 1940
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_07.png": {
+      "md5": "c3674d8c6cfed2a7954d386cb26867e2", 
+      "size": 1108
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_08.png": {
+      "md5": "dc429ab4728928f0a7681b366c63ceb5", 
+      "size": 2112
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_09.png": {
+      "md5": "8f8e3407bd1620db653a59a3ed8fc133", 
+      "size": 1010
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_10.png": {
+      "md5": "cd0e5e0f48390fb5f6865187b5ecaacb", 
+      "size": 2371
+    }, 
+    "res/csbres/ui_v68_dating/eu_fenye_11.png": {
+      "md5": "333b5d9a9fddfe0b34c560008d62c6d8", 
+      "size": 1148
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_01.png": {
+      "md5": "090ee8065027f3c36055f32f8da646e1", 
+      "size": 82413
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_01_1.png": {
+      "md5": "9f0c2bdc6977eada20c9abbe8e0a5e42", 
+      "size": 2671
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_01_2.png": {
+      "md5": "b6717b424a2f407a9b211df56cbed395", 
+      "size": 11151
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_02.png": {
+      "md5": "53270aa49a68247cef17542d14096a19", 
+      "size": 5651
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_03.png": {
+      "md5": "d9e39ec924d0524102093baa85d6ffde", 
+      "size": 3593
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_04.png": {
+      "md5": "cdda38c2312e87becd4b506702c1f53b", 
+      "size": 3698
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_05.png": {
+      "md5": "13c1eddc40ff9fe515b2ea255915f13f", 
+      "size": 3569
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_06.png": {
+      "md5": "2b56849e927786388c56a3e0c1ecc26e", 
+      "size": 3653
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_07.png": {
+      "md5": "37d4f67e11d480b0d12db47bee399f5d", 
+      "size": 2330
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_08.png": {
+      "md5": "2f7b2aca8e0cf7de2e5ed98727fd31aa", 
+      "size": 976
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_09.png": {
+      "md5": "309e34137646c978fce119e673d0f393", 
+      "size": 4625
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_10.png": {
+      "md5": "93b06dfb76456bb5f85f431ac1b94feb", 
+      "size": 4619
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_11.png": {
+      "md5": "e855aab4e7388b2f405d820fb56da40e", 
+      "size": 3089
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_12.png": {
+      "md5": "649c07f34d43770304161e1c665e5cab", 
+      "size": 3037
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_13.png": {
+      "md5": "fdcc0da698a77842e4e0a70f95e8877a", 
+      "size": 2644
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_14.png": {
+      "md5": "62cb278187d8194e7f90210a28ce8d58", 
+      "size": 2671
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_15.png": {
+      "md5": "ce727e827b278fee14eabdda07f82620", 
+      "size": 498
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_16.png": {
+      "md5": "850c24114a1100ce00cf8552d6137d36", 
+      "size": 3191
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_16_1.png": {
+      "md5": "0d2c3b8f198a48c1e5619e36d4b41ef2", 
+      "size": 11557
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_17.png": {
+      "md5": "0feb18bd794b1e1f4579bdd0db52820d", 
+      "size": 3175
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_18.png": {
+      "md5": "aa7a33224c045e038ec05d1fdd5a476a", 
+      "size": 5966
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_19.png": {
+      "md5": "2030f98fae6a28fc11d0dc9f97759865", 
+      "size": 6061
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_20.png": {
+      "md5": "09e0818b33f2e4820ec9fb3154431326", 
+      "size": 6407
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_21.png": {
+      "md5": "df3fbf0b5971361483466078678cfd33", 
+      "size": 5857
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_22.png": {
+      "md5": "8c6d4d5c0ebfc195fbda997fcf40a929", 
+      "size": 3208
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_23.png": {
+      "md5": "cd38e53841fb2543ac7d8ab3ce330370", 
+      "size": 3198
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_24.png": {
+      "md5": "115a02b18521d388979f5831251b21a4", 
+      "size": 2462
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_25.png": {
+      "md5": "fa01f93255a778121be77a9482cb9bf1", 
+      "size": 2491
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_26.png": {
+      "md5": "d8f9ce91cd7b616dd0071d30f1e72a95", 
+      "size": 30851
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_27.png": {
+      "md5": "1912d63ffdf1f920f28fadba7abfb915", 
+      "size": 8825
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_28.png": {
+      "md5": "2ae1e45f2e25e549094d568a7ffa6ca5", 
+      "size": 10325
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_29.png": {
+      "md5": "ee92773f8ab1d4caeffdbf0a30f54847", 
+      "size": 10270
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_30.png": {
+      "md5": "ddaf1c33eadffb98ef3e8d946f3f7d53", 
+      "size": 4204
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_31.png": {
+      "md5": "b54960b45aeaf054cc459cff0092e552", 
+      "size": 13638
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_32.png": {
+      "md5": "01d2c4521b952da6ad53c11c78e1df79", 
+      "size": 172
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_33.png": {
+      "md5": "32f902c1a1dc879f604d903467e805c0", 
+      "size": 3608
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_34.png": {
+      "md5": "4c0ff25de897540a595506e884068e89", 
+      "size": 46515
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_34_1.png": {
+      "md5": "e0c563c37e229004d712f5416e7a5786", 
+      "size": 10526
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_35.png": {
+      "md5": "bf6aa9407e26f908df91ee1181823915", 
+      "size": 54819
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_41.png": {
+      "md5": "bbfa1de2452cac29e26ae56bab7123e2", 
+      "size": 6172
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_42.png": {
+      "md5": "86ee5f4fde7648e158db426dfcaf5203", 
+      "size": 6383
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_43.png": {
+      "md5": "29124940ee8014f1d311167b0d7d7e5c", 
+      "size": 21883
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_44.png": {
+      "md5": "d229df3d9c077122a02b65ba001f7544", 
+      "size": 13913
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_kongbai.png": {
+      "md5": "e4e6c4deecd402f077cd5f28d7411c68", 
+      "size": 2844
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_yh.png": {
+      "md5": "c67c87cb29eb01d5c65b908da29d74be", 
+      "size": 3013
+    }, 
+    "res/csbres/ui_v68_dating/ui_dating_yh_1.png": {
+      "md5": "f72d02c12abc8798dce79c45c5222f45", 
+      "size": 3041
+    }, 
+    "res/csbres/ui_v68_dating/ui_v68_erweima.png": {
+      "md5": "ea8d03528a5f66358beed94621254d03", 
+      "size": 5392
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_01.png": {
+      "md5": "2dacf6227764930c0109bd0541903bf4", 
+      "size": 3656
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_02.png": {
+      "md5": "04ef451e95373730740d38b205093131", 
+      "size": 3681
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_03.png": {
+      "md5": "4c0a77553b308c9b5365a4e6cd293b51", 
+      "size": 13489
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_04.png": {
+      "md5": "5859375d18292236b7dc79e4849f4fc6", 
+      "size": 3110
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_05.png": {
+      "md5": "bc2f7dcf0b701d61615a47856a1ae637", 
+      "size": 176
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_06.png": {
+      "md5": "fc58ef648d8be5dcf544683d3763e152", 
+      "size": 3147
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_07.png": {
+      "md5": "c942ae68612998a1515fcca5ea17e7b5", 
+      "size": 3172
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_08.png": {
+      "md5": "6a7c54fa67355463ef7312ff6740e957", 
+      "size": 4389
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_09.png": {
+      "md5": "2546dcb272375b1c1156d0235b86e362", 
+      "size": 4689
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_10.png": {
+      "md5": "f044d3be65c91a1719b611481e94e6bf", 
+      "size": 4264
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_11.png": {
+      "md5": "0bd4e4771f0f8b88b87919e726a38fbd", 
+      "size": 4350
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_12.png": {
+      "md5": "3fb556e11429f39159ef1c076c3230df", 
+      "size": 5112
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_13.png": {
+      "md5": "298486cc6ab37415f717c039516661de", 
+      "size": 5209
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_14.png": {
+      "md5": "b46c2557d8af4e29aced88e4bed3033f", 
+      "size": 5157
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_15.png": {
+      "md5": "61bee0b9857974eed7af4c0d0d41999b", 
+      "size": 5010
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_16.png": {
+      "md5": "372552d9b31934f7c909c48219efa0e0", 
+      "size": 3061
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_17.png": {
+      "md5": "71a560a77af9b9626c9af2cc441fdbe4", 
+      "size": 1077
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_18.png": {
+      "md5": "53e0d95a468ac3bc158d042bb7cd9899", 
+      "size": 3001
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_19.png": {
+      "md5": "ae913ec36300970e8ac9133d7f3da25f", 
+      "size": 3451
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_20.png": {
+      "md5": "b8699ba087aac68b0d2aa5d5c2a26020", 
+      "size": 4686
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_21.png": {
+      "md5": "c8b128457357d1153ab829d2a410e5e2", 
+      "size": 202
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_22.png": {
+      "md5": "f8082dd1017654a86e291510eca67f77", 
+      "size": 25303
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_23.png": {
+      "md5": "b7698b646a3a3b742d2a879f31034e86", 
+      "size": 39302
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_24.png": {
+      "md5": "746ebac65afe5b81e12a59daf18d0a38", 
+      "size": 5033
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_25.png": {
+      "md5": "db29734aacb55dc4d91000884085854d", 
+      "size": 3849
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_26.png": {
+      "md5": "e3c24f39e73da91a4b97e3f0cc04f3e8", 
+      "size": 4340
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_27.png": {
+      "md5": "73b4784a1fa6e0c92fabcdc578654eb4", 
+      "size": 4611
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_28.png": {
+      "md5": "241a65338bd2b15fa62806dbb49b34e0", 
+      "size": 3870
+    }, 
+    "res/csbres/ui_v68_gonggao/v68_gonggao_29.png": {
+      "md5": "1a464db3ec73025061396cb353986b14", 
+      "size": 3912
+    }, 
+    "res/csbres/ui_v68_login/ui_login_01.png": {
+      "md5": "8a87df094eae9ebe278f99d4fc76fe52", 
+      "size": 9335
+    }, 
+    "res/csbres/ui_v68_login/ui_login_02.png": {
+      "md5": "3714b22d1c8ea37ef232b5ae77238b98", 
+      "size": 9425
+    }, 
+    "res/csbres/ui_v68_login/ui_login_03.png": {
+      "md5": "8ddb4fd95f6bbf5c51d177f3a2538952", 
+      "size": 198255
+    }, 
+    "res/csbres/ui_v68_login/ui_login_03_1.png": {
+      "md5": "4d798bf027078b7b26ae2aff6c1a63e9", 
+      "size": 243553
+    }, 
+    "res/csbres/ui_v68_login/ui_login_04.png": {
+      "md5": "a643dae098a56f81dd6c4ccbe710a61b", 
+      "size": 3804
+    }, 
+    "res/csbres/ui_v68_login/ui_login_05.png": {
+      "md5": "d787f4044fd986bf3f67a84aef2e3069", 
+      "size": 3774
+    }, 
+    "res/csbres/ui_v68_login/ui_login_06.png": {
+      "md5": "8ce20adcabd6879e79e58cf87af3840c", 
+      "size": 4894
+    }, 
+    "res/csbres/ui_v68_login/ui_login_07.png": {
+      "md5": "0240c1d26bae350646c8b854a5765b5a", 
+      "size": 4113
+    }, 
+    "res/csbres/ui_v68_login/ui_login_08.png": {
+      "md5": "536bb7cfad33bf3ffbdd144942baf2c9", 
+      "size": 4332
+    }, 
+    "res/csbres/ui_v68_login/ui_login_09.png": {
+      "md5": "cc3fe4f3a4f3a016a13c9a4708c65a48", 
+      "size": 4170
+    }, 
+    "res/csbres/ui_v68_login/ui_login_10.png": {
+      "md5": "bbd5cbd5cdba7f7300d44197929f3e9c", 
+      "size": 4611
+    }, 
+    "res/csbres/ui_v68_login/ui_login_11.png": {
+      "md5": "2e29f437675536af9c6134014c231ae5", 
+      "size": 5570
+    }, 
+    "res/csbres/ui_v68_login/ui_login_12.png": {
+      "md5": "55d1bf57f2481c7adfcaef46f44c3a8f", 
+      "size": 5679
+    }, 
+    "res/csbres/ui_v68_login/ui_login_13.png": {
+      "md5": "2534da0143cca0c1d9ed16b6ace4c771", 
+      "size": 4380
+    }, 
+    "res/csbres/ui_v68_login/ui_login_14.png": {
+      "md5": "1156313d73d61d395d2a5b6570cf9f90", 
+      "size": 4350
+    }, 
+    "res/csbres/ui_v68_login/ui_login_15.png": {
+      "md5": "baad1fe237e910ba5c3fd9f48fb8614b", 
+      "size": 4996
+    }, 
+    "res/csbres/ui_v68_login/ui_login_16.png": {
+      "md5": "a87e2f794e891103e4994f61a4af2819", 
+      "size": 4835
+    }, 
+    "res/csbres/ui_v68_login/ui_login_17.png": {
+      "md5": "caa422e1c02f3ec2023841903e94a1e3", 
+      "size": 4178
+    }, 
+    "res/csbres/ui_v68_login/ui_login_18.png": {
+      "md5": "cf40acca07c7db48fdd8c0ffeb045e49", 
+      "size": 1004
+    }, 
+    "res/csbres/ui_v68_login/ui_login_19.png": {
+      "md5": "aee336082d34ea4610f870e676166acd", 
+      "size": 26187
+    }, 
+    "res/csbres/ui_v68_login/ui_login_20.png": {
+      "md5": "8e65590ab5d0b3b661abd301ed3d1e52", 
+      "size": 2463
+    }, 
+    "res/csbres/ui_v68_login/ui_login_21.png": {
+      "md5": "e4cb1f3bd1e2d4fd4cd1d552e5905bea", 
+      "size": 2564
+    }, 
+    "res/csbres/ui_v68_login/ui_login_22.png": {
+      "md5": "0153f46d2e7dbbc41b729cc01fa0e017", 
+      "size": 3705
+    }, 
+    "res/csbres/ui_v68_login/ui_login_23.png": {
+      "md5": "5ab815c6d1bee8f28532f7137f1d1dcc", 
+      "size": 4141
+    }, 
+    "res/csbres/ui_v68_login/ui_login_24.png": {
+      "md5": "0f057e6f11053fe86a908be8baf61657", 
+      "size": 27104
+    }, 
+    "res/csbres/ui_v68_login/ui_login_25.png": {
+      "md5": "d7ace89ca95d3b6f82bb47f29f8ddeda", 
+      "size": 689
+    }, 
+    "res/csbres/ui_v68_login/ui_login_26.png": {
+      "md5": "85a89f1754372d11237929cd70b12842", 
+      "size": 3465
+    }, 
+    "res/csbres/ui_v68_login/ui_login_27.png": {
+      "md5": "98b034f16e152743242c0e0c626dab05", 
+      "size": 3468
+    }, 
+    "res/csbres/ui_v68_login/ui_login_28.png": {
+      "md5": "de98e2ce6f7890b359399d12dea6d590", 
+      "size": 29788
+    }, 
+    "res/csbres/ui_v68_login/ui_login_29.png": {
+      "md5": "3076abd74644dade1d2c22b19c7bf913", 
+      "size": 4298
+    }, 
+    "res/csbres/ui_v68_login/ui_login_30.png": {
+      "md5": "18a2f3d96a9db88ca0b222055a3b1289", 
+      "size": 4573
+    }, 
+    "res/csbres/ui_v68_login/ui_login_31.png": {
+      "md5": "98d9648fa00855357f016bbbc6205f21", 
+      "size": 27376
+    }, 
+    "res/csbres/ui_v68_login/ui_login_32.png": {
+      "md5": "8fb81d592dd547b757705ef0d6004a1a", 
+      "size": 4693
+    }, 
+    "res/csbres/ui_v68_login/ui_login_33.png": {
+      "md5": "8ad63440397e9fbf160a8789f36a70d1", 
+      "size": 5228
+    }, 
+    "res/csbres/ui_v68_login/ui_login_34.png": {
+      "md5": "c0b53082d04a159d2d0b54899571c58b", 
+      "size": 4389
+    }, 
+    "res/csbres/ui_v68_login/ui_login_35.png": {
+      "md5": "af0512742dc57f1650bca66981d0a282", 
+      "size": 4257
+    }, 
+    "res/csbres/ui_v68_login/ui_login_36.png": {
+      "md5": "86b1e33e0cac7418bbdec299b517662d", 
+      "size": 25772
+    }, 
+    "res/csbres/ui_v68_login/ui_login_37.png": {
+      "md5": "61a3932ce346c1b875d3c4d0ca3b83e6", 
+      "size": 29896
+    }, 
+    "res/csbres/ui_v68_login/ui_login_38.png": {
+      "md5": "6d39943eb3f99fc50d7610bc02bdbd41", 
+      "size": 4273
+    }, 
+    "res/csbres/ui_v68_login/ui_login_39.png": {
+      "md5": "9b9bae09dfd6aede52e7e72c11c19013", 
+      "size": 4600
+    }, 
+    "res/csbres/ui_v68_login/ui_login_40.png": {
+      "md5": "44bc30699f4e5200cfaac271584e9746", 
+      "size": 4234
+    }, 
+    "res/csbres/ui_v68_login/ui_login_41.png": {
+      "md5": "61a08552e3adb10615e329aa216c2837", 
+      "size": 4551
+    }, 
+    "res/csbres/ui_v68_login/ui_login_42.png": {
+      "md5": "bb0c9bd146fc5c8f3c82f762b0a951c1", 
+      "size": 944
+    }, 
+    "res/csbres/ui_v68_login/ui_login_43.png": {
+      "md5": "bc070e70c8024c082c525287a50284f2", 
+      "size": 1052
+    }, 
+    "res/csbres/ui_v68_login/ui_login_44.png": {
+      "md5": "a43629c93325c146b7a67b023dded026", 
+      "size": 5875
+    }, 
+    "res/csbres/ui_v68_login/ui_login_45.png": {
+      "md5": "8b6552d99591d837b8b047244a310b95", 
+      "size": 5980
+    }, 
+    "res/csbres/ui_v68_login/ui_login_46.png": {
+      "md5": "74257773026725cf82e45a87f6865899", 
+      "size": 5392
+    }, 
+    "res/csbres/ui_v68_login/ui_login_47.png": {
+      "md5": "f05eb20dea4c2bdb5636fa6e2d24ec0d", 
+      "size": 5620
+    }, 
+    "res/csbres/ui_v68_login/ui_login_48.png": {
+      "md5": "e08fd9fb59d9f4716a24ba7583e808d1", 
+      "size": 5508
+    }, 
+    "res/csbres/ui_v68_login/ui_login_49.png": {
+      "md5": "8906d4e21e217e377915e15198532936", 
+      "size": 3575
+    }, 
+    "res/csbres/ui_v68_login/ui_login_50.png": {
+      "md5": "d39b04a2436438ed64285a1e2d588076", 
+      "size": 3759
+    }, 
+    "res/csbres/ui_v68_login/ui_login_51.png": {
+      "md5": "1d4b6666c5dcfe31cab888a75bfad356", 
+      "size": 1040
+    }, 
+    "res/csbres/ui_v68_login/ui_login_52.png": {
+      "md5": "1651b0d8c1ec2a5035ca164f0d449b10", 
+      "size": 5782
+    }, 
+    "res/csbres/ui_v68_login/ui_login_53.png": {
+      "md5": "8cd0708012c28aad8d7bd7fd0d1a1078", 
+      "size": 4564
+    }, 
+    "res/csbres/ui_v68_login/ui_login_54.png": {
+      "md5": "cc26ba1e7318dccbbe73c9472bdcf686", 
+      "size": 4207
+    }, 
+    "res/csbres/ui_v68_login/ui_login_55.png": {
+      "md5": "7aa94443d67d48eb15918c4170722040", 
+      "size": 28318
+    }, 
+    "res/csbres/ui_v68_login/ui_login_tishi_bg.png": {
+      "md5": "3378a4f025f9ca1221624008e03c0826", 
+      "size": 753
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_login_57.png": {
+      "md5": "b0bf18e70a980ff606f193938f085e7d", 
+      "size": 11108
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_login_58.png": {
+      "md5": "6acfbc4cbfe5c32d7214b3c6c61bc495", 
+      "size": 6087
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_login_59.png": {
+      "md5": "72f2dc9a772d9d08bc4b7654bc53c9e1", 
+      "size": 6237
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_login_60.png": {
+      "md5": "ce6ec6461b870fe1455678070aecb679", 
+      "size": 6720
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_login_61.png": {
+      "md5": "1097c4bad07859765eb3f21075269e36", 
+      "size": 7019
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_login_62.png": {
+      "md5": "1cbe596368b93462ec4b2f9c855faf5f", 
+      "size": 4568
+    }, 
+    "res/csbres/ui_v68_login/ui_v68_logo.png": {
+      "md5": "b59a7a33bcafb9663b2a5d9ad5718f42", 
+      "size": 18146
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_01.png": {
+      "md5": "7502f5659effb444ec9563d4661d2932", 
+      "size": 4069
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_02.png": {
+      "md5": "311abc140f9314ddba2016a70f777877", 
+      "size": 4191
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_03.png": {
+      "md5": "132ca343b995fff33af51d8a5c45597a", 
+      "size": 57484
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_04.png": {
+      "md5": "98bc643cfba9eecf6f84a05e606149c2", 
+      "size": 1891
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_05.png": {
+      "md5": "ca42943ee8f1da12e791815b24bb8e48", 
+      "size": 2006
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_06.png": {
+      "md5": "25db413827587df0622d3e0d0b5ba3ec", 
+      "size": 1891
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_07.png": {
+      "md5": "bda8493cd76b55e40a088c654e0562e3", 
+      "size": 2083
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_08.png": {
+      "md5": "a21feeefbd3761df2fc42977ca9a66b4", 
+      "size": 1954
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_09.png": {
+      "md5": "40a0e7b5b682d25cc770deffd5ab04fd", 
+      "size": 2071
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_10.png": {
+      "md5": "11a793129c15ff31267f5c0c7514338b", 
+      "size": 1944
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_11.png": {
+      "md5": "dd5ecf7887185b3c7a4c9a1a9fd4d2bd", 
+      "size": 2052
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_12.png": {
+      "md5": "0efa8ee533a2ccbcc5f3c340aca43118", 
+      "size": 1953
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_13.png": {
+      "md5": "e0c9c36d1176e362b9262166a4f69c4f", 
+      "size": 2046
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_14.png": {
+      "md5": "dc15ee6ae1407fbd5fd44e30e1203be2", 
+      "size": 171
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_15.png": {
+      "md5": "05d5ec7b01e2ab50af4659e956773bb4", 
+      "size": 237
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_16.png": {
+      "md5": "46fea2f034835dc0d1d461820e583469", 
+      "size": 2279
+    }, 
+    "res/csbres/ui_v68_mall/v68_mall_17.png": {
+      "md5": "6abfd8585dd22d35630976b3267b288d", 
+      "size": 2239
+    }, 
+    "res/csbres/ui_v68_newplay/v68_newplay_01.png": {
+      "md5": "06c65d9d15f85fb380b151e4d213f2ab", 
+      "size": 4740
+    }, 
+    "res/csbres/ui_v68_newplay/v68_newplay_02.png": {
+      "md5": "d85cfed0b043eebfbad695ba0efe0472", 
+      "size": 4880
+    }, 
+    "res/csbres/ui_v68_newplay/v68_newplay_03.png": {
+      "md5": "db514c0b8370830ab0e5d749f60adc70", 
+      "size": 111798
+    }, 
+    "res/csbres/ui_v68_newplay/v68_newplay_04.png": {
+      "md5": "2dc4053e39b26029fcfbd059ebab2814", 
+      "size": 5522
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_01.png": {
+      "md5": "03422d65fa9f55170522f1de7ffdd991", 
+      "size": 5101
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_02.png": {
+      "md5": "c7ea8cc567a87c1095c1bf11554e5ba6", 
+      "size": 5164
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_03.png": {
+      "md5": "836954987fa11c2cd46d247ae55660cc", 
+      "size": 5376
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_04.png": {
+      "md5": "74691d7328cf5f320d23d9e222cab391", 
+      "size": 5493
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_05.png": {
+      "md5": "d7b0cfed50d2e61c76ff10065613fe8d", 
+      "size": 4528
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_06.png": {
+      "md5": "f0e8b7505b144c74ed6dd05ff59c8eb4", 
+      "size": 4599
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_07.png": {
+      "md5": "ccd95200690ca6c1261fa30ce6a6ba73", 
+      "size": 3604
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_08.png": {
+      "md5": "b8a5fdc58377be90b50b6b0c256e4167", 
+      "size": 3570
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_09.png": {
+      "md5": "9b4874fb02362ae2644bd4a524c68b0d", 
+      "size": 3954
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_10.png": {
+      "md5": "06f48ec90632ab1da9b5c28491bf4259", 
+      "size": 4371
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_11.png": {
+      "md5": "a97e1ebecce1d8003daa7b81128e35fb", 
+      "size": 4270
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_12.png": {
+      "md5": "0b7412b034df8cc838473695c2508b35", 
+      "size": 4802
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_13.png": {
+      "md5": "0bdeb41c160b09929068f950e612b2ce", 
+      "size": 2232
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_14.png": {
+      "md5": "292558ed0f8fc6822fbaf2004c4dca36", 
+      "size": 1379
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_15.png": {
+      "md5": "9099f2a44480f276ef533c2c49469559", 
+      "size": 8193
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_16.png": {
+      "md5": "92831c562b22d2d231e42585350169c0", 
+      "size": 16070
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_17.png": {
+      "md5": "8640d10b86f8f16465f9935a606d53c1", 
+      "size": 568
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_18.png": {
+      "md5": "c72f268bcd1e0c9d4c171acc96a25b4a", 
+      "size": 2237
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_19.png": {
+      "md5": "286882eae26a7b532921cee29dce4514", 
+      "size": 2333
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_20.png": {
+      "md5": "60d9a9abd72be02a9d8194d49f5131cf", 
+      "size": 2370
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_21.png": {
+      "md5": "6ef5183ee1d08f87f5cb0b25917ca697", 
+      "size": 4214
+    }, 
+    "res/csbres/ui_v68_rank/ui_rank_22.png": {
+      "md5": "132ca343b995fff33af51d8a5c45597a", 
+      "size": 57484
+    }, 
+    "res/csbres/ui_v68_rank/ui_ranking_1.png": {
+      "md5": "e2420d1b3ab74b69c16cad5f7c45fae7", 
+      "size": 3302
+    }, 
+    "res/csbres/ui_v68_rank/ui_ranking_2.png": {
+      "md5": "d2493b159e76a5c2cd8aabf54a566221", 
+      "size": 3531
+    }, 
+    "res/csbres/ui_v68_rank/ui_ranking_3.png": {
+      "md5": "300f3369d9cbfa48a2088b89c8f6976b", 
+      "size": 3841
+    }, 
+    "res/csbres/ui_v68_rank/ui_ranking_all.png": {
+      "md5": "5ab71edfd675fb4d43a0ceefec5a1d81", 
+      "size": 190
+    }, 
+    "res/csbres/ui_v68_record/00.png": {
+      "md5": "a6cea6e7b2371e80051943cdff09099b", 
+      "size": 23828
+    }, 
+    "res/csbres/ui_v68_record/01.png": {
+      "md5": "c50171d7c058084f692f762078bfbbc7", 
+      "size": 228
+    }, 
+    "res/csbres/ui_v68_record/02.png": {
+      "md5": "6ba0b90b9ba6ce5282e7ffdf672e578a", 
+      "size": 3263
+    }, 
+    "res/csbres/ui_v68_record/03.png": {
+      "md5": "5180ce59d16db82b5533ff407be13a63", 
+      "size": 3223
+    }, 
+    "res/csbres/ui_v68_record/v68_record_00.png": {
+      "md5": "83687df128e4abc7c9ec5bb7184e9f3d", 
+      "size": 59165
+    }, 
+    "res/csbres/ui_v68_record/v68_record_01.png": {
+      "md5": "c50171d7c058084f692f762078bfbbc7", 
+      "size": 228
+    }, 
+    "res/csbres/ui_v68_record/v68_record_02.png": {
+      "md5": "6ba0b90b9ba6ce5282e7ffdf672e578a", 
+      "size": 3263
+    }, 
+    "res/csbres/ui_v68_record/v68_record_03.png": {
+      "md5": "5180ce59d16db82b5533ff407be13a63", 
+      "size": 3223
+    }, 
+    "res/csbres/ui_v68_record/v68_record_04.png": {
+      "md5": "ff17e9087804cd78b82bc7016b872a6f", 
+      "size": 108250
+    }, 
+    "res/csbres/ui_v68_record/v68_record_05.png": {
+      "md5": "85862319007ae149e84cf5eeaf96c205", 
+      "size": 6555
+    }, 
+    "res/csbres/ui_v68_record/v68_record_06.png": {
+      "md5": "5c089930c7a19fe1e15e1dfa24282ed1", 
+      "size": 6653
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_01.png": {
+      "md5": "b7b6f100cff50afbc6c7967297604131", 
+      "size": 450
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_02.png": {
+      "md5": "f9f7ee24bc92be62e177fe99f1d1c2bf", 
+      "size": 2539
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_03.png": {
+      "md5": "d5302c0b3c028f3dedd4d40966b0079f", 
+      "size": 1887
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_04.png": {
+      "md5": "03db0cde9b25de0a2d9d56de8d048345", 
+      "size": 458
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_05.png": {
+      "md5": "fed3c626458a6756101f98ecddb4a9bd", 
+      "size": 2787
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_06.png": {
+      "md5": "ce5d5cef0308adee5581eea50cbc8f8b", 
+      "size": 33943
+    }, 
+    "res/csbres/ui_v68_setting/v68_setting_07.png": {
+      "md5": "201c6ba8ad3c248da938bc4bbf6bc82e", 
+      "size": 319
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_bu_002.png": {
+      "md5": "865718df37188d11642f10487ad3674d", 
+      "size": 4126
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_guize_02.png": {
+      "md5": "93b6980c54d2cbb9ba56838e64e46819", 
+      "size": 4289
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_guize_03.png": {
+      "md5": "0b6c24f96370f51a0041b8238a7ee5c3", 
+      "size": 3832
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_guize_04.png": {
+      "md5": "ab787ed256be4fef2a01e759980334ee", 
+      "size": 5117
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_01.png": {
+      "md5": "6053207ffea0234d321d98c5ad3229b5", 
+      "size": 984
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_02.png": {
+      "md5": "ff38552f2b41426fcab414742c76b63c", 
+      "size": 5535
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_03.png": {
+      "md5": "c7be62d5324f6d70df0e7156b8221bc8", 
+      "size": 7227
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_04.png": {
+      "md5": "b816430581e793afd853e4c289285860", 
+      "size": 4719
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_05.png": {
+      "md5": "bc8dcb2276bb0a7fba3bfb1920ef9b31", 
+      "size": 4690
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_06.png": {
+      "md5": "2f425edb21dcb64446130d69f95d80cf", 
+      "size": 5053
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_07.png": {
+      "md5": "e809c462c43a7a44e1708d938c0067b7", 
+      "size": 3788
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_08.png": {
+      "md5": "3c26259a055c146b117be6f537ffca88", 
+      "size": 4778
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_09.png": {
+      "md5": "19924e4b8f26ce43a4ef6749bb35de2f", 
+      "size": 3072
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_10.png": {
+      "md5": "401d18b034f759b6b25b428b79c25c92", 
+      "size": 10002
+    }, 
+    "res/csbres/ui_v68_shuoming/v68_tbnn_guize_11.png": {
+      "md5": "5a1d6e912a13162c3fc839b1a6da733c", 
+      "size": 5505
+    }, 
+    "res/csbres/ui_v68_theme/888_bg.png": {
+      "md5": "bfec40246d8b19d1bf38b9cd9f37e6a1", 
+      "size": 421
+    }, 
+    "res/csbres/ui_v68_theme/ajdb_bg.png": {
+      "md5": "62716f52e7e89bab396285bde3a6755b", 
+      "size": 6047
+    }, 
+    "res/csbres/ui_v68_theme/ajdb_bg_1.png": {
+      "md5": "bee99661daadba2936d6cd9a3d0bb643", 
+      "size": 2693
+    }, 
+    "res/csbres/ui_v68_theme/ajdb_bg_2.png": {
+      "md5": "f9bc3774b81c3c2d7eb5c174ea7cf00c", 
+      "size": 3098
+    }, 
+    "res/csbres/ui_v68_theme/baijiale_bg.png": {
+      "md5": "6e9bba8ed9a5a35f304b1306b0ff83d1", 
+      "size": 16119
+    }, 
+    "res/csbres/ui_v68_theme/baijiale_bg_1.png": {
+      "md5": "8c35d9032241aca55f797f251fc669b4", 
+      "size": 3200
+    }, 
+    "res/csbres/ui_v68_theme/bairenniuniu_bg.png": {
+      "md5": "c0c3d9ea5964fcfe3ff563cb52cf8e2e", 
+      "size": 17477
+    }, 
+    "res/csbres/ui_v68_theme/bairenniuniu_bg_1.png": {
+      "md5": "a97523eb84a525a9ac1fc15f0772e935", 
+      "size": 3440
+    }, 
+    "res/csbres/ui_v68_theme/bqtp_bg.png": {
+      "md5": "49b33bbb67e3bfcad6e9c9e1d53438a1", 
+      "size": 13623
+    }, 
+    "res/csbres/ui_v68_theme/bqtp_bg_1.png": {
+      "md5": "2d4218194100d608cfa11a499699fc59", 
+      "size": 4082
+    }, 
+    "res/csbres/ui_v68_theme/bqtp_bg_2.png": {
+      "md5": "f0cc81560fbac858cb35d6058f8b0d18", 
+      "size": 3867
+    }, 
+    "res/csbres/ui_v68_theme/cj777_bg.png": {
+      "md5": "2f8de9d34fd0d1f99fa0c750d0f41ae7", 
+      "size": 16121
+    }, 
+    "res/csbres/ui_v68_theme/cj777_bg_1.png": {
+      "md5": "9e9ddeb0f497d59fafe1b3e44f4de839", 
+      "size": 3647
+    }, 
+    "res/csbres/ui_v68_theme/djdl_bg.png": {
+      "md5": "bfec40246d8b19d1bf38b9cd9f37e6a1", 
+      "size": 421
+    }, 
+    "res/csbres/ui_v68_theme/doudizhu_bg.png": {
+      "md5": "4c06be2ba029ae52d42a79d47709ab43", 
+      "size": 15330
+    }, 
+    "res/csbres/ui_v68_theme/doudizhu_bg_1.png": {
+      "md5": "e0aacc07acf535145bf212f599d08567", 
+      "size": 3681
+    }, 
+    "res/csbres/ui_v68_theme/fumantang_bg.png": {
+      "md5": "6950f90ed97dbc3687c7a55a0ebb973d", 
+      "size": 12623
+    }, 
+    "res/csbres/ui_v68_theme/fumantang_bg_1.png": {
+      "md5": "641dd9d3e37c78b63e0819f65472dfd5", 
+      "size": 3656
+    }, 
+    "res/csbres/ui_v68_theme/hongheidazhan_bg.png": {
+      "md5": "c755d2977ebd09517db48680204bcc73", 
+      "size": 3635
+    }, 
+    "res/csbres/ui_v68_theme/hongheidazhan_bg_1.png": {
+      "md5": "6cac1e8f477119b8ef49b442ba26ea71", 
+      "size": 3893
+    }, 
+    "res/csbres/ui_v68_theme/jietoubawang_bg.png": {
+      "md5": "8e6233f59ddd82116225bef7e0ce86f0", 
+      "size": 10333
+    }, 
+    "res/csbres/ui_v68_theme/jietoubawang_bg_1.png": {
+      "md5": "da383a007ca5a112ba8f41e41f8c4e36", 
+      "size": 3777
+    }, 
+    "res/csbres/ui_v68_theme/jietoubawang_title.png": {
+      "md5": "bfec40246d8b19d1bf38b9cd9f37e6a1", 
+      "size": 421
+    }, 
+    "res/csbres/ui_v68_theme/jinpingmei_bg.png": {
+      "md5": "c5066acf409b5e9edadd6933accee539", 
+      "size": 16986
+    }, 
+    "res/csbres/ui_v68_theme/jinpinmei_bg.png": {
+      "md5": "58fbce342ff77833fdf522f7b7dae016", 
+      "size": 17503
+    }, 
+    "res/csbres/ui_v68_theme/jinpinmei_bg_1.png": {
+      "md5": "b457c7599ff8bac7f6bd76a0b63baacb", 
+      "size": 3741
+    }, 
+    "res/csbres/ui_v68_theme/kszqznn_bg.png": {
+      "md5": "2f8de9d34fd0d1f99fa0c750d0f41ae7", 
+      "size": 16121
+    }, 
+    "res/csbres/ui_v68_theme/kszqznn_bg_1.png": {
+      "md5": "16685ed71b8dd825c4b873744b34a073", 
+      "size": 3752
+    }, 
+    "res/csbres/ui_v68_theme/longhudou_bg.png": {
+      "md5": "c0c3d9ea5964fcfe3ff563cb52cf8e2e", 
+      "size": 17477
+    }, 
+    "res/csbres/ui_v68_theme/longhudou_bg_1.png": {
+      "md5": "c09de4e25da1c9d8cbe4f5a75cc42cdc", 
+      "size": 3711
+    }, 
+    "res/csbres/ui_v68_theme/longzhuduobao_bg.png": {
+      "md5": "f3235ee774018aa16dad64f75a6c32c6", 
+      "size": 17001
+    }, 
+    "res/csbres/ui_v68_theme/pdk_bg.png": {
+      "md5": "7f7ca79c19b1de5dade130b9fc88dba6", 
+      "size": 6041
+    }, 
+    "res/csbres/ui_v68_theme/pdk_bg_1.png": {
+      "md5": "1f16ccecb892ba1600483ed5ad36967e", 
+      "size": 1058
+    }, 
+    "res/csbres/ui_v68_theme/qznn_bg.png": {
+      "md5": "e6eb0be42b126a0f8fdf3525ebaf2c56", 
+      "size": 3874
+    }, 
+    "res/csbres/ui_v68_theme/qznn_bg_1.png": {
+      "md5": "72ad395652979a24ce90d0906afe6522", 
+      "size": 3368
+    }, 
+    "res/csbres/ui_v68_theme/ririshengcai_bg.png": {
+      "md5": "aeb1adc51b4e1b41a8657bf39a3d1c4a", 
+      "size": 3638
+    }, 
+    "res/csbres/ui_v68_theme/ririshengcai_bg_1.png": {
+      "md5": "24ca226e00209026bec346e88eb32694", 
+      "size": 3583
+    }, 
+    "res/csbres/ui_v68_theme/sg777_bg.png": {
+      "md5": "6a8ff8737ca56c0dc9391b83b7eb600e", 
+      "size": 3764
+    }, 
+    "res/csbres/ui_v68_theme/sg777_bg_1.png": {
+      "md5": "c3b1d7567ee5397193467164c0c3a101", 
+      "size": 3913
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu01_56.png": {
+      "md5": "26eaffb9277c966b6850b650589611d2", 
+      "size": 7754
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_301.png": {
+      "md5": "78e07f2339711d30a547cf793de91578", 
+      "size": 40906
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_302.png": {
+      "md5": "b8aeb3f4d9931c39404de3bf7fa196b2", 
+      "size": 39969
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_303.png": {
+      "md5": "a54364f7d17e864c5f2dd59e2ba87c31", 
+      "size": 39662
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_304.png": {
+      "md5": "091c9d1daac157ae358dc0c371f01670", 
+      "size": 38777
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_305.png": {
+      "md5": "7441df9795a0919bbe0abc5916a22569", 
+      "size": 36538
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_306.png": {
+      "md5": "3416c59f9f6d6c71e6a09abdb117321d", 
+      "size": 36819
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_307.png": {
+      "md5": "8a7b825a6799dbacc66bec745909d6a3", 
+      "size": 38007
+    }, 
+    "res/csbres/ui_v68_theme/tbnn_bu_308.png": {
+      "md5": "bb7c8163f812c71a29a782a9af9754ae", 
+      "size": 39690
+    }, 
+    "res/csbres/ui_v68_theme/theme_delete.png": {
+      "md5": "19f709bfda538dd1b39078131a619933", 
+      "size": 3364
+    }, 
+    "res/csbres/ui_v68_theme/theme_download.png": {
+      "md5": "93d822a1d88e1fb76172360734050ef3", 
+      "size": 2426
+    }, 
+    "res/csbres/ui_v68_theme/theme_line_243.png": {
+      "md5": "5f674c4173411361b01fbd7905258d7c", 
+      "size": 1126
+    }, 
+    "res/csbres/ui_v68_theme/theme_line_25.png": {
+      "md5": "bb4ebff3162e42234df50c3a4c076c92", 
+      "size": 1019
+    }, 
+    "res/csbres/ui_v68_theme/theme_line_5.png": {
+      "md5": "585385d1ebc692619c7187992743acfb", 
+      "size": 857
+    }, 
+    "res/csbres/ui_v68_theme/theme_line_9.png": {
+      "md5": "ec106d6cc9b65ce40e272daa96264646", 
+      "size": 993
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_01.png": {
+      "md5": "c8aef44d202836883f9fb5b92b8b5205", 
+      "size": 31035
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_02.png": {
+      "md5": "3d1fca17635ca7fd94f973337d8075f9", 
+      "size": 31162
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_03.png": {
+      "md5": "e5e16c6f28e77b96f26f40b1175041fa", 
+      "size": 30253
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_04.png": {
+      "md5": "21133a371f79eb55b77d43c2a7c1449b", 
+      "size": 30041
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_05.png": {
+      "md5": "4d33ad3dd749c6d443001038a4d9311f", 
+      "size": 30101
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_06.png": {
+      "md5": "f53c1b508a0b0ad6beb94e325ba04c15", 
+      "size": 30709
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_07.png": {
+      "md5": "cf158bf51a05b7a3f9386666e9ad8d77", 
+      "size": 31531
+    }, 
+    "res/csbres/ui_v68_theme/v68_bu_01_08.png": {
+      "md5": "8b17bf6b1c0526d6dd951b3433319656", 
+      "size": 30376
+    }, 
+    "res/csbres/ui_v68_theme/v68_tbnn_01.png": {
+      "md5": "06e4218ea795331eb6644555fe06767b", 
+      "size": 2777
+    }, 
+    "res/csbres/ui_v68_theme/v68_tbnn_02.png": {
+      "md5": "be04fbc4f5fd23ae1a96d062f5a0b50e", 
+      "size": 6211
+    }, 
+    "res/csbres/ui_v68_theme/xiazaiditu0.png": {
+      "md5": "b2cb3a86b219b9db5628e7cca68c1978", 
+      "size": 664
+    }, 
+    "res/csbres/ui_v68_theme/xiazaiditu1.png": {
+      "md5": "ee56e39b5b85d56bca256966a33a7a2b", 
+      "size": 3217
+    }, 
+    "res/csbres/ui_v68_theme/ygbh_bg_1.png": {
+      "md5": "66ae71b28ba92b9c69412ece7259e3d2", 
+      "size": 3293
+    }, 
+    "res/csbres/ui_v68_theme/yueguangbaohe_bg.png": {
+      "md5": "e8071287b28dbebf0b77d0f8aa65e420", 
+      "size": 16788
+    }, 
+    "res/csbres/ui_v68_theme/zhajinhua_bg.png": {
+      "md5": "6997ec083873a8063abb90bfd9e52f44", 
+      "size": 3681
+    }, 
+    "res/csbres/ui_v68_theme/zhajinhua_bg_1.png": {
+      "md5": "81421ec334fb38c1cb823c2714bbdbd8", 
+      "size": 2883
+    }, 
+    "res/csbres/ui_v68_theme/zhongfabai_bg.png": {
+      "md5": "c3a1cae7f121b3e6065d091cdda6d82a", 
+      "size": 10344
+    }, 
+    "res/csbres/ui_v68_theme/zhongfabai_bg_1.png": {
+      "md5": "23316fdf75eb158bba4e7a9955d54fbd", 
+      "size": 3943
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_01.png": {
+      "md5": "7b48248b877bfd9d0bfc596822dd9ef2", 
+      "size": 3560
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_02.png": {
+      "md5": "db62243760674a8fef0ba0cd4b0c87ea", 
+      "size": 3847
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_03.png": {
+      "md5": "2091dc249762e67b26012ec64c6d51b7", 
+      "size": 65387
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_04.png": {
+      "md5": "b408447f3468bd74fe2765d084040a9e", 
+      "size": 3545
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_05.png": {
+      "md5": "246a2aee71ffdffa3b905a479eaae4ee", 
+      "size": 3769
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_06.png": {
+      "md5": "61fb203047a0a0f322ab0176a7ae5ced", 
+      "size": 5317
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_07.png": {
+      "md5": "6782717930a13d14f1b6118c423ad77f", 
+      "size": 5396
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_08.png": {
+      "md5": "f680896a4ce931aeb6d89a9f74e7ec1b", 
+      "size": 5272
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_09.png": {
+      "md5": "5d5a7fc25c8f9b823947895db6c57ccb", 
+      "size": 16983
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_10.png": {
+      "md5": "8c19af539e3bca80b594dc0dcba67aec", 
+      "size": 16864
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_11.png": {
+      "md5": "2ad85f0c56cd124628f557046a50a775", 
+      "size": 5008
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_12.png": {
+      "md5": "534f652ec416d37b415013a39f93b91a", 
+      "size": 4482
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_13.png": {
+      "md5": "ce0f2cbc12dc57cd34fbe78e71e8e9d2", 
+      "size": 4784
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_14.png": {
+      "md5": "3c4224252af2458609890d3dade3bc75", 
+      "size": 2290
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_15.png": {
+      "md5": "607f13102960eb20ad43943889c94e61", 
+      "size": 2350
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_16.png": {
+      "md5": "e0c3f66cfa1ac8d528e9452d9e2de110", 
+      "size": 2804
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_17.png": {
+      "md5": "126783a0ad634ab71b0d9bc02ab861d1", 
+      "size": 11358
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_18.png": {
+      "md5": "1d3d76ce99f9d87e10965d15618d4f0d", 
+      "size": 51762
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_19.png": {
+      "md5": "cd3ef8f24a1c672627949bdc17f35ee7", 
+      "size": 4201
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_20.png": {
+      "md5": "bd11ba958bf39047c742030c5a19b3f8", 
+      "size": 308
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_21.png": {
+      "md5": "b49cffeb9802cb43f672c180a3d0ebe3", 
+      "size": 283
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_22.png": {
+      "md5": "c08d2ca62ad1fb291e961ca0bd268bde", 
+      "size": 310
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_23.png": {
+      "md5": "63c33a9ec52989e1a1b25e2bc41c0746", 
+      "size": 1243
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_24.png": {
+      "md5": "1c950f2a0bb1abc1573cbbd8fae5fcef", 
+      "size": 324
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_25.png": {
+      "md5": "d3f5b8e9a75e115e35a5ef49c8c85935", 
+      "size": 336
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_26.png": {
+      "md5": "04056d263c6bcc8f2a3c106fbfc674c6", 
+      "size": 358
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_27.png": {
+      "md5": "440ea087cdf6464cbcb19a5d80d514df", 
+      "size": 568
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_28.png": {
+      "md5": "17103c1d8616c91b33ef8c2c38eaa5d0", 
+      "size": 1373
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_29.png": {
+      "md5": "b24842b848065f2c9e78818a528ca9b2", 
+      "size": 460
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_30.png": {
+      "md5": "566bf17ad5fc3aaee583083bdcbb5b5c", 
+      "size": 3731
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_31.png": {
+      "md5": "493e8c0d1222031570ac1e7bdd9eaba7", 
+      "size": 1012
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_32.png": {
+      "md5": "d5dd6d54793179ff5404bda00fd4ce2e", 
+      "size": 2922
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_33.png": {
+      "md5": "68f78449acde0293205e1d2c198192e6", 
+      "size": 2845
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_34.png": {
+      "md5": "b851c75b8c41b549c9cd3bad368bc91d", 
+      "size": 1383
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_35.png": {
+      "md5": "4233ddb2db382918c9b6e73d3f4a4d21", 
+      "size": 1487
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_36.png": {
+      "md5": "673e883655c8bb89ffaeaea1a12b7ef0", 
+      "size": 1398
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_37.png": {
+      "md5": "e7fac0e085f432b17519b4922398643b", 
+      "size": 1516
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_38.png": {
+      "md5": "8591fb5425fd8f5891fa8c4225cb4602", 
+      "size": 8028
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_39.png": {
+      "md5": "6f8c1cc1015a2a4a1719f49ea7c040cb", 
+      "size": 340
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_40.png": {
+      "md5": "7dc05a02653174ac9d0d056a49f814fd", 
+      "size": 4143
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_41.png": {
+      "md5": "48c34d2dcab860330f8f9e37fa088c53", 
+      "size": 3715
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_42.png": {
+      "md5": "5bb5b48718d07e94b8b3b0dc7956cbc0", 
+      "size": 3037
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_43.png": {
+      "md5": "b8e1761dd424f163835487ab62e863c5", 
+      "size": 3439
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_44.png": {
+      "md5": "66e58271d3c7a8c2e8f0dec2e856e116", 
+      "size": 3831
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_45.png": {
+      "md5": "aa322e6ddd1f47c7f853e7b4712f1bda", 
+      "size": 3901
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_46.png": {
+      "md5": "6db6654c80e50f8fcda61d5add172f61", 
+      "size": 4048
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_47.png": {
+      "md5": "8ecda582e1687413eafc44b11b9ba6ad", 
+      "size": 3621
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_48.png": {
+      "md5": "43c4388091d3a8c3d5f19ad2751b7d03", 
+      "size": 3684
+    }, 
+    "res/csbres/ui_v68_tixian/v68_tixian_49.png": {
+      "md5": "c5de5b87fc980b8779242d2ab1b49a8e", 
+      "size": 2906
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_big.plist": {
+      "md5": "eda8975db92b72c788d6c8119272b23b", 
+      "size": 4082
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_big.png": {
+      "md5": "c2be0806234b243e4dbb39658b719be5", 
+      "size": 145775
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_di.png": {
+      "md5": "dea6df63e89c7ed97e9b58584b8fefa8", 
+      "size": 7034
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_di2.png": {
+      "md5": "06dddeb2b275529701bf2b17a94e3a23", 
+      "size": 5506
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_di_1.png": {
+      "md5": "93f5dde32776942ca24116955a39e603", 
+      "size": 5580
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_small.plist": {
+      "md5": "edc2b9ac2d97a98c89b2ccaf10323caf", 
+      "size": 4100
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_kuang_small.png": {
+      "md5": "3df123d183af8d7f67e50b14e41d5aab", 
+      "size": 103578
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_touxiang.plist": {
+      "md5": "a63fdb91b9e6321820a4cb298b07fe1f", 
+      "size": 6479
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_touxiang.png": {
+      "md5": "bdbddf18fc6d40c5e4bec7e3f0019ca5", 
+      "size": 224149
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_touxiang_yuan.plist": {
+      "md5": "fd61f33758583612dcb9cacff8f9cfa5", 
+      "size": 3593
+    }, 
+    "res/csbres/ui_v68_touxiang/ui_touxiang_yuan.png": {
+      "md5": "af84a7f4ce288c6ac452ebe96f0ccfec", 
+      "size": 34797
+    }, 
+    "res/csbres/ui_v68_vip/ui_data_vip.plist": {
+      "md5": "b3e423806fc08c229151395b0de0c643", 
+      "size": 10192
+    }, 
+    "res/csbres/ui_v68_vip/ui_data_vip.png": {
+      "md5": "ea423a60e2c1795722ea455915384d8b", 
+      "size": 99844
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_01.png": {
+      "md5": "740cc21ac0a815a814d6c19da460afff", 
+      "size": 44055
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_02.png": {
+      "md5": "9d3cca98ea7373ddf928e8756dff85bf", 
+      "size": 85170
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_03.png": {
+      "md5": "0ab3184fb8cb3f9d66921975ab31127f", 
+      "size": 543
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_04.png": {
+      "md5": "dac8e19a90a54235a894e24e0017ebb8", 
+      "size": 2756
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_05.png": {
+      "md5": "c5baf2a405ca41e1ca321656e01b5dfc", 
+      "size": 2510
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_06.png": {
+      "md5": "123f63b91f148f5a746cc6286d264ce9", 
+      "size": 2561
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_07.png": {
+      "md5": "58b14488d90cd61e005417cb290e47c7", 
+      "size": 86503
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_08.png": {
+      "md5": "636b485a38584713e564a620eac7eb1a", 
+      "size": 89246
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_09.png": {
+      "md5": "02bb4445e273c3102424abc19419a273", 
+      "size": 86384
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_10.png": {
+      "md5": "0d4420ec23c3ab988c0ede5800688d76", 
+      "size": 88858
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_11.png": {
+      "md5": "f7ff0dd9e7f02aadd79e95cf899bd969", 
+      "size": 87610
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_12.png": {
+      "md5": "2fb038f6f809f2c24d4293264b0cf53a", 
+      "size": 428
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_13.png": {
+      "md5": "d8cd0d490a8edf1adc7c4c50506d7ae5", 
+      "size": 64295
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_guanbi.png": {
+      "md5": "0d6a47ea1c17bef26f6f049d7f98cfc9", 
+      "size": 2932
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_0.png": {
+      "md5": "8ca850aadf20eb3bbfd9caaf9e7b6881", 
+      "size": 2358
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_1.png": {
+      "md5": "4bbd270194c08b13e536d4b95a9dfdb2", 
+      "size": 2225
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_2.png": {
+      "md5": "424566947f079cb8e4661ecf43a2847b", 
+      "size": 2303
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_3.png": {
+      "md5": "33b508e86d6bbbe75c534864ba88cbed", 
+      "size": 2358
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_4.png": {
+      "md5": "7cbb1a9bd9da4695f0868b4ba57fa3e3", 
+      "size": 2329
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_5.png": {
+      "md5": "e7f132be24ff8dcbb8a78c0e231d3ae7", 
+      "size": 2313
+    }, 
+    "res/csbres/ui_v68_vip/ui_vip_lv_6.png": {
+      "md5": "c8d3e7dfb2d517054577a8c5b3b38638", 
+      "size": 2354
+    }, 
+    "res/csbres/ui_v68_yindao/v68_yindao_01.png": {
+      "md5": "7fdcfede977be19eaa030614ce3dd064", 
+      "size": 4198
+    }, 
+    "res/csbres/ui_v68_yindao/v68_yindao_02.png": {
+      "md5": "ab97eb617a372baf8b439824a147345a", 
+      "size": 4372
+    }, 
+    "res/csbres/ui_v68_yindao/v68_yindao_03.png": {
+      "md5": "57dad039c177c02898335ce38067015b", 
+      "size": 103907
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_01.png": {
+      "md5": "b9e0be9a9f14469d362fad469ae6f24a", 
+      "size": 4191
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_02.png": {
+      "md5": "a4fe6f0e046dbf5f223f1f455421972a", 
+      "size": 2700
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_03.png": {
+      "md5": "f8069ffd7bec3144a38a9f5d0a54c87f", 
+      "size": 2792
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_04.png": {
+      "md5": "1d16f5f9a222eec7f0c30267402ac368", 
+      "size": 2303
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_05.png": {
+      "md5": "0751700b9e36580c03d2c7f2fe9ea5a2", 
+      "size": 2446
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_06.png": {
+      "md5": "0354f991174b2f7c2e7dc7747164895b", 
+      "size": 4364
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_07.png": {
+      "md5": "c8640b1df2597f6e8356e7a99ad6f6e6", 
+      "size": 4505
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_08.png": {
+      "md5": "5508bedd85a8cd82147efb4217b3bf9f", 
+      "size": 4657
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_09.png": {
+      "md5": "49b32e01f49a7bc5f132cba278270d1b", 
+      "size": 4709
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_10.png": {
+      "md5": "7e76dfae475ee51466e727f62226d2ae", 
+      "size": 3813
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_11.png": {
+      "md5": "eccbc0b55661202cccd54c6199875476", 
+      "size": 3682
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_12.png": {
+      "md5": "9f7b8204c262c81e2730162c950c856e", 
+      "size": 4155
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_13.png": {
+      "md5": "fbb7db84f40a1ed2aa61173c7073ff67", 
+      "size": 3664
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_14.png": {
+      "md5": "68d0610e2b3cb71c860c712a8b00f6a0", 
+      "size": 4046
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_15.png": {
+      "md5": "ce4d5a23420754a9bc0a73c2619846c4", 
+      "size": 789
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_16.png": {
+      "md5": "746cedbb5470528c164a0346c8dff8d3", 
+      "size": 810
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_17.png": {
+      "md5": "924d66c31687dbbef8605cb7f44bca2a", 
+      "size": 46800
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_18.png": {
+      "md5": "b7b6f100cff50afbc6c7967297604131", 
+      "size": 450
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_19.png": {
+      "md5": "dc20d54268c704ef5fbd33a3558508e7", 
+      "size": 3725
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_20.png": {
+      "md5": "ba80d34af588625c3b694ff4c7479ec9", 
+      "size": 3671
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_21.png": {
+      "md5": "7e76dfae475ee51466e727f62226d2ae", 
+      "size": 3813
+    }, 
+    "res/csbres/ui_v68_yinhang/v68_yinhang_22.png": {
+      "md5": "9a30ec3a917f77c59a5bd457ed8fcf08", 
+      "size": 12948
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao1.png": {
+      "md5": "70d29025e320e42a6ca8abff99d2eee5", 
+      "size": 7080
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao1_1.png": {
+      "md5": "ac594b269939aeda3d5d23eb76464190", 
+      "size": 7823
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao2.png": {
+      "md5": "13f2777a0475ca9bd9d4939aca2a89a0", 
+      "size": 7152
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao2_1.png": {
+      "md5": "0629ddc62d8cabe6a4a965f23bb16cb3", 
+      "size": 7755
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao3.png": {
+      "md5": "7e47e90f2afe83b76f60fd706d79bd78", 
+      "size": 7062
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao3_1.png": {
+      "md5": "c6a5b2e0980f69912d11ba40b11bfebe", 
+      "size": 7786
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao4.png": {
+      "md5": "15ecf2b6c23f3afc3d39410f7b893ba4", 
+      "size": 7207
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao4_1.png": {
+      "md5": "2dd6e7c7966101ebc725504119fd5c94", 
+      "size": 7919
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao5.png": {
+      "md5": "c9170697fa9714c6800573a06bdb70a4", 
+      "size": 7032
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao5_1.png": {
+      "md5": "ad7f91b2b9a86e8a382257230c223530", 
+      "size": 7912
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao6.png": {
+      "md5": "92b97b3d33eb49517fa5f744a0ffa0d8", 
+      "size": 7187
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao6_1.png": {
+      "md5": "91ccdc28ce20585eab3ebd34eaa83d89", 
+      "size": 7855
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao7.png": {
+      "md5": "714badf1a8fc3e20da93e3a1cde7d9d3", 
+      "size": 17166
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_quandao7_1.png": {
+      "md5": "27b200601f271495089dece26e47ff15", 
+      "size": 18284
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui10.png": {
+      "md5": "a05c68707cf56b113433052c8ee4fd3e", 
+      "size": 42578
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui11.png": {
+      "md5": "342e9e0eb6c394f52667d9907152ed64", 
+      "size": 11912
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui12.png": {
+      "md5": "23311e118b535214d404d547e3e54311", 
+      "size": 5817
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui13.png": {
+      "md5": "c308e0e4bc9520b062a55a7014142365", 
+      "size": 5933
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui14.png": {
+      "md5": "14b60239b11500584550a647173b0dc2", 
+      "size": 3964
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui15.png": {
+      "md5": "b8f8f789c42c23f3398396663a1704a6", 
+      "size": 3841
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui16.png": {
+      "md5": "c572ca24cf609042bcf42e8122967f9f", 
+      "size": 4155
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui17.png": {
+      "md5": "1c5ad220785c3c4aac330f8b66145399", 
+      "size": 4184
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui18.png": {
+      "md5": "090a2c640d1502374967c69f2f3ee2c3", 
+      "size": 4283
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui19.png": {
+      "md5": "dae5426dca56cef2f3ae8a60db3daf18", 
+      "size": 4194
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui20.png": {
+      "md5": "dedf00bfdd34de5e72aff3629f8e2a0a", 
+      "size": 87
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui21.png": {
+      "md5": "c6add2e2d0c010d77c5105c102a519c9", 
+      "size": 1966
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui22.png": {
+      "md5": "90516a3b5994074e864495341c38b8f8", 
+      "size": 109794
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui23.png": {
+      "md5": "ba4d69a3c5414f7d2b01b01dc174eda3", 
+      "size": 2178
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui25.png": {
+      "md5": "d298fc1624ddd0ec6c0e7546c3f725f2", 
+      "size": 7458
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui26.png": {
+      "md5": "0892d67b1f9e3f619e5219d46d6ac2b7", 
+      "size": 7713
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui27.png": {
+      "md5": "993570826cec243c8da16ede469c3fe2", 
+      "size": 5748
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui28.png": {
+      "md5": "dd7352d0d7e396ca75853ce11f5ee6ed", 
+      "size": 5864
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui29.png": {
+      "md5": "fdc5537ed384c84103bc90afade8a56e", 
+      "size": 5678
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui30.png": {
+      "md5": "e49cfed512de9dccaf2b9e645b5c1e8b", 
+      "size": 4631
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui31.png": {
+      "md5": "7309d0f979e785c0096f8ccbbaa562d0", 
+      "size": 9028
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui32.png": {
+      "md5": "f5644f1ca9c53a08e5457074367e633f", 
+      "size": 1574
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui33.png": {
+      "md5": "0336218edf985a0e4d096dc0bfed824a", 
+      "size": 4737
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui34.png": {
+      "md5": "57199afbe00b1eb17ed94ba4f91e961a", 
+      "size": 4842
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui35.png": {
+      "md5": "c9ae9bb43d44779230d26e77e6706119", 
+      "size": 4820
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui36.png": {
+      "md5": "350018f3fbdd65b555599dc4b9b08b79", 
+      "size": 4891
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui37.png": {
+      "md5": "e04ca5045bc741bbed3077cfd4ba6dfd", 
+      "size": 4319
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui38.png": {
+      "md5": "b8d027becdfb8d22c980beb5e1b25ab9", 
+      "size": 4335
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui39.png": {
+      "md5": "556733ac0af1735f36485de9e26c882c", 
+      "size": 15566
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui40.png": {
+      "md5": "f5daf22bdb1a07c73421697577e674c4", 
+      "size": 7394
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui41.png": {
+      "md5": "09fa6b8e70a19d8d7db34672c7117a63", 
+      "size": 7732
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui42.png": {
+      "md5": "1fc2d2cdabc703aa885a960c19073937", 
+      "size": 7420
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui43.png": {
+      "md5": "fa8f0f7535f0f43ed6179a7fb4990ecc", 
+      "size": 7605
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui44.png": {
+      "md5": "d35d8f7fbffdf3b47cb9279812b1a606", 
+      "size": 9355
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui5.png": {
+      "md5": "6c4b39de1f5700d5158eabaf6d9531ba", 
+      "size": 43055
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui6.png": {
+      "md5": "9419d2433d9be8794312dab7a88602a1", 
+      "size": 4734
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui7.png": {
+      "md5": "308c1ae593e82c41ea8c96cbd798f65a", 
+      "size": 5234
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui8.png": {
+      "md5": "0b35a0c6260f63df6f73efb89d5daa69", 
+      "size": 5174
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui9.png": {
+      "md5": "ab4d5b7a5623827f1df704975d842eff", 
+      "size": 40878
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_1.png": {
+      "md5": "6e0a9313ced9a45acdfb8d280d211ad7", 
+      "size": 5906
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_2.png": {
+      "md5": "ea211a6d3d9bbadcf28f7128a565bf23", 
+      "size": 5816
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_3.png": {
+      "md5": "90d8d688226b4449deae84791c0901b0", 
+      "size": 5979
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_4.png": {
+      "md5": "b0fed8075d80da454d231b38141ea5e2", 
+      "size": 5747
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_5.png": {
+      "md5": "8c59e93212d6d3bf58cc544dc9087fd6", 
+      "size": 7381
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_6.png": {
+      "md5": "42952b5e2da8fdf2f07c386e44a6e1e5", 
+      "size": 7647
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_7.png": {
+      "md5": "682cd901ad106c1553d2cb6e94ae155a", 
+      "size": 7178
+    }, 
+    "res/csbres/ui_v68_youhui/ui_v68_youhui_8.png": {
+      "md5": "73f2ac34524575a310740fcf1b8fbd50", 
+      "size": 7489
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_01.png": {
+      "md5": "60a49ccda2a32d2da57511c294259566", 
+      "size": 2387
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_02.png": {
+      "md5": "1ea657cbda25305f7f765d6ed7b85c43", 
+      "size": 2014
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_03.png": {
+      "md5": "951aed8fd7efea1536b1958a9970b4b2", 
+      "size": 3150
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_04.png": {
+      "md5": "f3ad9b11e2856bba93fc84fb4ee832a0", 
+      "size": 3033
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_05.png": {
+      "md5": "1c55ec571ad14e18e14b1faaf4d72a02", 
+      "size": 15472
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_06.png": {
+      "md5": "77643905fa591a171c78f6a73518fdb6", 
+      "size": 1995
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_07.png": {
+      "md5": "1566afa0862a9338ca7289e531fa80a3", 
+      "size": 1880
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_08.png": {
+      "md5": "2a0079c2727bfa4b3ff30610de158051", 
+      "size": 2107
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_09.png": {
+      "md5": "a30ae2293dbd2918bf6f6a943b01b88d", 
+      "size": 1935
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_10.png": {
+      "md5": "a75f04a631c05fe5d4317f77ad4acbc1", 
+      "size": 1780
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_11.png": {
+      "md5": "8626ce753fe96ee9ecea43a73586f94e", 
+      "size": 2131
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_12.png": {
+      "md5": "a62d03cfc4c12d203870854008e20cca", 
+      "size": 2083
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_13.png": {
+      "md5": "1be4eecbd9a0d2796246f15098b3657a", 
+      "size": 1929
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_14.png": {
+      "md5": "db71eaab5a9b61ab98b45e855c67174c", 
+      "size": 1944
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_15.png": {
+      "md5": "19a07439f9670fcf2d759d143fb0a550", 
+      "size": 1973
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_16.png": {
+      "md5": "2fb31eaae346c57316b4d35edf41a094", 
+      "size": 5078
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_17.png": {
+      "md5": "adbf9e9c3af7a3a09da751ac6e118c3b", 
+      "size": 5149
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_18.png": {
+      "md5": "63c8b25ba7bace6d63061924464c5c1c", 
+      "size": 3536
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_18_1.png": {
+      "md5": "a7eca120051bc7f4bb740cea69774f1a", 
+      "size": 2395
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_19.png": {
+      "md5": "df058e5968d1e918d17b3667f2a2573a", 
+      "size": 4160
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_20.png": {
+      "md5": "96fc53556b7687b458e4505400745c7c", 
+      "size": 3460
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_21.png": {
+      "md5": "ebc506643646bcf42995dee015da8b24", 
+      "size": 3446
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_22.png": {
+      "md5": "4c1cac2b6f7db463eee72e459b8307a1", 
+      "size": 188
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_26.png": {
+      "md5": "00f56353377467644606f563793d034e", 
+      "size": 3704
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_27.png": {
+      "md5": "f9cd5ff3a8fc99c239e96bc6dcf89df4", 
+      "size": 3671
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_28.png": {
+      "md5": "0bf0543d8a76412fdab91e1f9c154807", 
+      "size": 3640
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_29.png": {
+      "md5": "efc58cb96049084db181a6b4f2402ebf", 
+      "size": 3736
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_30.png": {
+      "md5": "931db92bfb99f93c64d16b679ee33808", 
+      "size": 3720
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_31.png": {
+      "md5": "551dbf7411aebdc590cec65daec668d3", 
+      "size": 3589
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_32.png": {
+      "md5": "456954b164eb54829f0b742214304a37", 
+      "size": 5515
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_33.png": {
+      "md5": "831f85940e26adcd1e2dad41421a19b6", 
+      "size": 3611
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_34.png": {
+      "md5": "2168963991b18c8ca1af0729e4af39ae", 
+      "size": 20041
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_35.png": {
+      "md5": "7cf73f687891060fab38e0d235dbcde6", 
+      "size": 2345
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_36.png": {
+      "md5": "b8f706abd0d01c0aa7b043cc2f9b3561", 
+      "size": 7567
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_37.png": {
+      "md5": "e6cfc105599841d2d669bc5d37adc5c0", 
+      "size": 13301
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_38.png": {
+      "md5": "0e283e244b8afb027ec9a4af23616c42", 
+      "size": 12887
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_39.png": {
+      "md5": "9deb181a2caed60ff3d179005e98ee93", 
+      "size": 10296
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_40.png": {
+      "md5": "8bc971d50cfd0245504e9f7c4bdfecca", 
+      "size": 10066
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_41.png": {
+      "md5": "4c7596fad9c6bc36f0bef39b024134bd", 
+      "size": 9690
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_42.png": {
+      "md5": "d306f0cb982d7c88f199cd814d041f08", 
+      "size": 6636
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_43.png": {
+      "md5": "9d59174728141c2e446e633db49d5f8f", 
+      "size": 6166
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_b.png": {
+      "md5": "56e2fef8543b3919e31b44143ff90029", 
+      "size": 22823
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_c.png": {
+      "md5": "8a8b66da4bfefa7d85433d29fe87bc81", 
+      "size": 17718
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_d.png": {
+      "md5": "1c0d6aba9982da9b5738381a01d18adc", 
+      "size": 45317
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_f.png": {
+      "md5": "abe46ed30162cd744dd7b7107fc8fae6", 
+      "size": 20634
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_leixing_b.png": {
+      "md5": "c80e3a4f5b41eaf284119e4d8d02fb31", 
+      "size": 3702
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_leixing_c.png": {
+      "md5": "c9299209478b8f6cfc3324e12a27bf0f", 
+      "size": 3733
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_leixing_d.png": {
+      "md5": "00f56353377467644606f563793d034e", 
+      "size": 3704
+    }, 
+    "res/csbres/v68_youhuidaima/v68_youhui_leixing_f.png": {
+      "md5": "96d1917813ee270b09096f1168a3ed2d", 
+      "size": 3624
+    }, 
+    "res/debugconfig.luac": {
+      "md5": "76e05b4bcd09fe3b5f3bbbf6cca5cd2b", 
+      "size": 113
+    }, 
+    "res/effects/lehao_dating_point.plist": {
+      "md5": "b589eb0c6c6814889b0c1bb2c2fe0070", 
+      "size": 2713
+    }, 
+    "res/effects/lehao_dating_point.png": {
+      "md5": "92aa08940f4f78a8b4d5bb0bff843e3d", 
+      "size": 3140
+    }, 
+    "res/effects/lizi_star.plist": {
+      "md5": "98fed8cface5b88a87a88859ec9b9ee8", 
+      "size": 2679
+    }, 
+    "res/effects/lizi_star.png": {
+      "md5": "235e6aee4b3944fc4a4b7b801a7e05d1", 
+      "size": 2342
+    }, 
+    "res/moduledefault/bbnn/project.manifest": {
+      "md5": "ad2236f72124fb1dfd7c5364a15b045c", 
+      "size": 384
+    }, 
+    "res/moduledefault/bbnn/version.manifest": {
+      "md5": "4dfeaf537c9a3b466e7f766ef58138fa", 
+      "size": 255
+    }, 
+    "res/moduledefault/bjl/project.manifest": {
+      "md5": "08002299deb6f4238ccc8c22aaca9916", 
+      "size": 380
+    }, 
+    "res/moduledefault/bjl/version.manifest": {
+      "md5": "b5caa9cdcf2b093cabd1f3edbea45ff2", 
+      "size": 253
+    }, 
+    "res/moduledefault/brnn/project.manifest": {
+      "md5": "b557e0ba774693c09e401d5053e890b9", 
+      "size": 384
+    }, 
+    "res/moduledefault/brnn/version.manifest": {
+      "md5": "9de4b466550d3306d1d2867120d8d3f7", 
+      "size": 255
+    }, 
+    "res/moduledefault/ddz/project.manifest": {
+      "md5": "ea3d2e5707a03cf4223a7756be96a5d7", 
+      "size": 380
+    }, 
+    "res/moduledefault/ddz/version.manifest": {
+      "md5": "9447e4ecb039799fb0708ba23f37e718", 
+      "size": 253
+    }, 
+    "res/moduledefault/fish/project.manifest": {
+      "md5": "83ca5b47741aa684598c5a9475ddcc3b", 
+      "size": 384
+    }, 
+    "res/moduledefault/fish/version.manifest": {
+      "md5": "771afd40eb631c08f8e8522164782f2b", 
+      "size": 255
+    }, 
+    "res/moduledefault/hh/project.manifest": {
+      "md5": "18f6b14812972564f509f0a4a1f9c7f3", 
+      "size": 376
+    }, 
+    "res/moduledefault/hh/version.manifest": {
+      "md5": "a1df337ec7228412b6f0c1d46bc91ff1", 
+      "size": 251
+    }, 
+    "res/moduledefault/lhdz/project.manifest": {
+      "md5": "c35e28b1cc7048420d4e572406fd4fa6", 
+      "size": 384
+    }, 
+    "res/moduledefault/lhdz/version.manifest": {
+      "md5": "98ec31b1dfe48d0d3a93e2f5f8b951e0", 
+      "size": 255
+    }, 
+    "res/moduledefault/qznn/project.manifest": {
+      "md5": "fa6bf9400352423ed8c2e8603f556f44", 
+      "size": 384
+    }, 
+    "res/moduledefault/qznn/version.manifest": {
+      "md5": "9110f0d8d4e64e9620b2b27279b80b74", 
+      "size": 255
+    }, 
+    "res/moduledefault/qznnkp/project.manifest": {
+      "md5": "545b29ba7d0bd6677c72380599a5cf93", 
+      "size": 388
+    }, 
+    "res/moduledefault/qznnkp/version.manifest": {
+      "md5": "344b4e7b88fa8e8ae24fb383b08b5bef", 
+      "size": 259
+    }, 
+    "res/moduledefault/slot/project.manifest": {
+      "md5": "47cec2ad59ac7ac919e65146c83fbb74", 
+      "size": 384
+    }, 
+    "res/moduledefault/slot/version.manifest": {
+      "md5": "d65eb6be8316f72c9efd606cf1c11246", 
+      "size": 255
+    }, 
+    "res/moduledefault/slot888/project.manifest": {
+      "md5": "854c581c96e7cda6b36f843f4f611f26", 
+      "size": 397
+    }, 
+    "res/moduledefault/slot888/version.manifest": {
+      "md5": "300ab7bb858b948c56ac7994389a1426", 
+      "size": 261
+    }, 
+    "res/moduledefault/slotbqtp/project.manifest": {
+      "md5": "61fa7f6a6fa1014b257c770041e89cc3", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotbqtp/version.manifest": {
+      "md5": "c679e7e117d9d51ce82ab2c2ee3cf5d6", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotcqby/project.manifest": {
+      "md5": "d916b7bee1069b53a55ef0d8702a54be", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotcqby/version.manifest": {
+      "md5": "bf14d067e9e4da5e7a721df1ba28b693", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotdjdl/project.manifest": {
+      "md5": "ea00d08281aab01bef1f5bda376eccc0", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotdjdl/version.manifest": {
+      "md5": "904e0495ba85c3ebc479fc393c3b3364", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotflm/project.manifest": {
+      "md5": "65fa19efd0b91edd32b143084f6ac237", 
+      "size": 396
+    }, 
+    "res/moduledefault/slotflm/version.manifest": {
+      "md5": "c7ff3801348917d34789663c2b9d3f0d", 
+      "size": 261
+    }, 
+    "res/moduledefault/slotjpm/project.manifest": {
+      "md5": "b7c1ddc2e44a342638a8412d40cbe0e9", 
+      "size": 396
+    }, 
+    "res/moduledefault/slotjpm/version.manifest": {
+      "md5": "d5b347b16f8ceb6c8eb727b70ef38cda", 
+      "size": 261
+    }, 
+    "res/moduledefault/slotjtbw/project.manifest": {
+      "md5": "1f629e6e13d4a75be0216cc78f16dd65", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotjtbw/version.manifest": {
+      "md5": "0ab1e09f2855efdb5ee6b11a15b8118d", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotlzdb/project.manifest": {
+      "md5": "4c736f6254c7304958d6f596dd565bc9", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotlzdb/version.manifest": {
+      "md5": "74d3df490b723d02198b22f679a5ffa6", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotrrsc/project.manifest": {
+      "md5": "0ab8e4b04941d966e9fb315ec04f9d2e", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotrrsc/version.manifest": {
+      "md5": "92ee0455f1965fc5b16e3445e852fc44", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotsg11/project.manifest": {
+      "md5": "07c0c95d966fb846247d2429f48b4b6d", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotsg11/version.manifest": {
+      "md5": "e5c398752a0cc65fd198cbc8d8818a3b", 
+      "size": 263
+    }, 
+    "res/moduledefault/slotsh/project.manifest": {
+      "md5": "71a20c864bba8fa55286c1d5074daab5", 
+      "size": 392
+    }, 
+    "res/moduledefault/slotsh/version.manifest": {
+      "md5": "b39e715336e837c080fb110dc64784e9", 
+      "size": 259
+    }, 
+    "res/moduledefault/slotshuiguo/project.manifest": {
+      "md5": "b2e55564c5e01f834a30c0f80b76a094", 
+      "size": 412
+    }, 
+    "res/moduledefault/slotshuiguo/version.manifest": {
+      "md5": "dd8ddfa2d1e16b76705a76feed9d2f01", 
+      "size": 269
+    }, 
+    "res/moduledefault/slotwuzetian/project.manifest": {
+      "md5": "dbc07c5a29dcb2d1dfd72f928a0a1c74", 
+      "size": 416
+    }, 
+    "res/moduledefault/slotwuzetian/version.manifest": {
+      "md5": "310910430d1ddaf906147f9c6e755ea6", 
+      "size": 271
+    }, 
+    "res/moduledefault/slotygbh/project.manifest": {
+      "md5": "3f02b32878220d2bd63d37c8ce90083d", 
+      "size": 400
+    }, 
+    "res/moduledefault/slotygbh/version.manifest": {
+      "md5": "eb443e637e49b0fce4916ee29dd7437e", 
+      "size": 263
+    }, 
+    "res/moduledefault/tbnn/project.manifest": {
+      "md5": "f235b09a613b7913d4428ea18f228a62", 
+      "size": 384
+    }, 
+    "res/moduledefault/tbnn/version.manifest": {
+      "md5": "19ce2dc9e34f27c51739200a8fbb1004", 
+      "size": 255
+    }, 
+    "res/moduledefault/zfb/project.manifest": {
+      "md5": "70c6d4778f9ccb94bd9e2c5e928a74d3", 
+      "size": 380
+    }, 
+    "res/moduledefault/zfb/version.manifest": {
+      "md5": "084d8bf73051abd321bf85ac9d47d41d", 
+      "size": 253
+    }, 
+    "res/moduledefault/zjh/project.manifest": {
+      "md5": "5516f9e9f68aee89a86189cd09711fd8", 
+      "size": 380
+    }, 
+    "res/moduledefault/zjh/version.manifest": {
+      "md5": "46c98eb92e122e6e1410f9ab84897ff1", 
+      "size": 253
+    }, 
+    "res/pb/clientmsg.pb": {
+      "md5": "57b215caa8b922ba2a0c2f97663f7150", 
+      "size": 68042
+    }, 
+    "res/sound/dating/Choose_Level.mp3": {
+      "md5": "70cbd18b6419ad641b216a8862a80bd8", 
+      "size": 2657
+    }, 
+    "res/sound/dating/Dating_Back_Botton.mp3": {
+      "md5": "21dfd68dcc87138b053782d685de1911", 
+      "size": 4096
+    }, 
+    "res/sound/dating/Dating_Button.mp3": {
+      "md5": "52b259bcf5ee4d38c7c3c1c2ae33ec5e", 
+      "size": 2342
+    }, 
+    "res/sound/dating/Dating_bg.mp3": {
+      "md5": "4c4aa1d6d2969c5e7675fa4f14224295", 
+      "size": 461470
+    }, 
+    "res/sound/effect/Special_tanchuang.mp3": {
+      "md5": "f8394c0ccb3d6434a5019abc65800279", 
+      "size": 37242
+    }, 
+    "res/sound/effect/ddz_effect_chupai.mp3": {
+      "md5": "f8b050aed933a7b8de676668f124784e", 
+      "size": 4869
+    }, 
+    "res/sound/effect/ddz_effect_countdown.mp3": {
+      "md5": "45f46f7180375e62ce3cecbf777041b3", 
+      "size": 20544
+    }, 
+    "res/sound/effect/ddz_effect_dizhu.mp3": {
+      "md5": "a9b83db0dfb3a777df421d493e9fe36e", 
+      "size": 13356
+    }, 
+    "res/sound/effect/ddz_effect_fapai.mp3": {
+      "md5": "e3306f38b18f90c21f958e7e68074132", 
+      "size": 7070
+    }, 
+    "res/sound/effect/ddz_effect_feiji.mp3": {
+      "md5": "105274d0ded2e59386786836d2c1a204", 
+      "size": 18589
+    }, 
+    "res/sound/effect/ddz_effect_rocket.mp3": {
+      "md5": "f34e3d32dfecf04923d0b18906e47215", 
+      "size": 22229
+    }, 
+    "res/sound/effect/ddz_effect_selectcard.mp3": {
+      "md5": "d5ec481ecea0aa34e40d945a14076410", 
+      "size": 9269
+    }, 
+    "res/sound/effect/ddz_effect_settle_jinbao.mp3": {
+      "md5": "074df7669a805b96d071c971b8ab5e50", 
+      "size": 20123
+    }, 
+    "res/sound/effect/ddz_effect_settle_jinbi.mp3": {
+      "md5": "182838266b47ed01fe4ba707f89f875a", 
+      "size": 16927
+    }, 
+    "res/sound/effect/ddz_effect_settle_loss.mp3": {
+      "md5": "8c0eb6c87a45525eca062428138a4d14", 
+      "size": 32187
+    }, 
+    "res/sound/effect/ddz_effect_settle_win.mp3": {
+      "md5": "0008b387b212d4103104bad3ede68292", 
+      "size": 41344
+    }, 
+    "res/sound/effect/ddz_effect_spring.mp3": {
+      "md5": "a4a1892602e03e7c5fcd94a73af7b66b", 
+      "size": 46452
+    }, 
+    "res/sound/effect/ddz_effect_straight.mp3": {
+      "md5": "75f9601ceef4b76a673767c23f8ee9fc", 
+      "size": 16221
+    }, 
+    "res/sound/effect/ddz_effect_zhadan.mp3": {
+      "md5": "fcc0d3902254cd99e28232d7878043b0", 
+      "size": 15696
+    }, 
+    "res/sound/effect/eff_laizizhuanpai.mp3": {
+      "md5": "ff4db850b3eed87577e9223bdda0d529", 
+      "size": 71097
+    }, 
+    "res/sound/effect/female/3and2.mp3": {
+      "md5": "2e80effd3d496f7a343d2824182c9621", 
+      "size": 45094
+    }, 
+    "res/sound/effect/female/4and2.mp3": {
+      "md5": "62673285f725fbe21d31e9d2427c9df4", 
+      "size": 41960
+    }, 
+    "res/sound/effect/female/Audio_Card_Bomb_W.mp3": {
+      "md5": "b1f51124d5bd9fbbb20c5bee6fa818d6", 
+      "size": 7550
+    }, 
+    "res/sound/effect/female/Audio_Card_DoubleLine_W.mp3": {
+      "md5": "481da8e5c30ad801f99b415a18c53258", 
+      "size": 7341
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_10_W.mp3": {
+      "md5": "2af898af926fc4d59709980063af121a", 
+      "size": 6923
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_2_W.mp3": {
+      "md5": "2674f95ed0cb3a796b776323c23d0a9e", 
+      "size": 6087
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_3_W.mp3": {
+      "md5": "c23b12a4f83ae47ec72b489d3347ced3", 
+      "size": 6296
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_4_W.mp3": {
+      "md5": "14a1f16446e041de962a18cf4ce14d03", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_5_W.mp3": {
+      "md5": "7a687be08349f60110ab1f51d96aae93", 
+      "size": 6296
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_6_W.mp3": {
+      "md5": "e2de30b3af15b4df71175a5853b3d84d", 
+      "size": 5669
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_7_W.mp3": {
+      "md5": "aa39293e08edddc04923121bd4b77c43", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_8_W.mp3": {
+      "md5": "c2394da32f2f1200e5b0e485ed561d0e", 
+      "size": 5669
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_9_W.mp3": {
+      "md5": "b6d11b02fa99db938867af06672feca2", 
+      "size": 6296
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_A_W.mp3": {
+      "md5": "788bfacabc922f131cc7cdf9463df4e0", 
+      "size": 6087
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_J_W.mp3": {
+      "md5": "5f8861a10e620cfcc5a3ffb11e376cbe", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_K_W.mp3": {
+      "md5": "12c5b4e0b5f005ed42fac9ec27fdcd7a", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_Q_W.mp3": {
+      "md5": "3f6f6b0859d4eef3c865e86af48f383b", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Four_Take_2Double_W.mp3": {
+      "md5": "23b31d14fc051cd927addf65ece54b13", 
+      "size": 8595
+    }, 
+    "res/sound/effect/female/Audio_Card_Four_Take_2_W.mp3": {
+      "md5": "f2a73eba12649709266844bb462684e2", 
+      "size": 7759
+    }, 
+    "res/sound/effect/female/Audio_Card_Last_1_W.mp3": {
+      "md5": "795be278973c554a17c0d5e3b4675a5b", 
+      "size": 14272
+    }, 
+    "res/sound/effect/female/Audio_Card_Last_2_W.mp3": {
+      "md5": "a740a062dca84a55db695bce52a7d5c6", 
+      "size": 14237
+    }, 
+    "res/sound/effect/female/Audio_Card_Mingpai_W.mp3": {
+      "md5": "dfd038f6a0a6e6e1f6a513962705b44f", 
+      "size": 13836
+    }, 
+    "res/sound/effect/female/Audio_Card_Plane_W.mp3": {
+      "md5": "3e540978521309b21abc375ebaa1919b", 
+      "size": 6087
+    }, 
+    "res/sound/effect/female/Audio_Card_Plane_Wings_W.mp3": {
+      "md5": "00898f65946cec7880a0de167fb449b4", 
+      "size": 12147
+    }, 
+    "res/sound/effect/female/Audio_Card_Rocket_W.mp3": {
+      "md5": "87eb4c1c8f1e1e459fe3fe789eb48fd9", 
+      "size": 7759
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_10_W.mp3": {
+      "md5": "fe526728779f0d4811943c21959ceadf", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_2_W.mp3": {
+      "md5": "85cdd2cc639d189307cf6c74f89711b2", 
+      "size": 4624
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_3_W.mp3": {
+      "md5": "08b90e502ddc2c13810c1000e4137fd0", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_4_W.mp3": {
+      "md5": "924235863d588679e6ac3d47593e17f8", 
+      "size": 5042
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_5_W.mp3": {
+      "md5": "b5f93c6a12e40e5f7cdc74b67eaa53e5", 
+      "size": 5251
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_6_W.mp3": {
+      "md5": "3ad3ad8a080989dabe66244f14728032", 
+      "size": 4624
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_7_W.mp3": {
+      "md5": "078ae0bccd848506f82ad2a2defb1f5d", 
+      "size": 5460
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_8_W.mp3": {
+      "md5": "3ce3c0fb1fcc0ce59162d68aaefb4dc8", 
+      "size": 5251
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_9_W.mp3": {
+      "md5": "5da5766c56f67be8b265490e53204cd6", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_A_W.mp3": {
+      "md5": "5a347173012c55dfe2a1c4744638c264", 
+      "size": 5042
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_J_W.mp3": {
+      "md5": "106a94808213b29857c38f3082b74ed7", 
+      "size": 4833
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_Joker1_W.mp3": {
+      "md5": "5224d5f485979adbf0032b4e0d556522", 
+      "size": 6296
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_Joker2_W.mp3": {
+      "md5": "6c7401d6b606f500188773f8e5a42253", 
+      "size": 6505
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_K_W.mp3": {
+      "md5": "89e8e88551a8c4ff0f1568c1f6629bca", 
+      "size": 5042
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_Q_W.mp3": {
+      "md5": "4fd933d51c8184d3629750d341b906db", 
+      "size": 5878
+    }, 
+    "res/sound/effect/female/Audio_Card_Straight_W.mp3": {
+      "md5": "910ff6d592092c03a6e58c131f08b56e", 
+      "size": 7550
+    }, 
+    "res/sound/effect/female/Audio_Card_Super_W.mp3": {
+      "md5": "b7c2dd35e4e6458651f1c02c91d2397e", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_10_W.mp3": {
+      "md5": "abaadab9dd5c2679a33bdb1c2ada0e2b", 
+      "size": 18852
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_2_W.mp3": {
+      "md5": "7fc2ebee997489479b9c429b092b9dec", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_3_W.mp3": {
+      "md5": "7fc6edace38d1e5c591c060b56acc362", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_4_W.mp3": {
+      "md5": "63e395e4bd733aec0d24fbb12d6fe8ff", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_5_W.mp3": {
+      "md5": "5041e091ab417ef8a59427079807b8ca", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_6_W.mp3": {
+      "md5": "15d3f57d7ad591259131b2e25e96d2e3", 
+      "size": 16762
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_7_W.mp3": {
+      "md5": "6975c2d7665ffd2e04bf115ae7db53dd", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_8_W.mp3": {
+      "md5": "2c93f7e17af1a21e3516442e95748215", 
+      "size": 16762
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_9_W.mp3": {
+      "md5": "64cc9e4b7f5f6790c00a808037d29ae2", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_A_W.mp3": {
+      "md5": "b4d30cf24ef95b4e766d1e9f266de0a3", 
+      "size": 16762
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_J_W.mp3": {
+      "md5": "e62517d889b9bf0a7d1c477bfaa28632", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_K_W.mp3": {
+      "md5": "15a10e5bf85845a64031cb00f3e6e6df", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_Q_W.mp3": {
+      "md5": "f4ee1dd7b60db5f8e50ff1b20628f1ab", 
+      "size": 17598
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_Take_Double_W.mp3": {
+      "md5": "da548b59198e4d7d36ca89a5edc3015e", 
+      "size": 9013
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_Take_One_W.mp3": {
+      "md5": "2bf9d8e760c3cedf250f3b43a6e57a40", 
+      "size": 7968
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_W.mp3": {
+      "md5": "7415ed420fb48c21a236a72aa859bcfc", 
+      "size": 6505
+    }, 
+    "res/sound/effect/female/Audio_Guided_Missible_W.mp3": {
+      "md5": "80b91b914727db79956374c6ad27896b", 
+      "size": 3054
+    }, 
+    "res/sound/effect/female/Audio_Pass1_W.mp3": {
+      "md5": "315c22214dfa3e73468f37a36a739b17", 
+      "size": 4833
+    }, 
+    "res/sound/effect/female/Audio_Pass2_W.mp3": {
+      "md5": "457da656bf849befce0fe07a0cac9d36", 
+      "size": 4624
+    }, 
+    "res/sound/effect/female/Audio_Pass3_W.mp3": {
+      "md5": "315c22214dfa3e73468f37a36a739b17", 
+      "size": 4833
+    }, 
+    "res/sound/effect/female/Audio_Pass4_W.mp3": {
+      "md5": "ae33d1900d83ad42bf4b1331a6a21ba3", 
+      "size": 17180
+    }, 
+    "res/sound/effect/female/Audio_Sky_Bomb_W.mp3": {
+      "md5": "e7361a533c6ff560fef60cef91f016f9", 
+      "size": 2949
+    }, 
+    "res/sound/effect/female/Audio_Sky_Honur_W.mp3": {
+      "md5": "646605c2d1bfbfff20c9b2893c089f29", 
+      "size": 3367
+    }, 
+    "res/sound/effect/female/Audio_Spring_W.mp3": {
+      "md5": "b8c78a4e65d30da1c128e623d205d239", 
+      "size": 3367
+    }, 
+    "res/sound/effect/female/Audio_Yasi1_W.mp3": {
+      "md5": "8602afe7fe41b1d9f7b38e32053ee2cf", 
+      "size": 13418
+    }, 
+    "res/sound/effect/female/Audio_Yasi2_W.mp3": {
+      "md5": "2162c759818fb161fb08b43071a22f94", 
+      "size": 13836
+    }, 
+    "res/sound/effect/female/Audio_Yasi3_W.mp3": {
+      "md5": "08d3fe23f4f8f9117590b75af6004a65", 
+      "size": 13836
+    }, 
+    "res/sound/effect/female/CALL_DOUBLE_W.mp3": {
+      "md5": "a40ced4ae5069a499395a6345f21724f", 
+      "size": 7149
+    }, 
+    "res/sound/effect/female/CALL_NO_DOUBLE_W.mp3": {
+      "md5": "ede207da75f4dc6d1167068c9aa7b6c6", 
+      "size": 7985
+    }, 
+    "res/sound/effect/female/CallLandlord_BJDZ1_W.mp3": {
+      "md5": "1a2dba01e88c4c1ecc6bd69c5f1491dd", 
+      "size": 11746
+    }, 
+    "res/sound/effect/female/CallLandlord_BJDZ2_W.mp3": {
+      "md5": "fdd635202be64a4c74deefed77f43fab", 
+      "size": 8403
+    }, 
+    "res/sound/effect/female/CallLandlord_BJDZ_W.mp3": {
+      "md5": "b3d62e3d22d0df71bc9b490dd53791d6", 
+      "size": 2636
+    }, 
+    "res/sound/effect/female/CallLandlord_BQDZ_W.mp3": {
+      "md5": "41a559c4a649124e45e344c2832b922e", 
+      "size": 11746
+    }, 
+    "res/sound/effect/female/CallLandlord_JDZ_W.mp3": {
+      "md5": "95cf9a8cfd05266b11fab9d35ffb7ab8", 
+      "size": 15508
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ1_W.mp3": {
+      "md5": "534982c56734adce40d379a69466fd8c", 
+      "size": 14254
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ2_W.mp3": {
+      "md5": "eec0e35681fc989d85871b3dd387f6b9", 
+      "size": 19688
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ3_W.mp3": {
+      "md5": "ce6cad4f7bcc84ad77515e6c8c89d53e", 
+      "size": 13418
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ_W.mp3": {
+      "md5": "3f727f4270ab42c93bf3d0c018a561a0", 
+      "size": 4517
+    }, 
+    "res/sound/effect/female/CallLandlord_Score1_W.mp3": {
+      "md5": "4fd60322abf6811cea52e9ee90248d11", 
+      "size": 6505
+    }, 
+    "res/sound/effect/female/CallLandlord_Score2_W.mp3": {
+      "md5": "1f6b09326e148cd1c528f5c5ffd67474", 
+      "size": 6714
+    }, 
+    "res/sound/effect/female/CallLandlord_Score3_W.mp3": {
+      "md5": "206d7eb2a84a5dcea9adbf281c4abadc", 
+      "size": 6923
+    }, 
+    "res/sound/effect/male/3and2.mp3": {
+      "md5": "607b9d15e735bcc2006c51b0e7f66871", 
+      "size": 12356
+    }, 
+    "res/sound/effect/male/4and2.mp3": {
+      "md5": "9b11a7d9ceb3bb143e6a4b3b44f114ea", 
+      "size": 12565
+    }, 
+    "res/sound/effect/male/Audio_Card_Bomb_M.mp3": {
+      "md5": "ecee355ee250385ec76f884b5e25582a", 
+      "size": 8386
+    }, 
+    "res/sound/effect/male/Audio_Card_DoubleLine_M.mp3": {
+      "md5": "c07d23c22206cb2ea15ba94368a37131", 
+      "size": 8386
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_10_M.mp3": {
+      "md5": "70d3e57fb8cbb6a39c7ab6fcfcdb4242", 
+      "size": 8177
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_2_M.mp3": {
+      "md5": "d8647830cfe80c00dd63b1f24000c8fc", 
+      "size": 7341
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_3_M.mp3": {
+      "md5": "faeaa422026d1a3eae86e6c3291bc3b1", 
+      "size": 8386
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_4_M.mp3": {
+      "md5": "f6881323ecaf1e4098153e0d3fda3fa9", 
+      "size": 9640
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_5_M.mp3": {
+      "md5": "5c5b76dd22a07183b8987e8121717b24", 
+      "size": 8386
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_6_M.mp3": {
+      "md5": "4b9853c2dd34e72e7e6851ad743bdaea", 
+      "size": 8386
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_7_M.mp3": {
+      "md5": "480d67a02fb9d4dacfea80eb4a277e07", 
+      "size": 10267
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_8_M.mp3": {
+      "md5": "889aeaaa39b4d031b84db5d7f97a5d24", 
+      "size": 8595
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_9_M.mp3": {
+      "md5": "9453c53359ae3c1dea61bfbebd672d49", 
+      "size": 8595
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_A_M.mp3": {
+      "md5": "034f27f953dc6d4fdae3140c0e5ccc9a", 
+      "size": 6505
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_J_M.mp3": {
+      "md5": "e6f4f19591075bfb52bc1a79db698d38", 
+      "size": 8386
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_K_M.mp3": {
+      "md5": "65c864d61db9dc42d37b78ecb5353910", 
+      "size": 7132
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_Q_M.mp3": {
+      "md5": "d975c00d6b3a02866a84ff8c7d700f92", 
+      "size": 7968
+    }, 
+    "res/sound/effect/male/Audio_Card_Four_Take_2Double_M.mp3": {
+      "md5": "9b11a7d9ceb3bb143e6a4b3b44f114ea", 
+      "size": 12565
+    }, 
+    "res/sound/effect/male/Audio_Card_Four_Take_2_M.mp3": {
+      "md5": "57fa946f4c10b4284404d35b419df73c", 
+      "size": 9640
+    }, 
+    "res/sound/effect/male/Audio_Card_Last_1_M.mp3": {
+      "md5": "69d8d2fb9fa8f71d8ade9b8f699664fe", 
+      "size": 14864
+    }, 
+    "res/sound/effect/male/Audio_Card_Last_2_M.mp3": {
+      "md5": "1479f47b67773e08fba78d353dba9444", 
+      "size": 15073
+    }, 
+    "res/sound/effect/male/Audio_Card_Mingpai_M.mp3": {
+      "md5": "85aa1d0907f69cd27ef3cffb36215570", 
+      "size": 12582
+    }, 
+    "res/sound/effect/male/Audio_Card_Plane_M.mp3": {
+      "md5": "d325a9baa6bbbde87059cd3c6c3230b0", 
+      "size": 8804
+    }, 
+    "res/sound/effect/male/Audio_Card_Plane_Wings_M.mp3": {
+      "md5": "8178fdb90d4ed065c9e15f3f13e10cf2", 
+      "size": 12774
+    }, 
+    "res/sound/effect/male/Audio_Card_Rocket_M.mp3": {
+      "md5": "d6073361a4dec9015167739944a18641", 
+      "size": 9849
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_10_M.mp3": {
+      "md5": "960eb9f2ebb1370ee0617f3bf711a933", 
+      "size": 5669
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_2_M.mp3": {
+      "md5": "21b6aa4e66c36a7e7122d5987cc88c32", 
+      "size": 6923
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_3_M.mp3": {
+      "md5": "419493717b20089a12eae40bfafb4f4e", 
+      "size": 6087
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_4_M.mp3": {
+      "md5": "8f89b8c3bb8508fb80bf2846b81ed0d6", 
+      "size": 6714
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_5_M.mp3": {
+      "md5": "4e1f0ad9dd6c055a6022d23a6a0ae6d8", 
+      "size": 6087
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_6_M.mp3": {
+      "md5": "330a09410194c2d699568dbc0d507a2c", 
+      "size": 6923
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_7_M.mp3": {
+      "md5": "8e7116727e4a9d60619ac7be983754f5", 
+      "size": 6087
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_8_M.mp3": {
+      "md5": "5c587a00cc941956d3ab2b79b2ad6dad", 
+      "size": 5460
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_9_M.mp3": {
+      "md5": "cd623a2bb8c3fd40df5d96e0f6a0bf86", 
+      "size": 6923
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_A_M.mp3": {
+      "md5": "9280859120aef15e998c01f36a2c20b8", 
+      "size": 5878
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_J_M.mp3": {
+      "md5": "a024e0c6c9665aa68aed340e71d6de26", 
+      "size": 5878
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_Joker1_M.mp3": {
+      "md5": "880b417a33889cfa7df8c59c4e4e0c95", 
+      "size": 7968
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_Joker2_M.mp3": {
+      "md5": "7fae0f230effa48af282684239a97705", 
+      "size": 8595
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_K_M.mp3": {
+      "md5": "d655b59bb08bcdb6c6b07df1d3988123", 
+      "size": 6087
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_Q_M.mp3": {
+      "md5": "798b7f87b8284304d3c3e3ceb6b5ed95", 
+      "size": 4833
+    }, 
+    "res/sound/effect/male/Audio_Card_Straight_M.mp3": {
+      "md5": "e65a6de5dfe1fef9858da0adce284a0b", 
+      "size": 10058
+    }, 
+    "res/sound/effect/male/Audio_Card_Super_M.mp3": {
+      "md5": "c25b3d76a9d2f5c40b3a36a24fd47d96", 
+      "size": 16762
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_10_M.mp3": {
+      "md5": "83f43770db97b851d03293965856a51b", 
+      "size": 15508
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_2_M.mp3": {
+      "md5": "3ae3ed69c2ef5714a9caa18e3c25f781", 
+      "size": 15926
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_3_M.mp3": {
+      "md5": "028210ae2f609518cae7c0a1b43efb65", 
+      "size": 15090
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_4_M.mp3": {
+      "md5": "aacb3be92b4c6e519771c6e0ae292d36", 
+      "size": 14254
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_5_M.mp3": {
+      "md5": "6cdaa360366fd5fdd9ece2b07f2ccff0", 
+      "size": 18434
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_6_M.mp3": {
+      "md5": "cf9ed8ede404728a98476e164da723c2", 
+      "size": 14254
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_7_M.mp3": {
+      "md5": "bdb3cb72a3ff78d468f1be224fc71079", 
+      "size": 16344
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_8_M.mp3": {
+      "md5": "1caa665915f512b9b244ccb59fd00187", 
+      "size": 14254
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_9_M.mp3": {
+      "md5": "d219a3fe982de3f76dbfd12d85a6cbe3", 
+      "size": 16762
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_A_M.mp3": {
+      "md5": "250014f2a42e10efbc79afd0a54ed794", 
+      "size": 15090
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_J_M.mp3": {
+      "md5": "3add4828c118b2d89b1e2edf92f5f7dd", 
+      "size": 14672
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_K_M.mp3": {
+      "md5": "85a3c26355a6f34cdf9d9970ec0d3902", 
+      "size": 15090
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_M.mp3": {
+      "md5": "c6cc58d88e74566b57df24a623e3ab82", 
+      "size": 7759
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_Q_M.mp3": {
+      "md5": "a009b4c2c8e40323f92c28c57a7c1d32", 
+      "size": 15926
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_Take_Double_M.mp3": {
+      "md5": "607b9d15e735bcc2006c51b0e7f66871", 
+      "size": 12356
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_Take_One_M.mp3": {
+      "md5": "a45ed9d44121de86d87f87e596cebcbe", 
+      "size": 9013
+    }, 
+    "res/sound/effect/male/Audio_Guided_Missible_M.mp3": {
+      "md5": "a163ac4b9d3f66c95d5e782fe694fcb8", 
+      "size": 2845
+    }, 
+    "res/sound/effect/male/Audio_Pass1_M.mp3": {
+      "md5": "96cfc2d303317a436f5dc1e89d83e1f0", 
+      "size": 6923
+    }, 
+    "res/sound/effect/male/Audio_Pass2_M.mp3": {
+      "md5": "972307db83672289e600a155a951f0bb", 
+      "size": 8804
+    }, 
+    "res/sound/effect/male/Audio_Pass3_M.mp3": {
+      "md5": "972307db83672289e600a155a951f0bb", 
+      "size": 8804
+    }, 
+    "res/sound/effect/male/Audio_Pass4_M.mp3": {
+      "md5": "abdfc6e228f0fa5890a3758c5b7c21fb", 
+      "size": 13836
+    }, 
+    "res/sound/effect/male/Audio_Sky_Bomb_M.mp3": {
+      "md5": "3bd8a502438585858a8ab98d1e8044a6", 
+      "size": 3785
+    }, 
+    "res/sound/effect/male/Audio_Sky_Honur_M.mp3": {
+      "md5": "b94e6ff170b359ccb55dff87015c7921", 
+      "size": 3263
+    }, 
+    "res/sound/effect/male/Audio_Spring_M.mp3": {
+      "md5": "c4e89e6a8cde01ed69583b742886396c", 
+      "size": 3472
+    }, 
+    "res/sound/effect/male/Audio_Yasi1_M.mp3": {
+      "md5": "116a4b19a96edea2a10dbd87fa23e44c", 
+      "size": 14672
+    }, 
+    "res/sound/effect/male/Audio_Yasi2_M.mp3": {
+      "md5": "a5f1ed160e5412a9859a211540fb08ed", 
+      "size": 15508
+    }, 
+    "res/sound/effect/male/Audio_Yasi3_M.mp3": {
+      "md5": "45109404b1a0cfaf67c66f7e8a5983e8", 
+      "size": 16762
+    }, 
+    "res/sound/effect/male/CALL_DOUBLE_M.mp3": {
+      "md5": "d9f5b1b3ccfb5ff86aa512f0dc2b6497", 
+      "size": 6313
+    }, 
+    "res/sound/effect/male/CALL_NO_DOUBLE_M.mp3": {
+      "md5": "d03c484fa5296c2d3d61c68356e89d1f", 
+      "size": 4850
+    }, 
+    "res/sound/effect/male/CallLandlord_BJDZ1_M.mp3": {
+      "md5": "a053c8d50fba82cc6aab0f7344bfdef1", 
+      "size": 9657
+    }, 
+    "res/sound/effect/male/CallLandlord_BJDZ2_M.mp3": {
+      "md5": "1ae8defbf1fb8654374a9473e14696c1", 
+      "size": 8403
+    }, 
+    "res/sound/effect/male/CallLandlord_BJDZ_M.mp3": {
+      "md5": "4ac6175c55e5dbcc10ac962a49226276", 
+      "size": 2636
+    }, 
+    "res/sound/effect/male/CallLandlord_BQDZ_M.mp3": {
+      "md5": "68d7768263eeecda77037797c297c0b7", 
+      "size": 8821
+    }, 
+    "res/sound/effect/male/CallLandlord_JDZ_M.mp3": {
+      "md5": "4eba79a4197384486120f590b8c2e87e", 
+      "size": 12164
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ1_M.mp3": {
+      "md5": "d14dff647cd7b2f8d37ad7dfab91d8f6", 
+      "size": 12582
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ2_M.mp3": {
+      "md5": "b5c2d8c87570af4386c368d74fae8fb3", 
+      "size": 18434
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ3_M.mp3": {
+      "md5": "9e0d76feeaf7fff58757e4f797b6488b", 
+      "size": 12582
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ_M.mp3": {
+      "md5": "a451b958cc32663d55c7b4d7ea1183f6", 
+      "size": 4830
+    }, 
+    "res/sound/effect/male/CallLandlord_Score1_M.mp3": {
+      "md5": "f61b2ceb073a9687fa9e4ecd45ece637", 
+      "size": 7341
+    }, 
+    "res/sound/effect/male/CallLandlord_Score2_M.mp3": {
+      "md5": "6a6c54e4167895bf4d9d34926731a730", 
+      "size": 9013
+    }, 
+    "res/sound/effect/male/CallLandlord_Score3_M.mp3": {
+      "md5": "4bea9256a419522ffa1ed78820737a0d", 
+      "size": 9640
+    }, 
+    "res/sound/music/button_close.mp3": {
+      "md5": "78fbcc388c68d180c78e0160961e43bf", 
+      "size": 4432
+    }, 
+    "res/sound/music/button_open.mp3": {
+      "md5": "2abb2c0a48236f3376afd2be5c6bccdc", 
+      "size": 4839
+    }, 
+    "res/sound/music/ddz_fight.mp3": {
+      "md5": "fa8ed747d26b6c381e8c351a3fe17611", 
+      "size": 122752
+    }, 
+    "res/sound/music/ddz_fight2.mp3": {
+      "md5": "fa8ed747d26b6c381e8c351a3fe17611", 
+      "size": 122752
+    }, 
+    "res/sound/music/ddz_main_game.mp3": {
+      "md5": "56c1db58530236adc9255ff7a4714e36", 
+      "size": 251615
+    }, 
+    "res/sound/music/lost.mp3": {
+      "md5": "8c0eb6c87a45525eca062428138a4d14", 
+      "size": 32187
+    }, 
+    "res/sound/music/win.mp3": {
+      "md5": "0008b387b212d4103104bad3ede68292", 
+      "size": 41344
+    }, 
+    "src/GameApp.luac": {
+      "md5": "c694ffb1b4fcecb9c51b1156c2556a91", 
+      "size": 1633
+    }, 
+    "src/Hall/DDZRoomView.luac": {
+      "md5": "4ba67f51b42825d9d6fb586cccf9bf51", 
+      "size": 5137
+    }, 
+    "src/Hall/EventNewsView.luac": {
+      "md5": "9eb8f7a24bb4fe4dd30257d2a0f76e48", 
+      "size": 341
+    }, 
+    "src/Hall/GameChooseBgView.luac": {
+      "md5": "f558fa507a57929621b3d845156d146e", 
+      "size": 33229
+    }, 
+    "src/Hall/GameHelpView.luac": {
+      "md5": "2d8bf4713964a273ed02ba8792ae9f94", 
+      "size": 1049
+    }, 
+    "src/Hall/GameRecordsDetail.luac": {
+      "md5": "96b57a840bef1d1683e5766adcb8402b", 
+      "size": 1721
+    }, 
+    "src/Hall/GameRecordsView.luac": {
+      "md5": "aacb7dc5c4be33eb30a09545b336a97b", 
+      "size": 3269
+    }, 
+    "src/Hall/HallAgentView.luac": {
+      "md5": "3bbbbf968bc65810d8e3bafb3689b1aa", 
+      "size": 17049
+    }, 
+    "src/Hall/HallAlertView.luac": {
+      "md5": "5569b1b8c30a41b42dfa0b0409d1ae50", 
+      "size": 1237
+    }, 
+    "src/Hall/HallAwardView.luac": {
+      "md5": "4792542124dd1d04407cbf4995708ed9", 
+      "size": 1733
+    }, 
+    "src/Hall/HallBangDingView.luac": {
+      "md5": "aab089eb9d4a160a6308bf0a9e0ede1a", 
+      "size": 14597
+    }, 
+    "src/Hall/HallChangePhone.luac": {
+      "md5": "7f6d078da9359b59083bb39383bcec9c", 
+      "size": 4009
+    }, 
+    "src/Hall/HallDataManage.luac": {
+      "md5": "c73ee3168c8291826372965e48ccfe85", 
+      "size": 3185
+    }, 
+    "src/Hall/HallDiscountHelp.luac": {
+      "md5": "315133f0a6ac01723955a9f404f62748", 
+      "size": 1669
+    }, 
+    "src/Hall/HallDiscountView.luac": {
+      "md5": "696fcd6a9b3edce9e9b9ba5041f06e90", 
+      "size": 19685
+    }, 
+    "src/Hall/HallDuiHuanView.luac": {
+      "md5": "2f4d03a6056a64c065b2a87a10572f65", 
+      "size": 7561
+    }, 
+    "src/Hall/HallEnum.luac": {
+      "md5": "c972196b1cd5c3d10a7c345498efb88a", 
+      "size": 3973
+    }, 
+    "src/Hall/HallGetView.luac": {
+      "md5": "22940bf2d63871bfdeaceae062f87e11", 
+      "size": 3001
+    }, 
+    "src/Hall/HallInformationView.luac": {
+      "md5": "f91ee3b9b43088fd3d7219e3e9a83624", 
+      "size": 11053
+    }, 
+    "src/Hall/HallIntegralView.luac": {
+      "md5": "88e60f7ecf8e6d830ce09408de517e99", 
+      "size": 20357
+    }, 
+    "src/Hall/HallMailDetailView.luac": {
+      "md5": "43c30d16fa8edef797dbf09fcebdf2c4", 
+      "size": 5633
+    }, 
+    "src/Hall/HallMailView.luac": {
+      "md5": "bfb75d5da23badc9c044452777740f47", 
+      "size": 13389
+    }, 
+    "src/Hall/HallMainView.luac": {
+      "md5": "a9c303d6503fd2f1c6c2427ce10b7afe", 
+      "size": 41129
+    }, 
+    "src/Hall/HallMallView.luac": {
+      "md5": "53ba4f8e88a094665f424ab9bffb83bd", 
+      "size": 11853
+    }, 
+    "src/Hall/HallMatchingView.luac": {
+      "md5": "3264b8856e55a49d6b98c4bd20a2dfe3", 
+      "size": 693
+    }, 
+    "src/Hall/HallMsgSender.luac": {
+      "md5": "db30f3fe33c30c4ecaab8c85124afd8a", 
+      "size": 13793
+    }, 
+    "src/Hall/HallNetMsgListener.luac": {
+      "md5": "527655c34623e4e2b96d34f14c4e2ab7", 
+      "size": 16485
+    }, 
+    "src/Hall/HallNewPlayer.luac": {
+      "md5": "9a74cc7cab8a5d7deef43a1d4b6cf5e7", 
+      "size": 1101
+    }, 
+    "src/Hall/HallPhoneBindView.luac": {
+      "md5": "be8e267e7a26e1c90b0f9b42e60a207b", 
+      "size": 3513
+    }, 
+    "src/Hall/HallPiggyBankSetMimaView.luac": {
+      "md5": "c1d8d33913f8a7aaae74cdf4302af13d", 
+      "size": 2325
+    }, 
+    "src/Hall/HallPiggyBankView.luac": {
+      "md5": "c1c2e24174d32902418f585296d97189", 
+      "size": 14393
+    }, 
+    "src/Hall/HallPopView.luac": {
+      "md5": "bfbf7f95d50f8b4f965d22733bc43f4e", 
+      "size": 1761
+    }, 
+    "src/Hall/HallRankView.luac": {
+      "md5": "e951f3edfd2f79b0411d12c538d35017", 
+      "size": 9241
+    }, 
+    "src/Hall/HallScene.luac": {
+      "md5": "c21cdc87d3784fc1ee767cbb36bb744d", 
+      "size": 5117
+    }, 
+    "src/Hall/HallServiceView.luac": {
+      "md5": "a2a9ac66845fc121d3519d2d019eece0", 
+      "size": 8685
+    }, 
+    "src/Hall/HallSettingView.luac": {
+      "md5": "9d423bc9758640322c02f0e11b8f2900", 
+      "size": 4113
+    }, 
+    "src/Hall/HallShareErWeiMaView.luac": {
+      "md5": "f77df56902e46bb3e337f78b475656a8", 
+      "size": 877
+    }, 
+    "src/Hall/HallShareView.luac": {
+      "md5": "bb022b65124fe92eda6eb5e0db26780a", 
+      "size": 2081
+    }, 
+    "src/Hall/HallSignGift.luac": {
+      "md5": "9fa2f7d99f547334772b0fd29b913fbc", 
+      "size": 1053
+    }, 
+    "src/Hall/HallTransferRecord.luac": {
+      "md5": "ffd9a1cfcd8371f1093371a9137c8898", 
+      "size": 8349
+    }, 
+    "src/Hall/HallVIPView.luac": {
+      "md5": "00b3c6810649f44891ac0de32c90d668", 
+      "size": 4969
+    }, 
+    "src/Hall/HallWalletView.luac": {
+      "md5": "e91dbb23ff534d847c236f29982fd290", 
+      "size": 1661
+    }, 
+    "src/Hall/HallWebView.luac": {
+      "md5": "deb1ad2366c21c1a78e2499ad324b255", 
+      "size": 4957
+    }, 
+    "src/Hall/HallYouhuimaView.luac": {
+      "md5": "9a44fec98e0ad36d4ce214897ba6ce6c", 
+      "size": 8213
+    }, 
+    "src/Hall/ScreenLoading.luac": {
+      "md5": "70c2b9a083a0fd720d27192f6f42069d", 
+      "size": 573
+    }, 
+    "src/Hall/UpdateHeadView.luac": {
+      "md5": "af10581958009b0df2086c99a66664a7", 
+      "size": 6957
+    }, 
+    "src/Hall/init.luac": {
+      "md5": "b082a5a67d76d8a68612fe6800e44513", 
+      "size": 201
+    }, 
+    "src/Login/LoginAccountSelectLayer.luac": {
+      "md5": "824b2c68358266afb5b5218f79d4ffca", 
+      "size": 5029
+    }, 
+    "src/Login/LoginAcountLoginLayer.luac": {
+      "md5": "fdf8f607fdaacd976e62bb9229839bea", 
+      "size": 2197
+    }, 
+    "src/Login/LoginLayer.luac": {
+      "md5": "2f95d8247f70aa2820e3ad87c56abf11", 
+      "size": 5129
+    }, 
+    "src/Login/LoginLoading.luac": {
+      "md5": "67900e0ebfd7dc2e0f7c2bc0e0dd3f21", 
+      "size": 1505
+    }, 
+    "src/Login/LoginRegistLayer.luac": {
+      "md5": "6f240d203d6447289669fd870e32cd79", 
+      "size": 3797
+    }, 
+    "src/Login/LoginResetPassWordlayer.luac": {
+      "md5": "eec73d8ef564873e6096c827fd80a2ba", 
+      "size": 3617
+    }, 
+    "src/Login/LoginScene.luac": {
+      "md5": "9fa6eafd580dfed3eb33d442af2282c7", 
+      "size": 7689
+    }, 
+    "src/Login/LoginTelLayer.luac": {
+      "md5": "c2f612e774abafd8c5c4124f121dd2e2", 
+      "size": 2557
+    }, 
+    "src/Login/RestartLayer.luac": {
+      "md5": "c1e83f15045ee3b02739c28da868803f", 
+      "size": 1737
+    }, 
+    "src/Logo/HotUpdate.luac": {
+      "md5": "544a7fa963d0438436bbd3ddbf00f994", 
+      "size": 23313
+    }, 
+    "src/Logo/Logo.luac": {
+      "md5": "3eed959512dc498c1ef60f4eda1155c7", 
+      "size": 941
+    }, 
+    "src/Logo/MainScene.luac": {
+      "md5": "af93fdf6834a6eaa4db7764a509a4d22", 
+      "size": 6837
+    }, 
+    "src/LuaExtend.luac": {
+      "md5": "d7e4b05fa842ea5efa1ee337fc8352c9", 
+      "size": 1365
+    }, 
+    "src/app/BaseUI/BaseScene.luac": {
+      "md5": "6fe181d5dda9f798b25f1cc5174fb381", 
+      "size": 125
+    }, 
+    "src/app/GameConfig.luac": {
+      "md5": "b5bb02e6f1e2bf1f6b252fbaa3a12734", 
+      "size": 537
+    }, 
+    "src/app/Global/GameData.luac": {
+      "md5": "34bba47bcf900f962481860b4002dd5d", 
+      "size": 23537
+    }, 
+    "src/app/Global/Global.luac": {
+      "md5": "b23136ec9baf576910cf1c1e38454a26", 
+      "size": 7569
+    }, 
+    "src/app/Global/GlobalData.luac": {
+      "md5": "9b82bcc916e8b094f77f106b1d35a386", 
+      "size": 205
+    }, 
+    "src/app/Global/Helper.luac": {
+      "md5": "0b15e627b9551cc124e2695fd5665241", 
+      "size": 25433
+    }, 
+    "src/app/Global/HttpHelper.luac": {
+      "md5": "a32f8bc1a8f17a461a2ff8f05b640f86", 
+      "size": 2313
+    }, 
+    "src/app/Global/IDCard.luac": {
+      "md5": "6e7802661ffe906829c8733e245499a4", 
+      "size": 4857
+    }, 
+    "src/app/Global/MsgQueue.luac": {
+      "md5": "7e7bc86354807aac5c729f6485d7a03f", 
+      "size": 645
+    }, 
+    "src/app/Global/Queue.luac": {
+      "md5": "36d442f0c3dbb0e2cedb3b49b3d6afc5", 
+      "size": 641
+    }, 
+    "src/app/Global/ResultRecordManager.luac": {
+      "md5": "0ae18c9e17f75f3d7c879991b1722ced", 
+      "size": 7013
+    }, 
+    "src/app/Global/SceneManager.luac": {
+      "md5": "d18657c1da76bc15a9a861392c348a80", 
+      "size": 2661
+    }, 
+    "src/app/Global/ShaderEffect.luac": {
+      "md5": "e7da47e8a518432d3b40267138680f66", 
+      "size": 8577
+    }, 
+    "src/app/Global/StringConfig.luac": {
+      "md5": "4144c7a88daabff9a63188920859de4a", 
+      "size": 533
+    }, 
+    "src/app/Global/Utility.luac": {
+      "md5": "d15c60c95ef0195421a6b9c0f3721721", 
+      "size": 1069
+    }, 
+    "src/app/Global/VoiceMgr.luac": {
+      "md5": "e63a75e2b9b436546188341c3ffc3376", 
+      "size": 33557
+    }, 
+    "src/app/Global/XMLAnimateHelper.luac": {
+      "md5": "32ac80ffa88c3785c9cf273a85f2e741", 
+      "size": 5225
+    }, 
+    "src/app/Global/enum.luac": {
+      "md5": "2580f3ad44869d866ac4d8f265ca39f6", 
+      "size": 15777
+    }, 
+    "src/app/GlobalNetMgr/GlobalMsgListener.luac": {
+      "md5": "70d5cf7f66ca735f7e538406f200bd71", 
+      "size": 27225
+    }, 
+    "src/app/GlobalNetMgr/MsgSender.luac": {
+      "md5": "f63cc96a12e694a8e408285cab19816e", 
+      "size": 13849
+    }, 
+    "src/app/Platform/Platform.luac": {
+      "md5": "4332309e60eb3bb70fa928a3e54b6915", 
+      "size": 10001
+    }, 
+    "src/app/Platform/PlatformCallBack.luac": {
+      "md5": "496bbd11e45eec9d9514758fe50b6316", 
+      "size": 2241
+    }, 
+    "src/app/Platform/Platform_Android.luac": {
+      "md5": "817ef5c5972c4b934b933dddce1a04ed", 
+      "size": 17461
+    }, 
+    "src/app/Platform/Platform_IOS.luac": {
+      "md5": "99a64c67b19936e832a6d377dee1bcd8", 
+      "size": 10749
+    }, 
+    "src/app/Platform/Platform_Win32.luac": {
+      "md5": "1c5bb164ed0365b3793c6dff24a043c1", 
+      "size": 3817
+    }, 
+    "src/app/Protobuf/protobuf.luac": {
+      "md5": "bf00cee1a23034f54283639eb1d7f146", 
+      "size": 14105
+    }, 
+    "src/app/framebase/AudioManager.luac": {
+      "md5": "c44b05f73e797c66e508bc5155c10e1a", 
+      "size": 2869
+    }, 
+    "src/app/framebase/NetworkBridge.luac": {
+      "md5": "5797b30ef22a371785b78a38a90c0a60", 
+      "size": 6797
+    }, 
+    "src/app/framebase/ToolMd5.luac": {
+      "md5": "f28428b41017de213d7c644dd6c3e05d", 
+      "size": 10341
+    }, 
+    "src/app/framebase/XmlParser.luac": {
+      "md5": "5fa69c588cad6a941609e64e8209e474", 
+      "size": 3449
+    }, 
+    "src/app/framebase/YHAnimatePackerLua.luac": {
+      "md5": "2c21c7c61396367bd3eb18eea1050c74", 
+      "size": 4265
+    }, 
+    "src/app/framebase/YHEventHandler.luac": {
+      "md5": "de5ece88a85cfd62dd4644998b2e3013", 
+      "size": 6493
+    }, 
+    "src/app/framebase/i18nUtils.luac": {
+      "md5": "afc67052c1f4686573cdae3b4db43fab", 
+      "size": 1389
+    }, 
+    "src/app/init.luac": {
+      "md5": "ca01fb9fa03bed6c1ef4761915a9dc09", 
+      "size": 969
+    }, 
+    "src/app/string_zh.luac": {
+      "md5": "ef5de3ebbcc1da67cec13c54bee6d8e8", 
+      "size": 11861
+    }, 
+    "src/component/GamingHeartControl.luac": {
+      "md5": "8d6cfdd8f74ce79cfbce472e352f5998", 
+      "size": 1133
+    }, 
+    "src/component/LoadingView.luac": {
+      "md5": "87f7823c818352cdaec0f03ecc9a84f8", 
+      "size": 561
+    }, 
+    "src/component/LoginNode.luac": {
+      "md5": "728efd4ed31068c7889821deeada205d", 
+      "size": 3173
+    }, 
+    "src/component/MsgBox.luac": {
+      "md5": "a108ec6975ebddab89a0ea4ce72b201c", 
+      "size": 5397
+    }, 
+    "src/component/NetLoading.luac": {
+      "md5": "f7c48d21932a378f6f860cedc3b1c99d", 
+      "size": 7817
+    }, 
+    "src/component/QuickReconnectLayer.luac": {
+      "md5": "885602b23dd70312e2c67d1059634fd7", 
+      "size": 2817
+    }, 
+    "src/component/UITools.luac": {
+      "md5": "ca076ef35bfcfbc1696dee8edb0743f7", 
+      "size": 4505
+    }, 
+    "src/config.luac": {
+      "md5": "a01f56949a31ea9fe80063421deb924d", 
+      "size": 665
+    }, 
+    "src/main.luac": {
+      "md5": "54cd71d4f1bbaa148b925bef5b4fc1d6", 
+      "size": 789
+    }, 
+    "src/module/ModuleAction.luac": {
+      "md5": "4ce21b7353a7fdbbce9984968fd54630", 
+      "size": 277
+    }, 
+    "src/module/ModuleManager.luac": {
+      "md5": "84ef358b7b067f1863e265db28466cc9", 
+      "size": 22901
+    }, 
+    "src/module/ModuleUpdate.luac": {
+      "md5": "f6aaee0d3af4653ffaa42b7af2e643e4", 
+      "size": 5001
+    }, 
+    "src/publicui/GameHelpLayer.luac": {
+      "md5": "9fbb689fbb8340853cac52218600ae80", 
+      "size": 2417
+    }, 
+    "src/third/ThirdData.luac": {
+      "md5": "1b37f4c9261d89b52d97026931ccd3a4", 
+      "size": 6645
+    }, 
+    "src/third/ThirdEnum.luac": {
+      "md5": "0fb54f59e044c30a9d9c52e5b4278f10", 
+      "size": 2721
+    }, 
+    "src/third/ThirdMsgHandler.luac": {
+      "md5": "24e2272ed003e22183a0f2cc78caeab7", 
+      "size": 13365
+    }, 
+    "src/third/ThirdMsgSender.luac": {
+      "md5": "5187f41255d7c9bf2841639b99ee94ec", 
+      "size": 16225
+    }, 
+    "src/third/ThirdNetBridge.luac": {
+      "md5": "a736f0116c1c327f51d32ecba96f81e7", 
+      "size": 7161
+    }
+  }, 
+  "packageUrl": "http://euqp_hotupdate.64b88.cn", 
+  "remoteManifestUrl": "http://euqp_hotupdate.64b88.cn/project.manifest", 
+  "remoteVersionUrl": "http://euqp_hotupdate.64b88.cn/version.manifest", 
+  "searchPaths": [], 
+  "version": "1.1.99"
+}

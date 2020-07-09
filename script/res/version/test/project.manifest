@@ -1,0 +1,4059 @@
+{
+  "assets": {
+    "base/cocos/3d/3dConstants.lua": {
+      "md5": "e825060c9abf336a04ca5fdc2619d9ad"
+    }, 
+    "base/cocos/cocos2d/Cocos2d.lua": {
+      "md5": "d3e3e5e63bab2b8ce0a1b5d960c11aeb"
+    }, 
+    "base/cocos/cocos2d/Cocos2dConstants.lua": {
+      "md5": "fcc4e2bf4097ee334c750f379dd8dc80"
+    }, 
+    "base/cocos/cocos2d/DeprecatedCocos2dClass.lua": {
+      "md5": "025676dfdd3f9c19b6024de9aca9a1d6"
+    }, 
+    "base/cocos/cocos2d/DeprecatedCocos2dEnum.lua": {
+      "md5": "c1a66a0d053f5699e3fe29b4348e247f"
+    }, 
+    "base/cocos/cocos2d/DeprecatedCocos2dFunc.lua": {
+      "md5": "73a1d93c77822e0c92faf0874df5e848"
+    }, 
+    "base/cocos/cocos2d/DeprecatedOpenglEnum.lua": {
+      "md5": "686a2e1cd0366cb3e98abd85e99139db"
+    }, 
+    "base/cocos/cocos2d/DrawPrimitives.lua": {
+      "md5": "52ed23a28af37410a9d2518a6d4f6557"
+    }, 
+    "base/cocos/cocos2d/Opengl.lua": {
+      "md5": "fcfa59dc2f11ce8b34dd5433b2cba7b3"
+    }, 
+    "base/cocos/cocos2d/OpenglConstants.lua": {
+      "md5": "5bd7bff274280d638a92705333c5ab47"
+    }, 
+    "base/cocos/cocos2d/bitExtend.lua": {
+      "md5": "d97acd155084fd08cd5945e4ad7dbad6"
+    }, 
+    "base/cocos/cocos2d/deprecated.lua": {
+      "md5": "117f054ef632396cc602f54850bac49d"
+    }, 
+    "base/cocos/cocos2d/functions.lua": {
+      "md5": "26439d93b6f22f6277ba7c9a038d0b2f"
+    }, 
+    "base/cocos/cocos2d/json.lua": {
+      "md5": "af25b930d1202aea87039ddf380488b2"
+    }, 
+    "base/cocos/cocos2d/luaj.lua": {
+      "md5": "6a8d809ce792003de4e9ef2b19d3a69c"
+    }, 
+    "base/cocos/cocos2d/luaoc.lua": {
+      "md5": "7dac884047788e8a67ee74fb502de398"
+    }, 
+    "base/cocos/cocosbuilder/CCBReaderLoad.lua": {
+      "md5": "bd8033dcac7a2ff66ffc28ecf1bf481a"
+    }, 
+    "base/cocos/cocosbuilder/DeprecatedCocosBuilderClass.lua": {
+      "md5": "66d1418e6996754dcc6def1ecc0f2bb9"
+    }, 
+    "base/cocos/cocosdenshion/AudioEngine.lua": {
+      "md5": "e5a781ae884dffaad788bb9d3469c2f9"
+    }, 
+    "base/cocos/cocosdenshion/DeprecatedCocosDenshionClass.lua": {
+      "md5": "394e23992d05bd21a80f6480dc7aa689"
+    }, 
+    "base/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.lua": {
+      "md5": "b2a937b827f4534fe93fedb18c3afc60"
+    }, 
+    "base/cocos/cocostudio/CocoStudio.lua": {
+      "md5": "aa153ca7cb50004a8da99dd48b7a4b78"
+    }, 
+    "base/cocos/cocostudio/DeprecatedCocoStudioClass.lua": {
+      "md5": "15f0e49b346f0026b38ea4294de278d3"
+    }, 
+    "base/cocos/cocostudio/DeprecatedCocoStudioFunc.lua": {
+      "md5": "4b9fd27a60881171e466f834b57a6664"
+    }, 
+    "base/cocos/cocostudio/StudioConstants.lua": {
+      "md5": "cf15865a5ca60bcdbe29ab2364a24824"
+    }, 
+    "base/cocos/controller/ControllerConstants.lua": {
+      "md5": "ec71a0f02b11769725420f79afdecf11"
+    }, 
+    "base/cocos/extension/DeprecatedExtensionClass.lua": {
+      "md5": "4680cbe5597845050f979315bf9b288b"
+    }, 
+    "base/cocos/extension/DeprecatedExtensionEnum.lua": {
+      "md5": "c70b3195c37a800cdf39b4d632ddb822"
+    }, 
+    "base/cocos/extension/DeprecatedExtensionFunc.lua": {
+      "md5": "767d15a232e5b69b4f4bd30329d31ccd"
+    }, 
+    "base/cocos/extension/ExtensionConstants.lua": {
+      "md5": "2e493600ea66630fe265adb019ba4292"
+    }, 
+    "base/cocos/framework/audio.lua": {
+      "md5": "b86c62cff4fb8bac1e195bc820e08a5b"
+    }, 
+    "base/cocos/framework/components/event.lua": {
+      "md5": "ce90b474524bb36c82833acd3d23a741"
+    }, 
+    "base/cocos/framework/device.lua": {
+      "md5": "072952dec00def471895eeca49819454"
+    }, 
+    "base/cocos/framework/display.lua": {
+      "md5": "68914db5996975d30626041704c19606"
+    }, 
+    "base/cocos/framework/extends/LayerEx.lua": {
+      "md5": "a3c279b0444da90f93bb89da9ebd06a7"
+    }, 
+    "base/cocos/framework/extends/MenuEx.lua": {
+      "md5": "222e0b1df0800778315488d0fd44560c"
+    }, 
+    "base/cocos/framework/extends/NodeEx.lua": {
+      "md5": "8adb6cc28df93a4713dd8956b453a792"
+    }, 
+    "base/cocos/framework/extends/SpriteEx.lua": {
+      "md5": "2d657416adb9541a4034d93294daf1c2"
+    }, 
+    "base/cocos/framework/extends/UICheckBox.lua": {
+      "md5": "4f81cf3b992d1664a406619fb9299e27"
+    }, 
+    "base/cocos/framework/extends/UIEditBox.lua": {
+      "md5": "9307dd1c5b67bbd8518412c2695bffba"
+    }, 
+    "base/cocos/framework/extends/UIListView.lua": {
+      "md5": "d5e954787187e46ccbdaeae104d9cdd9"
+    }, 
+    "base/cocos/framework/extends/UIPageView.lua": {
+      "md5": "fafb384f5db88b5784ff6d9145fac2ea"
+    }, 
+    "base/cocos/framework/extends/UIScrollView.lua": {
+      "md5": "b83c545debbf24d34e8ebd9cdf8414f9"
+    }, 
+    "base/cocos/framework/extends/UISlider.lua": {
+      "md5": "090f6cc4cf4f150d91faecd81617aaea"
+    }, 
+    "base/cocos/framework/extends/UITextField.lua": {
+      "md5": "edbf3f3bfcdfc1fa6c3c909a4ac02641"
+    }, 
+    "base/cocos/framework/extends/UIWidget.lua": {
+      "md5": "54771bd68ef2445b9582b05293b6867b"
+    }, 
+    "base/cocos/framework/init.lua": {
+      "md5": "e8574e9f27eaaa23c7e144af84496cc7"
+    }, 
+    "base/cocos/framework/package_support.lua": {
+      "md5": "056968e3932c34393eba0543ad6211fe"
+    }, 
+    "base/cocos/framework/transition.lua": {
+      "md5": "daf4cdcfbc0ac66d69109ad08d01f20f"
+    }, 
+    "base/cocos/init.lua": {
+      "md5": "49bd6a75bfc82165a05541acc454e04e"
+    }, 
+    "base/cocos/network/DeprecatedNetworkClass.lua": {
+      "md5": "47fab20d513b00b62ade2cac15b7665c"
+    }, 
+    "base/cocos/network/DeprecatedNetworkEnum.lua": {
+      "md5": "01ed31489d348143eec7d398667da333"
+    }, 
+    "base/cocos/network/DeprecatedNetworkFunc.lua": {
+      "md5": "31cc44f404de667d3961b37932a56720"
+    }, 
+    "base/cocos/network/NetworkConstants.lua": {
+      "md5": "037a9d6ed7ae01a1336215c3f05c7b14"
+    }, 
+    "base/cocos/physics3d/physics3d-constants.lua": {
+      "md5": "445368a800dddc8f06e2ec69dd735e1a"
+    }, 
+    "base/cocos/spine/SpineConstants.lua": {
+      "md5": "86b01f4cf7d7ac8dc823f9a9dcdd9378"
+    }, 
+    "base/cocos/ui/DeprecatedUIEnum.lua": {
+      "md5": "10d416489ec271eb6c4f7c1bda08e03e"
+    }, 
+    "base/cocos/ui/DeprecatedUIFunc.lua": {
+      "md5": "75eefff802a9a35c6bed4a8c22282e11"
+    }, 
+    "base/cocos/ui/GuiConstants.lua": {
+      "md5": "f92735d93efdf23b460abd7e6ad01893"
+    }, 
+    "base/cocos/ui/experimentalUIConstants.lua": {
+      "md5": "2987cda864012842127696fb0ede80f6"
+    }, 
+    "base/packages/mvc/AppBase.lua": {
+      "md5": "aa75a1372e3cbfc8080f3b7582579380"
+    }, 
+    "base/packages/mvc/ViewBase.lua": {
+      "md5": "0a15379fc9452538067e827668a3476c"
+    }, 
+    "base/packages/mvc/init.lua": {
+      "md5": "b3dbee31d7cfbefed7bb84ae2a25a959"
+    }, 
+    "res/Default/Button_Disable.png": {
+      "md5": "fa79821349dd686f516187283bc2fb8c"
+    }, 
+    "res/Default/Button_Normal.png": {
+      "md5": "5f8329d6525b01810d68e39036e5f066"
+    }, 
+    "res/Default/Button_Press.png": {
+      "md5": "ea5e72abd451a76f62a2906abb7ef4bf"
+    }, 
+    "res/Default/CheckBoxNode_Disable.png": {
+      "md5": "33e821a1e9307b492bf27500078279da"
+    }, 
+    "res/Default/CheckBoxNode_Normal.png": {
+      "md5": "7b7f98e04a5fc8121f8ec0414954d210"
+    }, 
+    "res/Default/CheckBox_Disable.png": {
+      "md5": "940e6105cf619f5eba6cc190774b66f9"
+    }, 
+    "res/Default/CheckBox_Normal.png": {
+      "md5": "0d09d6e06b35a6c207e8c464131600af"
+    }, 
+    "res/Default/CheckBox_Press.png": {
+      "md5": "7348769ebbb9bf68a11bb2ef20d68b6f"
+    }, 
+    "res/Default/ImageFile.png": {
+      "md5": "8b8ddbe2391511ba6e05d975dd2d9dba"
+    }, 
+    "res/Default/SliderNode_Disable.png": {
+      "md5": "3ee7a87d45853ac7278b7325d4c64d6c"
+    }, 
+    "res/Default/SliderNode_Normal.png": {
+      "md5": "07af9ea54427fdec4cf8e93296adf30a"
+    }, 
+    "res/Default/SliderNode_Press.png": {
+      "md5": "da245f28b1d67174cfe6d3fa3d933a97"
+    }, 
+    "res/Default/Slider_Back.png": {
+      "md5": "45c41c1910da4cda82b5a604eb664d39"
+    }, 
+    "res/Default/Slider_PressBar.png": {
+      "md5": "adf7de39246f474fcd29447672f8b66b"
+    }, 
+    "res/Default/Sprite.png": {
+      "md5": "380f19a83e69524450a3fc2b466dc275"
+    }, 
+    "res/Images26.plist": {
+      "md5": "6e314c6e4977cfd227b5de1b51df808a"
+    }, 
+    "res/Images26.png": {
+      "md5": "7c17826d6910d0f2488b6d1bc30e1ed1"
+    }, 
+    "res/LuaExtend.lua": {
+      "md5": "a53350bbe4e9612530f2f9132a06dddd"
+    }, 
+    "res/config/GameTypeList.lua": {
+      "md5": "9ca94197712b16a3b5eedcbe60983f61"
+    }, 
+    "res/config/RoomLevelList.lua": {
+      "md5": "92557f982fb1f87fcdb3a2b38447893d"
+    }, 
+    "res/config/bag_info_cfg.lua": {
+      "md5": "05f7eb54dde996c2c25f015e18d0bf53"
+    }, 
+    "res/config/club_level.lua": {
+      "md5": "9da752c8bf06d2787939a2f12d69b548"
+    }, 
+    "res/config/club_mall.lua": {
+      "md5": "f08b37513f90993dd0d8d2aa702632df"
+    }, 
+    "res/config/club_star_level.lua": {
+      "md5": "9d18a75310b5b0bf995f3d68b7e027d9"
+    }, 
+    "res/config/clubconfig.lua": {
+      "md5": "c55ccc92a72f0515845de7c44c9e0b16"
+    }, 
+    "res/config/forceupdateconfig.lua": {
+      "md5": "6d43de117452f333a52d620550e0c460"
+    }, 
+    "res/config/hnmjConfig.lua": {
+      "md5": "555c82fd9838335cbdf46d8cf60d9725"
+    }, 
+    "res/config/ios.lua": {
+      "md5": "0a7328c625e27118f3981b57efecfa08"
+    }, 
+    "res/config/iosiap.lua": {
+      "md5": "fb78e5d2df0e42dc0622b28f874fb98e"
+    }, 
+    "res/config/ipconfig.lua": {
+      "md5": "960adc0a54b99927e845dae7f05b1fb0"
+    }, 
+    "res/config/shareConfig.lua": {
+      "md5": "c33b7dd24b75eb8790d9935c93c67172"
+    }, 
+    "res/config/test/forceupdateconfig.lua": {
+      "md5": "6e6b1e5a31969d77c2b146c0b637aae2"
+    }, 
+    "res/config/test/version_info.json": {
+      "md5": "c7a46f2a2083af9b9cdf1fec6d314dd9"
+    }, 
+    "res/config/version_info.json": {
+      "md5": "ba23284dd5e3cfd836b9d6342d282a9b"
+    }, 
+    "res/csbres/HHDZ_Paiju/GameInformation/guize/wenzi.png": {
+      "md5": "42e383a8635d17197a5a7f65e726a207"
+    }, 
+    "res/csbres/HHDZ_Setting/chakan.png": {
+      "md5": "3a46191f0498cb81969c8d330be364f1"
+    }, 
+    "res/csbres/HHDZ_Setting/chongshi.png": {
+      "md5": "bd7a3cf9ecdcab0ea694f354ffae01f2"
+    }, 
+    "res/csbres/HHDZ_Setting/dikuang1.png": {
+      "md5": "a97bf92b7ecf33d3788ac21127e02c75"
+    }, 
+    "res/csbres/HHDZ_Setting/guanbi.png": {
+      "md5": "72e8e0eb8e97da32938c3c753ce25da6"
+    }, 
+    "res/csbres/HHDZ_Setting/jindutiao1.png": {
+      "md5": "65e9c8285d8f95a0a4dea6b1296d1cd2"
+    }, 
+    "res/csbres/HHDZ_Setting/jindutiao2.png": {
+      "md5": "7bd6d2eb6bf19520f6974e5acf595142"
+    }, 
+    "res/csbres/HHDZ_Setting/jindutiao3.png": {
+      "md5": "988fdbb4e94fc2ce31bf9851a0aaf677"
+    }, 
+    "res/csbres/HHDZ_Setting/jinzhi.png": {
+      "md5": "65a268da66e4f5d641ff113e0a358dc3"
+    }, 
+    "res/csbres/HHDZ_Setting/qiehuanzhanghao.png": {
+      "md5": "1f10e056c5eeb83526b06ddc56643f67"
+    }, 
+    "res/csbres/HHDZ_Setting/quxiao.png": {
+      "md5": "c3aa24a824e07d264576166e483002fa"
+    }, 
+    "res/csbres/HHDZ_Setting/shanchu.png": {
+      "md5": "cd3e9b7172ee8281aa91b9a63c67e4dd"
+    }, 
+    "res/csbres/HHDZ_Setting/shezhi.png": {
+      "md5": "04285c7db00988c7f48f76793cd5bad4"
+    }, 
+    "res/csbres/HHDZ_Setting/wenzi1.png": {
+      "md5": "e54d4fc0c6fdfe7b81c17a081e9977d7"
+    }, 
+    "res/csbres/HHDZ_Setting/yinxiao.png": {
+      "md5": "dea2ab8463855f473fd742933e48f890"
+    }, 
+    "res/csbres/HHDZ_Setting/yinyue.png": {
+      "md5": "6a834814593c927cded330c451e4b68d"
+    }, 
+    "res/csbres/Poker_CreateDDZRoom.lua": {
+      "md5": "fc8cfbc9df53164f90c0ca4d6ceb9375"
+    }, 
+    "res/csbres/Poker_CreateJinBiRoom.lua": {
+      "md5": "026c8d4bb2aeeff3ca3b91e2ff2abcd3"
+    }, 
+    "res/csbres/Poker_bg.lua": {
+      "md5": "5e18a0d5e995d1fce81e8c5f304dca66"
+    }, 
+    "res/csbres/Poker_brnn_xuanze.lua": {
+      "md5": "e70932a008388f2771e3406b83bd8fa0"
+    }, 
+    "res/csbres/Poker_chat.lua": {
+      "md5": "018ef5ef49a97fe3c7af7a336fdd66a8"
+    }, 
+    "res/csbres/Poker_choujiang.lua": {
+      "md5": "fd788cd7a2aedc132ab9402039569289"
+    }, 
+    "res/csbres/Poker_createroom.lua": {
+      "md5": "89e4f5056c58f7724b754546135f7d75"
+    }, 
+    "res/csbres/Poker_dating.lua": {
+      "md5": "b76d85daf79d6978212292a66138071b"
+    }, 
+    "res/csbres/Poker_event_share.lua": {
+      "md5": "fba55b235a00166442f72a193cf7ba4c"
+    }, 
+    "res/csbres/Poker_friendgift.lua": {
+      "md5": "5defbbdb3601fdad4c1e8db50cffcb8f"
+    }, 
+    "res/csbres/Poker_gamerule.lua": {
+      "md5": "5be8e7955f484e2457b77cb2fa995d0d"
+    }, 
+    "res/csbres/Poker_huoqu.lua": {
+      "md5": "248dfecdb84ddfef01e12fc423f0fa2a"
+    }, 
+    "res/csbres/Poker_information.lua": {
+      "md5": "a64bd2d5c77c72525b4105b93dc3ec99"
+    }, 
+    "res/csbres/Poker_joinroom.lua": {
+      "md5": "3cfcb422c46f9afcae47d9e3060a6568"
+    }, 
+    "res/csbres/Poker_lobby_Ranklist.lua": {
+      "md5": "d1cbbefa7f512a15e81426778ddcf9e3"
+    }, 
+    "res/csbres/Poker_lobby_data.lua": {
+      "md5": "ae81f2e98b6f53d82c45aa02dcb1d602"
+    }, 
+    "res/csbres/Poker_lobby_event.lua": {
+      "md5": "93330f8a5a2fb90a9dfd5ade4b9e1321"
+    }, 
+    "res/csbres/Poker_lobby_event_gonggao.lua": {
+      "md5": "6002327c92409d05dd2cf2a3551adbab"
+    }, 
+    "res/csbres/Poker_lobby_free.lua": {
+      "md5": "6fbe47a51699cd14f65d41d5d61e927d"
+    }, 
+    "res/csbres/Poker_lobby_friend.lua": {
+      "md5": "96bb4b6eb16ca97f9cb484961ec51459"
+    }, 
+    "res/csbres/Poker_lobby_gift.lua": {
+      "md5": "3a3f96a9c10c84eb35d9f461c83c9ac6"
+    }, 
+    "res/csbres/Poker_lobby_mail.lua": {
+      "md5": "f120466c5d295bccab064e0f52075741"
+    }, 
+    "res/csbres/Poker_lobby_mail_content.lua": {
+      "md5": "c958cb7403264de1c90b40c9f0b0d58e"
+    }, 
+    "res/csbres/Poker_lobby_mall.lua": {
+      "md5": "4c72837ec555950f81e056b254444f72"
+    }, 
+    "res/csbres/Poker_lobby_money.lua": {
+      "md5": "efc162ed820cc94d636f60523c7beaff"
+    }, 
+    "res/csbres/Poker_lobby_money_jilu.lua": {
+      "md5": "1dc014701a7393ea8be70505df332036"
+    }, 
+    "res/csbres/Poker_lobby_money_mima.lua": {
+      "md5": "0614ea6a50da955645e624089f12b14d"
+    }, 
+    "res/csbres/Poker_lobby_money_mimacuowu.lua": {
+      "md5": "612232395e75d6b260e9159c2550e67f"
+    }, 
+    "res/csbres/Poker_lobby_service.lua": {
+      "md5": "40dab7ca6906ca53cfd2f8176281d942"
+    }, 
+    "res/csbres/Poker_lobby_task.lua": {
+      "md5": "345c6e1c82ce521691c100f7b1d8099c"
+    }, 
+    "res/csbres/Poker_lobby_tel.lua": {
+      "md5": "378a82f245d1d290c2fb4d066048a20f"
+    }, 
+    "res/csbres/Poker_lobby_xuanze.lua": {
+      "md5": "7a00d2ee7f433424851c988090f4de5a"
+    }, 
+    "res/csbres/Poker_login_loading.lua": {
+      "md5": "b7f580694246f39b1c87b0a0dbdbcd03"
+    }, 
+    "res/csbres/Poker_login_main.lua": {
+      "md5": "c6682d9440e7c189ef457e37f0dcab2f"
+    }, 
+    "res/csbres/Poker_login_tel.lua": {
+      "md5": "510bda16ae9fb2511c3966df32bb535c"
+    }, 
+    "res/csbres/Poker_login_update_main.lua": {
+      "md5": "9b91580515a8c1793c0d0f9b37bd9c0e"
+    }, 
+    "res/csbres/Poker_mall_shouchong.lua": {
+      "md5": "064e77eec1e200e9acb7b9e4f1ed36c5"
+    }, 
+    "res/csbres/Poker_msgbox.lua": {
+      "md5": "bba81be4149a13998c30011e43ee9575"
+    }, 
+    "res/csbres/Poker_net_loading.lua": {
+      "md5": "6aa52daa2981a510761325c1da8537ba"
+    }, 
+    "res/csbres/Poker_obtain.lua": {
+      "md5": "e617fb8dee6051b70ccd78648afe61ee"
+    }, 
+    "res/csbres/Poker_pipeizhong.lua": {
+      "md5": "50fa9d837ebc41d7c52c149ff4c46391"
+    }, 
+    "res/csbres/Poker_rules.lua": {
+      "md5": "978b314e31a2cd32ec8fa1345e21a260"
+    }, 
+    "res/csbres/Poker_setting.lua": {
+      "md5": "f2d38b3a107aa2daa3ca91f2977a7024"
+    }, 
+    "res/csbres/Poker_setting1.lua": {
+      "md5": "bc5b3c5ec03e1ea38139861b4b624d90"
+    }, 
+    "res/csbres/ZJH_Dating/Join/anniu1.png": {
+      "md5": "b0af70471e79cc1b63531ae3e7c822df"
+    }, 
+    "res/csbres/ZJH_Dating/Join/anniu2.png": {
+      "md5": "59c36bfd7281dc88664d3f0df6d0ac94"
+    }, 
+    "res/csbres/ZJH_Dating/Join/anniu3.png": {
+      "md5": "bde27f839db564fd8a384011b437db44"
+    }, 
+    "res/csbres/ZJH_Dating/Join/dikuang1.png": {
+      "md5": "4d5b1ac376e1fddd3bc01f24c5a13527"
+    }, 
+    "res/csbres/ZJH_Dating/Join/dikuang2.png": {
+      "md5": "69faba5cff396ddb9651ae039205ce18"
+    }, 
+    "res/csbres/ZJH_Dating/Join/shurukuang.png": {
+      "md5": "7ec0c54d9d5a75b24f5d751780d4be12"
+    }, 
+    "res/csbres/ZJH_Dating/Join/wenzi.png": {
+      "md5": "fca18e04963526ac940179116d73d9af"
+    }, 
+    "res/csbres/ZJH_Dating/anniu1.png": {
+      "md5": "6f58fdfcb944ce8c2ed32eb7afed50e4"
+    }, 
+    "res/csbres/ZJH_Dating/anniu11.png": {
+      "md5": "5c08077dcd24b421c68e0c8858af374c"
+    }, 
+    "res/csbres/ZJH_Dating/anniu2.png": {
+      "md5": "066fd324f27d56f69bdb0ed46338251b"
+    }, 
+    "res/csbres/ZJH_Dating/bairenniuniu.png": {
+      "md5": "21451f1008a9e5507f4c19be25e0a1d3"
+    }, 
+    "res/csbres/ZJH_Dating/beijing.png": {
+      "md5": "2a4a1eeef240339fde1765f9e237eb5d"
+    }, 
+    "res/csbres/ZJH_Dating/chuangjian/anniu1.png": {
+      "md5": "3f6c77f58221d5eecb70b891636c60e8"
+    }, 
+    "res/csbres/ZJH_Dating/chuangjian/anniu2.png": {
+      "md5": "41ef39e6bace8d93534a4f2393d4866b"
+    }, 
+    "res/csbres/ZJH_Dating/chuangjian/dikuang1.png": {
+      "md5": "acdc0cb0e015841bfabc308bbc2c58ca"
+    }, 
+    "res/csbres/ZJH_Dating/chuangjian/gouxuan1.png": {
+      "md5": "298f9a39c04501dd1f4e8588ca48fa51"
+    }, 
+    "res/csbres/ZJH_Dating/chuangjian/gouxuan2.png": {
+      "md5": "564072642c05c2ec45352d8bc5e6a6cd"
+    }, 
+    "res/csbres/ZJH_Dating/chuangjian/wenzi1.png": {
+      "md5": "f6b4e24875dbd1e5b372b49fd39980f5"
+    }, 
+    "res/csbres/ZJH_Dating/cunqianguan.png": {
+      "md5": "6a016576544bc2119336296ca8daaf91"
+    }, 
+    "res/csbres/ZJH_Dating/cunqianguan1.png": {
+      "md5": "4720d5aac1404c00dcbd4607e22ca9d5"
+    }, 
+    "res/csbres/ZJH_Dating/cunrujinbi.png": {
+      "md5": "0da80300b9d99d76af091d81b22934d8"
+    }, 
+    "res/csbres/ZJH_Dating/dibiankuang.png": {
+      "md5": "47fa24bf93bc0b25794aea5c024efc14"
+    }, 
+    "res/csbres/ZJH_Dating/dingbian_zuo.png": {
+      "md5": "9b56afd8b53e47190da356eb4133f4b4"
+    }, 
+    "res/csbres/ZJH_Dating/ditu.png": {
+      "md5": "9df791fea76dec78677d621e433a86be"
+    }, 
+    "res/csbres/ZJH_Dating/doudizhu.png": {
+      "md5": "d2f9ae70b903877487f678d2c3e838d3"
+    }, 
+    "res/csbres/ZJH_Dating/duijiang.png": {
+      "md5": "5dbdb70abb2c334a545e8d3d0efcb986"
+    }, 
+    "res/csbres/ZJH_Dating/fenxiang.png": {
+      "md5": "d2294eecdaa7de2f14b1a925a238b48b"
+    }, 
+    "res/csbres/ZJH_Dating/fumantang.png": {
+      "md5": "bcde7b49a58fd8d47cb6b18c8eb3b0ad"
+    }, 
+    "res/csbres/ZJH_Dating/gonggao.png": {
+      "md5": "6e2e3f864b16974209dba95908a2554f"
+    }, 
+    "res/csbres/ZJH_Dating/hongheidazhan.png": {
+      "md5": "0e1b26cc0b8ee4b91355d7b2820a4187"
+    }, 
+    "res/csbres/ZJH_Dating/huodong.png": {
+      "md5": "15f9d19f46fb2a2555d62a3aebaa7600"
+    }, 
+    "res/csbres/ZJH_Dating/jia.png": {
+      "md5": "fb1c046dc47265c7738d67dd861e2bae"
+    }, 
+    "res/csbres/ZJH_Dating/jiantou1.png": {
+      "md5": "6a143645beebcc382ec7aa6c07380306"
+    }, 
+    "res/csbres/ZJH_Dating/jiantou2.png": {
+      "md5": "6d118b1f84ac90fc2bdbb82e8196b22c"
+    }, 
+    "res/csbres/ZJH_Dating/jiesuan.png": {
+      "md5": "19cbac657ce94234a5da246271422d9e"
+    }, 
+    "res/csbres/ZJH_Dating/jinbi.png": {
+      "md5": "20d003e4dc001423ca53a65f637230a9"
+    }, 
+    "res/csbres/ZJH_Dating/kefu.png": {
+      "md5": "8fb44dd1ff1d48781444f31981b26294"
+    }, 
+    "res/csbres/ZJH_Dating/mianfeijinbi.png": {
+      "md5": "06bb2eb04f3a7c06ce459f2a84415b91"
+    }, 
+    "res/csbres/ZJH_Dating/paihang.png": {
+      "md5": "1746949cfb05a722299647f82a9e23d5"
+    }, 
+    "res/csbres/ZJH_Dating/renwu.png": {
+      "md5": "1012d80d043fb7ff3122b1806b869d82"
+    }, 
+    "res/csbres/ZJH_Dating/shangbian.png": {
+      "md5": "7fcac28b72e60637251223da9094dc2c"
+    }, 
+    "res/csbres/ZJH_Dating/shangcheng.png": {
+      "md5": "7e6257477a5ff251a16782f4b7894e2a"
+    }, 
+    "res/csbres/ZJH_Dating/shangkuang.png": {
+      "md5": "94a01a11970dfa63a51072ddaf95641a"
+    }, 
+    "res/csbres/ZJH_Dating/shuiguoji.png": {
+      "md5": "164e9ca58f3481d30f989bbe0979a4dc"
+    }, 
+    "res/csbres/ZJH_Dating/shuihuzhuan.png": {
+      "md5": "5c000e463e7a5e6871780dcc84bdd66a"
+    }, 
+    "res/csbres/ZJH_Dating/shurukuang.png": {
+      "md5": "774f77589edd6210dc2d39921ef2fffb"
+    }, 
+    "res/csbres/ZJH_Dating/shurukuang1.png": {
+      "md5": "252e73a4c292df52cd23ef297fc43dc8"
+    }, 
+    "res/csbres/ZJH_Dating/touxiang.png": {
+      "md5": "73370afc27ba17ae276fad229c689af4"
+    }, 
+    "res/csbres/ZJH_Dating/touxiangkuang.png": {
+      "md5": "159840e9f6f85a186fc5526de01ace44"
+    }, 
+    "res/csbres/ZJH_Dating/touxiangxinxi.png": {
+      "md5": "a41d129aec4dd3f379dc96a8f2e73a4c"
+    }, 
+    "res/csbres/ZJH_Dating/tuhaochang.png": {
+      "md5": "6f7a0f723bc83c5c55f26e57c6a3c0d0"
+    }, 
+    "res/csbres/ZJH_Dating/tuiguang.png": {
+      "md5": "bf045c888f198389d5174dae60f6eaff"
+    }, 
+    "res/csbres/ZJH_Dating/xiaozichang.png": {
+      "md5": "d1cb99751a1465f3c9cbb0350f191a49"
+    }, 
+    "res/csbres/ZJH_Dating/xitong.png": {
+      "md5": "9730fe0efa9e59bf2c047ef8255bbf44"
+    }, 
+    "res/csbres/ZJH_Dating/youjian.png": {
+      "md5": "5fc7d4c9552b12ee36487b4ee6c97ca9"
+    }, 
+    "res/csbres/ZJH_Dating/zhajinhua.png": {
+      "md5": "9068cc1bbb75af9290148f5fad7dc06a"
+    }, 
+    "res/csbres/ZJH_Dating/zhanghu.png": {
+      "md5": "7f30a26c3c25ad367730ddd4e6ec1105"
+    }, 
+    "res/csbres/common/biaoti_tishi1.png": {
+      "md5": "bee79abfdc39f2af8dad29e3b075b444"
+    }, 
+    "res/csbres/common/club_tk_btn1.png": {
+      "md5": "5db452281f0d9c6f7cb1bd47c112b4ae"
+    }, 
+    "res/csbres/common/club_tk_btn2.png": {
+      "md5": "69af3711f72bea7825a3a829fd07748f"
+    }, 
+    "res/csbres/common/common.png": {
+      "md5": "42d16fe9fb4745618eb4f4011b4aa2de"
+    }, 
+    "res/csbres/common/jiesan_queren.png": {
+      "md5": "6f8d3c3fb9c621bfa7fa6d5bedeebbb3"
+    }, 
+    "res/csbres/common/tishi_bg.png": {
+      "md5": "6cf4c9c082695713ef9818d7e47a26cc"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_10.png": {
+      "md5": "59650caee8d4a70f7434fa40d244efa6"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_11.png": {
+      "md5": "807cc9029efbc177ec4f85b2da7cfe9d"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_12.png": {
+      "md5": "c72f812c1924dd8f7202dc81645effdf"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_13.png": {
+      "md5": "cdf4740c1e1fef85bbd96c88b40ed733"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_14.png": {
+      "md5": "361e1c13053d12a5ccc7a766e6847238"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_15.png": {
+      "md5": "f78f50e84b8075885cfdf63735f09d74"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_3.png": {
+      "md5": "9e0fb2df3943ceb7a278ef817f25ca90"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_4.png": {
+      "md5": "a51252f8e4a4c6a4cdc077e25fe44584"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_5.png": {
+      "md5": "bd81f63f0c681e9cb28803b090dc4c27"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_6.png": {
+      "md5": "cd85b90556e4da3e074894dbcc96b362"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_7.png": {
+      "md5": "ef137653a8b30c0f98a38ee43d376656"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_8.png": {
+      "md5": "d0cc3a87ba04fda2a3968887076ecfc8"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_9.png": {
+      "md5": "857a887a91d25310fb0c73eb27e5cea2"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_beimian.png": {
+      "md5": "140d12112a828b63354f203f15cf7524"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black10.png": {
+      "md5": "51f50625307e643a27e0dcc826f5d6e8"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black11.png": {
+      "md5": "4e08fa9997fbbce642bea93bf2ac1802"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black12.png": {
+      "md5": "3c2ba4f719e4c2ba63e44193b4b931a2"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black13.png": {
+      "md5": "a5e1980b6e3e53d6482924ffc129e72c"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black14.png": {
+      "md5": "0138eb32244728378f27f78e32bcc7a5"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black15.png": {
+      "md5": "f8b2e13d6f759a26213338083577cafb"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black3.png": {
+      "md5": "20e42bff6f9ffc00b444dd59f8a6476f"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black4.png": {
+      "md5": "a12f2e79cb17811e46377c324474d978"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black5.png": {
+      "md5": "9ab80cd9144834a479b1092d21607226"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black6.png": {
+      "md5": "de4f6008ba8873aa0b5e61f8f9ba5dd7"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black7.png": {
+      "md5": "f72d4424772627e6b28231c3eb7cbb59"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black8.png": {
+      "md5": "0a8a38ec206392336f76e104b072c14b"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_black9.png": {
+      "md5": "bc1e7ef11b254df8fe154dad696025c6"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_dawang.png": {
+      "md5": "a21708414fa328668e0cfe33df86e69b"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_dizhu.png": {
+      "md5": "93635d7b615a9958f5f7c002c6a8441f"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_fangkuai.png": {
+      "md5": "d1ff8405d758f3a5c8654846d8313519"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_heitao.png": {
+      "md5": "d8b01ce6e589080f5ea0c837fe64696a"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_hongtao.png": {
+      "md5": "4d307c4c24f3c5500ec24fb589ac3743"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_laizi.png": {
+      "md5": "7e43a50ed68043f273ca086d6ab03795"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_meihua.png": {
+      "md5": "e7fd4c8d8c488ef85cc4b158ff28bc4e"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_mengban.png": {
+      "md5": "5b9398a1674892d7f7adb72117ebd81c"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_mingpai.png": {
+      "md5": "8908485c09314c5d2e391b9526f07ba8"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaodawang.png": {
+      "md5": "d12e2c65c1fb9fac64e5178a4f009c76"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaofangkuai.png": {
+      "md5": "b672e2dbd91ff2909b22f3099b6437b3"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaoheitao.png": {
+      "md5": "babca6b06d58f02d50500d26b5715dc8"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaohongtao.png": {
+      "md5": "7d596d43c078f7f75e45121d8cd90027"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaolaizi.png": {
+      "md5": "807614aa15a6dc09fddc947da7f44824"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaomeihua.png": {
+      "md5": "9aeba4c9340b7803be27fb55c775ab82"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaowang.png": {
+      "md5": "bcdcb7520dbeba3b059454554b6fe88a"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_xiaoxiaowang.png": {
+      "md5": "aadddcad1a8c035fb31b13874eedd428"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow10.png": {
+      "md5": "a3934d8599148790d125630cbb557439"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow11.png": {
+      "md5": "23868fb10889bfc3b158299f8da1d9be"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow12.png": {
+      "md5": "153fb95bab5e6f1436833862fad78b26"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow13.png": {
+      "md5": "54814e980319a6d655b5cf2c5dc44189"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow14.png": {
+      "md5": "9023c4b0e66ff9670185020771655691"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow15.png": {
+      "md5": "1f875d77ecfa519cd71a93d105578b68"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow3.png": {
+      "md5": "6ae2d7119aaa0df72d7584ba69e0b9e5"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow4.png": {
+      "md5": "2b6e74cbc958aa43f04c91daed9e6db8"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow5.png": {
+      "md5": "1ebdf1e1bcc7127abef7dca37a1fd8f1"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow6.png": {
+      "md5": "2f005435ed782a96cdc18d85136282fd"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow7.png": {
+      "md5": "afff8249bc0df6151896f91796ee328d"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow8.png": {
+      "md5": "e3dd9dac343bc757313b2964473e63ee"
+    }, 
+    "res/csbres/ddz_res_cardlist/ddz_card_yellow9.png": {
+      "md5": "8adf3de2941d0670fdac4bbefcf5f720"
+    }, 
+    "res/csbres/font/font_defen.fnt": {
+      "md5": "44135dfb275c40a81b820fc540526f79"
+    }, 
+    "res/csbres/font/font_defen_0.png": {
+      "md5": "d6b3ee2d0186129775ac6ea8edcd2e3d"
+    }, 
+    "res/csbres/font/font_shifen.fnt": {
+      "md5": "f9f67ed6bb0fd52bd51e4636be232f57"
+    }, 
+    "res/csbres/font/font_shifen_0.png": {
+      "md5": "2edb08c93d74c22887603a5778a7e319"
+    }, 
+    "res/csbres/font/ziti.TTF": {
+      "md5": "3141350c6d8770e12ef6b2b03660d980"
+    }, 
+    "res/csbres/lpy_pkg_game_poker.lua": {
+      "md5": "5b225405089397f6775f684fe819b459"
+    }, 
+    "res/csbres/niuniu_roomRuleview1.lua": {
+      "md5": "1442c9957f4181ca08ecb307ee82e811"
+    }, 
+    "res/csbres/niuniu_roomRuleview2.lua": {
+      "md5": "0c3ee41bb3626ff7a10d478ac03c6816"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_anniu1.png": {
+      "md5": "aa567f0d2e1b637623acec2343cb687d"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_anniu2.png": {
+      "md5": "2ad0ec3d8a12137fb15f845dee86833e"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_anniu3.png": {
+      "md5": "5fbfa19aa85df47fe1f9ad8237afee0e"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_anniu4.png": {
+      "md5": "c0cd9f0a124858ce9c9bdba8e0224a30"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_anniu5.png": {
+      "md5": "2cc67489cb2ece09faff613acea4d8c6"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_biaotikuang.png": {
+      "md5": "8cdb578195b2d74d09e53053f723dc2f"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_chuangjianfangjian.png": {
+      "md5": "6aac52798f1901890f3164b9b3db2bf1"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_dikuang.png": {
+      "md5": "50f97e6479050dc48de049b1bf8d0a0b"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_dikuang2.png": {
+      "md5": "b8c2d2ae8fc8a049f4f26e59c9217694"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_guanbi.png": {
+      "md5": "73fd84d07159072b7d4ef786e31812d2"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_kuang1.png": {
+      "md5": "255c6d4f75d20718c53021c2b094e6b7"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_kuang2.png": {
+      "md5": "a669b54188be8fcb44ab5aa8d0831cfd"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xiala1.png": {
+      "md5": "10d50eceb0ae58b2c526fe1b105e9bf2"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xiala2.png": {
+      "md5": "84daca5d042d48594bbfa16a0a55ea8e"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xian.png": {
+      "md5": "c8354fde9bad22285f44fe754ad675e2"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xuanze1.png": {
+      "md5": "29a8c1e03e1825f8113f87baa314fb8b"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xuanze2.png": {
+      "md5": "7daa05348454a1e924b31581d36559f7"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xuanze3.png": {
+      "md5": "de2fd343e089e9118cf31be73cbe9a8e"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xuanze4.png": {
+      "md5": "9cbbe822743ca662437b69f9158448af"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/ui_chuangjianfangjian_xuanze5.png": {
+      "md5": "0dbf43c80ac4f1f9a5849de4eddfe14d"
+    }, 
+    "res/csbres/niuniu_ui_chuangjianfangjian/xuanze4.png": {
+      "md5": "5ff962ee943bc11f3d99cc87acdc522e"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_1.png": {
+      "md5": "76e12bf608f918ba89f1f3b04cee656f"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_10.png": {
+      "md5": "1bb53d5e05b25b57bb829d4d059dc269"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_11.png": {
+      "md5": "fd66f22e64b800616bfabb3a745b8a54"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_12.png": {
+      "md5": "136ca94cc88042729f9a56e3633951b9"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_13.png": {
+      "md5": "edb37e37255ce2b71d1f055043f71c74"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_2.png": {
+      "md5": "563d0edf7e086503cf653903997c328d"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_3.png": {
+      "md5": "4110e2abf6c4f96ab56456d6dcf12c36"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_4.png": {
+      "md5": "e790d6bef90c2ce911d19ecd443821d6"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_5.png": {
+      "md5": "5ef82aef902404b46df838093d486e89"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_6.png": {
+      "md5": "d7f0a2efcf740f72fd47c0dca89dbac7"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_7.png": {
+      "md5": "afa26812cb3363ed54f25958d5d20695"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_8.png": {
+      "md5": "575b76bbe8008f71a47a8dad6f5a8959"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_9.png": {
+      "md5": "b705847fd8236b2c7da4b676b5280cf3"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_beimian.png": {
+      "md5": "9f7415a9991004c7472e98a86dbb5e76"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black1.png": {
+      "md5": "1a8580257582c645e369772f4e987b48"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black10.png": {
+      "md5": "c9a48ef443df849c8cbb5e8e37b39ba6"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black11.png": {
+      "md5": "1f82a6ad145996ce6632543ebbc92995"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black12.png": {
+      "md5": "495f70957bcd8ae7652ddbef4e11dd24"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black13.png": {
+      "md5": "d06c5b282c6d5f82877a10dbb4ec180b"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black2.png": {
+      "md5": "2b6ac50ed16a8d78d913de89618e4cf8"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black3.png": {
+      "md5": "93cd8ccc0eaf8f4c82de45ccf82e6f80"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black4.png": {
+      "md5": "dc8baf7055cf41a44a188c7df3dc38ba"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black5.png": {
+      "md5": "48c7acffcd37504b714437f0adcc167f"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black6.png": {
+      "md5": "7ee30cd8c7737cce685ca81fa9db84a2"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black7.png": {
+      "md5": "174ea0af00d67979447b3d8e502a2d50"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black8.png": {
+      "md5": "ff26481b4655f3daecf2a055f295051b"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_black9.png": {
+      "md5": "7f5847f6a34f271712ba3dbf8fd0450b"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_dawang.png": {
+      "md5": "88bdaf09dc4ecc295858d9679f8f1045"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_fangkuai.png": {
+      "md5": "4b70ab106724b080d1d5f083311bbbaa"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_heitao.png": {
+      "md5": "fa7fc4efa842e6dede271d54cf6252d0"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_hongtao.png": {
+      "md5": "5eb03af414d80d81abd44dbddbcfe0aa"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_meihua.png": {
+      "md5": "97e322a03f8b78ce3416f6cfaee6b40c"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_mengban.png": {
+      "md5": "dde15a52c95d37de8664e310ff0be102"
+    }, 
+    "res/csbres/nn_pokergame_res_card/ddz_card_xiaowang.png": {
+      "md5": "5b63e129b305dbb2780412feea0b619b"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/jindutiao1.png": {
+      "md5": "00257e090bb0475071c6623b017b4af7"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/jindutiao2.png": {
+      "md5": "fce389a493e2167e85169d9a1362f37f"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_dashifen.png": {
+      "md5": "26f7f6e7fa5bb34eabfd9bbb71c9c88f"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_fanhui.png": {
+      "md5": "6645bc4298ea45e39e060d3b005c24a7"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_fen.png": {
+      "md5": "e3edbe6ebbe997c6d129ee6886ffbdd4"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_hlsr_1.png": {
+      "md5": "f884548800f561934e3541ed1b60d3da"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_jdsr_1.png": {
+      "md5": "32132454fc29e9d6ac51b1c0e72ab8ae"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_jdsr_3.png": {
+      "md5": "05fcbf91ed65278598201fbb43d32088"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_jiahao.png": {
+      "md5": "1c6c234c723772ffa51c1b4a8d4ba30c"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_jinbi.png": {
+      "md5": "27e1046d2536df8946ece4ed40a5bc85"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_ksyx.png": {
+      "md5": "34341e0366099324d4754e2ca03e339a"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_lzwf_3.png": {
+      "md5": "610a00e05c158d1bb2c109718b04a42f"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_qipao.png": {
+      "md5": "2ca573082c73be62326af004b44a6c30"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_shangcheng.png": {
+      "md5": "bedf425f4f6ad668dc319c5b70174e24"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_shurukuang.png": {
+      "md5": "c2b81519ef4d19f2a86b8bc6c0c5ee30"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_srwf_1.png": {
+      "md5": "ff94a886fad6c909ec6df8ce010777ee"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_srwf_2.png": {
+      "md5": "238b03db8d37856e6a0200664736b3cf"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_srwf_3.png": {
+      "md5": "40ab00e0ccbd3ac2b58dd6fd6f9f95ce"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_anniu_swk.png": {
+      "md5": "5fce157ba1c6e89cb67286b1bbc0132b"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_cdating_ommon.png": {
+      "md5": "42d16fe9fb4745618eb4f4011b4aa2de"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_dingban1.png": {
+      "md5": "bf9176ab6c0dbf5bf885056063fdc4d9"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_dingban2.png": {
+      "md5": "a0facc08fde2bab569546679ef88a077"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_dingbu.png": {
+      "md5": "a4cb3e7317a603f65ac670c0357fc316"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_hongdian.png": {
+      "md5": "9a55fc640a048af3d34d691bfa3b4c9f"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_pic_1.png": {
+      "md5": "147038721adc996b70a84c436d2f64dd"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_pic_2.png": {
+      "md5": "fb09d89146e74aa0e981105aca446784"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_pic_3.png": {
+      "md5": "63e76534860344add68efef7f6d820a9"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_pic_7.png": {
+      "md5": "e89ea6567e7506d3639ad79942b26456"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_dating_pmd.png": {
+      "md5": "51dc1c895fe5ce4421a5e322827e892a"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_gonggao1.png": {
+      "md5": "cd144b5a7e925023f1a8633ce0613909"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_gonggao2.png": {
+      "md5": "8881a9d0b728030491f88500d9a28be4"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_gonggao3.png": {
+      "md5": "8d13d609fc690c3749d79009e0768fb3"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_rule_text1.png": {
+      "md5": "ab7634cd9e4a4fcbc473591aaa78df28"
+    }, 
+    "res/csbres/ssddz_ui_DaTing/ssddz_ui_xiaoren.png": {
+      "md5": "d0423d7bdedd6406d4c5b9f03da88ac3"
+    }, 
+    "res/csbres/ssddz_ui_Login/diban1.png": {
+      "md5": "f5a6aeeb70833fca0f1c1774c060f6fe"
+    }, 
+    "res/csbres/ssddz_ui_Login/jindutiao1.png": {
+      "md5": "00257e090bb0475071c6623b017b4af7"
+    }, 
+    "res/csbres/ssddz_ui_Login/jindutiao2.png": {
+      "md5": "fce389a493e2167e85169d9a1362f37f"
+    }, 
+    "res/csbres/ssddz_ui_Login/kuaisudenglu.png": {
+      "md5": "292e31145ecae9df827a33aaa7d6c311"
+    }, 
+    "res/csbres/ssddz_ui_Login/logo_dengluwenzi_shang.png": {
+      "md5": "64961f964f22a6b7d8713aaa090a331a"
+    }, 
+    "res/csbres/ssddz_ui_Login/logo_dengluwenzi_xia.png": {
+      "md5": "6d7496e65a4fc747a1713256df078df8"
+    }, 
+    "res/csbres/ssddz_ui_Login/shoujiyanzheng.png": {
+      "md5": "d64252fc00fcd56a40a1f92a9cd0156d"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_bg.png": {
+      "md5": "96f791868c2482f7653bd2bd7540bfa1"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_btn2.png": {
+      "md5": "758d8471b1a89ae5b64fc89b1575d108"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_car5.png": {
+      "md5": "7205b3e5ba0f7fe47dde669663ae0a3e"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_guang.png": {
+      "md5": "aec9c76a358438e0c07f3ac4a64908b6"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_jiazaixiantiao1.png": {
+      "md5": "d6c05e15c1e46f52b2fa1fcca9171617"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_jiazaixiantiao2.png": {
+      "md5": "37bb27b106d77e2cc23e3dc67b9db70b"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_loading_dikuang.png": {
+      "md5": "6e2a79da6c880b9acac9cad176d7186f"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_loading_tiao.png": {
+      "md5": "718e14360dbffd822fac76013bec3b55"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_maozi.png": {
+      "md5": "dcfb9701a4a4ff7525d3ef26d053fc13"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_qq.png": {
+      "md5": "ffa64577ba528cc0e459ce704887e7e0"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_shouji.png": {
+      "md5": "dc4d13500ff326f9bf8459354e567940"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_btn1.png": {
+      "md5": "ce32960b2cde762b627c67f587fe07e6"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_btn2.png": {
+      "md5": "b9f88a01fd886355f7e9b05dddb92687"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_denglu.png": {
+      "md5": "870b49a4535ccfeef41e16ed57ed9c5f"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_kuang1.png": {
+      "md5": "d6cb56ab0c474aad44533bb065f35318"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_kuang2.png": {
+      "md5": "35b1f27469ee24d01fdf7de78b7fda8a"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_ren.png": {
+      "md5": "97c4cd5860144e584ceda590860523bb"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tel_zhuce.png": {
+      "md5": "606f50caf3a815f70f3f39b797d83819"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_tishi_bg.png": {
+      "md5": "d2248f161ebbfcf3dcc8acadafc147b4"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_wechat.png": {
+      "md5": "3436250d4a5b390b4eda17d4cf431201"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_weixindenglu.png": {
+      "md5": "3ab6c7331cd100f6e435d6c314e49baf"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_weixindenglu1.png": {
+      "md5": "145602d08894da8737f8fa24f308e53d"
+    }, 
+    "res/csbres/ssddz_ui_Login/ssddz_login_youke.png": {
+      "md5": "b366cbfed09d496104812dba340af2c2"
+    }, 
+    "res/csbres/ssddz_ui_Login/zhanghaodenglu.png": {
+      "md5": "631c1321e03f3366d6ded2940be69e06"
+    }, 
+    "res/csbres/ssddz_ui_Login/zjh_login/btn.png": {
+      "md5": "977900cc23ae54adadf004511e7a6d4c"
+    }, 
+    "res/csbres/ssddz_ui_Login/zjh_login/denglu.png": {
+      "md5": "a6dc0c4d7fe5185962976111f90681cb"
+    }, 
+    "res/csbres/ssddz_ui_Login/zjh_login/jindutiao.png": {
+      "md5": "8a2774d26eb97518667aaf9ed6325db5"
+    }, 
+    "res/csbres/ssddz_ui_Login/zjh_login/jindutiao2.png": {
+      "md5": "e2c08b90c0ea2da8cf47f5c6c83c2853"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_anniu_1.png": {
+      "md5": "0ba8d16fe81677866061406032086983"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_anniu_2.png": {
+      "md5": "cadc3d2b65c3ab5345b7cdfb432a47fe"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_anniu_3.png": {
+      "md5": "69af3711f72bea7825a3a829fd07748f"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_anniu_4.png": {
+      "md5": "5db452281f0d9c6f7cb1bd47c112b4ae"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_anniu_5.png": {
+      "md5": "079c6cf5b32e36a1d891be14916fe66a"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_chadipai.png": {
+      "md5": "f45c895204da078321e291edc6b18d5a"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_dagouda.png": {
+      "md5": "6f8d3c3fb9c621bfa7fa6d5bedeebbb3"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_dikuang.png": {
+      "md5": "acc0b3505d0c2d7c665bbc1e18a2a336"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_fen.png": {
+      "md5": "48f2a74d90fb1d7e0bd3ebd849a48887"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_guang.png": {
+      "md5": "8bd06d6c10788238de762ab94a4a064a"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_guang1.png": {
+      "md5": "a9cf1ac2724d641f8550b554378b66b5"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_huafei.png": {
+      "md5": "1c6a58a60a64b27b60eee8f2211af5c0"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jiangl2.png": {
+      "md5": "5268cefc8c1d4a3c4c0aa97e3c17f807"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jiangli1.png": {
+      "md5": "c99353c5229e0976b8fb45ed67b20c39"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jiangli3.png": {
+      "md5": "9886d3b2a50e4e9a8a65a8c3d1ad978d"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jiangli4.png": {
+      "md5": "a4a9669dbf4566ee6c1cac6245db32b3"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jiasong.png": {
+      "md5": "0a0841a6c93bc8f756535439d1c81f79"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jinbi.png": {
+      "md5": "9b861aa69cb08943edd8101e5f2b27d6"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jinbi_1.png": {
+      "md5": "903a176dfcfbb01c89ee99303766ac49"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jinbi_2.png": {
+      "md5": "f3c6b6604d269d17baccffd59658b3c2"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jinbi_3.png": {
+      "md5": "5e8ee8e0e1f8ac25cfa69d5c68361fac"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jinbi_4.png": {
+      "md5": "6909316301fa3cafb6a6081a07d236a6"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_jinbi_5.png": {
+      "md5": "7fab994237164c13bb36f0e025fcfbf7"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_juese.png": {
+      "md5": "fa21661427bd0dfd178bf05c16258b46"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_lingqu.png": {
+      "md5": "1ab81dbab046cd1f2727f383bb376587"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic1.png": {
+      "md5": "49a5956538c4da3fb20ddf580b9bd468"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic10.png": {
+      "md5": "c0b1b39d523ab0a109b60c037e891e17"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic11.png": {
+      "md5": "da0606011c0479c48fa52d9ba4a74288"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic13.png": {
+      "md5": "e4a5f33365a48efb018e1ceab4651cb4"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic14.png": {
+      "md5": "5166bd60fd99d0b69f4fcec220c96742"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic15.png": {
+      "md5": "5ced430e3ac5add265fc99632f30cf16"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic16.png": {
+      "md5": "d9a5cb256c01ea36a3e85a60200b2f86"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic17.png": {
+      "md5": "013d6ea2c767a17b6236ab9f1418c825"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic18.png": {
+      "md5": "650371822b443f3d46f61d494507fc6f"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic19.png": {
+      "md5": "9752a6668c71967165dd7c7b12feafa4"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic2.png": {
+      "md5": "43063e720790b835b0fbdddbd4326864"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic20.png": {
+      "md5": "d0c9bc8741c8764e147ac424adb77558"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic21.png": {
+      "md5": "795402632308f4a64383e63500967469"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic3.png": {
+      "md5": "e7f6f831d4ab6ead8a178fbaab757ffe"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic4.png": {
+      "md5": "bc0c1d33cac933e606022694f0e0f8d7"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic5.png": {
+      "md5": "c35503ae3081d91e8b8d0f6e6f4081ff"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic6.png": {
+      "md5": "2c5840bf739e422d51ff92ab96033623"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic7.png": {
+      "md5": "d69e646a2347397fc2c4b3dc1e84466c"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic8.png": {
+      "md5": "cf10733892bff598661661dabdfa4fa5"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_pic9.png": {
+      "md5": "eb0eab23655bb1a5c80ad63716bf4ab9"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_suipian.png": {
+      "md5": "29b644821a619d67b63d39b4fe4a6368"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_today.png": {
+      "md5": "b75d403d86e38a8c9a125749c5d6b8d4"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_yishouqing.png": {
+      "md5": "d1e87dc1ba840d55fba8dac72e622824"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_award_yuandiban.png": {
+      "md5": "e78155fba65c846c08c287f7f9135af9"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_data_rules.png": {
+      "md5": "d231a4078b31e58e8d88c86ae4796619"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_fanbei.png": {
+      "md5": "01337e3eb98633f27587dea460ec3826"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_baoxiang.png": {
+      "md5": "d5d5e78a2473a93a40956023e44a0c92"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_box.png": {
+      "md5": "ead64e86b21c517198f7b7caa7b44080"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_buzhu.png": {
+      "md5": "10b56ca1c4f6959356d3d56903a90be9"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_chaoneng.png": {
+      "md5": "97d0bc635760d4794be304c7e3108241"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_feilipu.png": {
+      "md5": "c4ae5e6c3a9a870b70f5e11b766d7be6"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_heiren.png": {
+      "md5": "d44b31e7d6601a74346f2ea188309ec3"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_hongbao.png": {
+      "md5": "29b644821a619d67b63d39b4fe4a6368"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_hongbao2.png": {
+      "md5": "990167e29fc78a55d2274baad00552ef"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_hongbao3.png": {
+      "md5": "21a739bcf93be5ed9105a663d0f4cd91"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_hongbao4.png": {
+      "md5": "d34eaa8b994eb40f1c0f8c7844c6cf1a"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_huafei1.png": {
+      "md5": "ce1805a454d731be69005e5365cb0d94"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_huafei2.png": {
+      "md5": "efb5864cd49f93bb83abdb0156e70fcc"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_huafei3.png": {
+      "md5": "4d9cb1f36cc27774f0e3a1a731162ff4"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_huafei4.png": {
+      "md5": "01e7f5d11121a47ffc4e6b8dfd734d85"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_ipad.png": {
+      "md5": "0ab685b7326d8e227c3a033f4241f040"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_jifen.png": {
+      "md5": "ed8b1d103b6bc92f1ac8505ea009fa27"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_jifen1.png": {
+      "md5": "8cae8d275741b759263bbf8cbec95d72"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_jifen2.png": {
+      "md5": "8b81e37b5ff3f442597a13b23544a2d7"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_jinbi.png": {
+      "md5": "c762c953ce831e4aef27fb2d8c48f75e"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_jipaiqi.png": {
+      "md5": "63a8b65d4384d3f2f5034a6224a27b84"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_ka.png": {
+      "md5": "273c9b1d2734ed5cc3b3fe69a8ef0c8d"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_ka1.png": {
+      "md5": "273c9b1d2734ed5cc3b3fe69a8ef0c8d"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_ka2.png": {
+      "md5": "273c9b1d2734ed5cc3b3fe69a8ef0c8d"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_lipinquan1.png": {
+      "md5": "273c9b1d2734ed5cc3b3fe69a8ef0c8d"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_luoji.png": {
+      "md5": "2a61d35e86da4db4659412cc4895815c"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_menpiao.png": {
+      "md5": "8cd948416cfb21a0399d7f7237540ee8"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_sheng.png": {
+      "md5": "fc367c90426fdf8df0810029d3310b8c"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_xiaomi.png": {
+      "md5": "f0bdc0435b4861132871358181006556"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_icon_xin.png": {
+      "md5": "76553e7fb5df7913c10b362e62bc51b0"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_match_quan1.png": {
+      "md5": "f015390d12b740de6988a285ff0d6848"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_match_quan2.png": {
+      "md5": "da202ed8b9b5ff5a53ba9feb774879a8"
+    }, 
+    "res/csbres/ssddz_ui_award/ssddz_table_line2.png": {
+      "md5": "9e5916bca3b7aa28d2cc71a4896ebbb6"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_annniu_1.png": {
+      "md5": "1f5d3e37beda860e1cf754fb0084201d"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_annniu_2.png": {
+      "md5": "08847757f1e4821cb29f0346bc925d6d"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_annniu_3.png": {
+      "md5": "69af3711f72bea7825a3a829fd07748f"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_10.png": {
+      "md5": "b65c2680d59ec6736d59334f41d565c1"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_11.png": {
+      "md5": "44ecfadd60c3b8ada8039bbb8e9555df"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_12.png": {
+      "md5": "7ec839c50f150223ad4e918a2ac211a1"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_13.png": {
+      "md5": "dd53e594b3d33a3f148b64aefbae9f95"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_14.png": {
+      "md5": "7c54aeb9fe291c3adb51f0cfecc6c4ec"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_15.png": {
+      "md5": "9a7a48439031801c4cd3c9265639d475"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_16.png": {
+      "md5": "611593a06098faedc75cab5297503182"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_2.png": {
+      "md5": "826b3739ff0af5d0dbe9d525aeb2dddc"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_3.png": {
+      "md5": "a20370265f17840da7bb9226fbe3dfeb"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_pic_7.png": {
+      "md5": "1ccf611e90666ba59a5581406d0c0472"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_1.png": {
+      "md5": "5a8f4842daf1ee94108415d401ccf1e8"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_10.png": {
+      "md5": "a8e5e6b7f0dcdfcdaead795e2daf9ee9"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_11.png": {
+      "md5": "7e2e6a5044aef5ec5e236e9b9ee20bac"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_12.png": {
+      "md5": "e54464116e378e933477daf17f0c2946"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_13.png": {
+      "md5": "983c32f0300fc2526dafe2b051ea9cb8"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_14.png": {
+      "md5": "c0ecd9c2674b95d6e16487c505cbae33"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_15.png": {
+      "md5": "d24c2304ae36f24270b9e6da3f7c8d81"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_2.png": {
+      "md5": "70083c2225d9ba77fb330e173fdd9266"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_3.png": {
+      "md5": "bb64ec6d9d02a93f1017e4047a53b731"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_4.png": {
+      "md5": "dbed291035a8dfbd21d9d31855aff97e"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_5.png": {
+      "md5": "bfc28a095da2f7725eb073c1bb5d3e00"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_6.png": {
+      "md5": "e37581966df9f5ec5f71789971922709"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_7.png": {
+      "md5": "a0bc72f9658218db537b0dfd2b276e5b"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_8.png": {
+      "md5": "dc6d9003d55b56dc8069389571095ce0"
+    }, 
+    "res/csbres/ssddz_ui_data/ssddz_data_touxiang_9.png": {
+      "md5": "50b918806a27bd71126ad95ad50d843f"
+    }, 
+    "res/csbres/ssddz_ui_data/touxiangkuang.png": {
+      "md5": "0d1914a2d0b84c68d4fe0e74185e0b28"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_bangdingshouji1.png": {
+      "md5": "0ff67bccc67734f678e5d107194c6351"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_bangdingshouji2.png": {
+      "md5": "2ee10e0288acbe37975d65f4dde53850"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_gerenxinxi.png": {
+      "md5": "973bb5271ca779949ea5c580429dab9c"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_gerenxinxi1.png": {
+      "md5": "54d437d542612b0faa382c8036fa70a2"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_gerenxinxi2.png": {
+      "md5": "52a883c91e5f3ab03bc4a8e1b4ed0164"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_lijibangding.png": {
+      "md5": "ce3041f85b34a2c5871eba7b243fa878"
+    }, 
+    "res/csbres/ssddz_ui_data/wenzi_qiehuanzhanghao.png": {
+      "md5": "7b51f01c321fe07c925431e0f2065da0"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_btn1.png": {
+      "md5": "04fb2800c6a75f8a88296aded8c698c7"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_btn1_1.png": {
+      "md5": "2f6a62b3d974a963494fa9fca40e57a0"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_btn2.png": {
+      "md5": "22699a9c59c8c8b855f3c9b2ae88c9be"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_btn2_2.png": {
+      "md5": "aa1233ebfeecb8c3392db2683fef6b3b"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_caidai.png": {
+      "md5": "45b6a4157c6925c042b1fb089e6acc74"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_biaoti.png": {
+      "md5": "83360d3d032d573637fe355728e348b4"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_btn1.png": {
+      "md5": "787b0a47ea7750e6d7d90c9ad155971a"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_btn2.png": {
+      "md5": "c59920e8c9c69ece3e40f8dfd5272e77"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_btn3.png": {
+      "md5": "f5cc21c8f552a321f6582b1f572603d3"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_deng1.png": {
+      "md5": "8b9d70eda9ad2297272f59396a6c96fa"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_deng2.png": {
+      "md5": "0b2640993559fb96c8ba4bdc0eff5aa9"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_zhizhen1.png": {
+      "md5": "45409f4b2ded15a1532c8ce02a6bbefe"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_zhuanpan1.png": {
+      "md5": "4be0ed3596a0f35678fe2c026cd80556"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_zi1.png": {
+      "md5": "285a960f11411b36b4ece2115e44fa2f"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_choujiang_zi2.png": {
+      "md5": "4a12f8c53a01caf6f0c60dc7b7c648f2"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_duijiang.png": {
+      "md5": "86cd24d375f818ce62b6f87c5f24c055"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_fenxiang_1.png": {
+      "md5": "f5915c3df293365589bd8eefcd197c7c"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_fenxiang_2.png": {
+      "md5": "32ebc7a690828a68ec74a9f1145ef4ad"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_fenxiang_3.png": {
+      "md5": "4ca309239a565a98550b56c06bb5dcb8"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_fenxiang_4.png": {
+      "md5": "ea21fea007b4048078baec4c125e9440"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_fenxiang_5.png": {
+      "md5": "78d368dbeb91e68fbb262f1a4473e626"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_fenxiang_6.png": {
+      "md5": "642fa631571c7e351d9f02de51747ebc"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_gonggaobiaoqian.png": {
+      "md5": "ec2207c0f0b9e4e9d81e94dc2f1398d8"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_guanggao1.png": {
+      "md5": "8d236880e2b415b18ea658689467bde0"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_guanggao2.png": {
+      "md5": "4236ad3d86089649cc9655c0da489107"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_kuang1.png": {
+      "md5": "66d8e7679e047c4c2aa164c306572607"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_mianfei.png": {
+      "md5": "dc8370cce1ed3861235ddea4404cd6b8"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_pic1.png": {
+      "md5": "e8afa2f7ec9f9c8e5b8a528edda5ad3d"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_pic2.png": {
+      "md5": "ffd64165ab266610629c4b7a729fca24"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_pic3.png": {
+      "md5": "2151f5b46b99c7314b6c46040b51a275"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_pic4.png": {
+      "md5": "9e06b1809eb5ce45a2a74809f5e6d945"
+    }, 
+    "res/csbres/ssddz_ui_event/ssddz_event_toubu.png": {
+      "md5": "1a96637c7c3f8ff873faab130b36cba8"
+    }, 
+    "res/csbres/ssddz_ui_free/kuang1.png": {
+      "md5": "d0f37ee364a9c8c48ce0bd0ebcc9c7f5"
+    }, 
+    "res/csbres/ssddz_ui_free/kuang2.png": {
+      "md5": "038ad8c471002b7d66e480163b2757f6"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_anniu_1.png": {
+      "md5": "fadf4577248df89163ae5a9e0c953b23"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_1.png": {
+      "md5": "3a453717ac570cd2afa68c2d555dc22f"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_2.png": {
+      "md5": "e56c5ab8c0d9e7ea087c09ddbe2be859"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_3.png": {
+      "md5": "65c49e4f26217b92f81f8dc8f6d768c2"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_4.png": {
+      "md5": "addac5f8d2a18d240869afd503902d6b"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_5.png": {
+      "md5": "014dba82198216ad9f3941b2dcc30d92"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_6.png": {
+      "md5": "d52b22dbeac15c3ae425979cf9a0625f"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_free_pic_7.png": {
+      "md5": "4c0410cc1596c288032518ec4e70817c"
+    }, 
+    "res/csbres/ssddz_ui_free/ssddz_task_pic_6.png": {
+      "md5": "832eda90b65dc4825039794e735bb80e"
+    }, 
+    "res/csbres/ssddz_ui_free/tubiao1.png": {
+      "md5": "84f18f7a1791c3cbf122ba0abeb327f9"
+    }, 
+    "res/csbres/ssddz_ui_free/tubiao2.png": {
+      "md5": "d81567e3c65b508231ba0e3c93c4380f"
+    }, 
+    "res/csbres/ssddz_ui_free/tubiao3.png": {
+      "md5": "8cfe52e37774ff459045d04849ce8a18"
+    }, 
+    "res/csbres/ssddz_ui_free/tubiao4.png": {
+      "md5": "4667c8ba4a5c3e6ff7dba44fe90c9f3d"
+    }, 
+    "res/csbres/ssddz_ui_free/tubiao5.png": {
+      "md5": "fc367c90426fdf8df0810029d3310b8c"
+    }, 
+    "res/csbres/ssddz_ui_free/tubiao6.png": {
+      "md5": "e50b295c66eccb7554f130fc6159fe15"
+    }, 
+    "res/csbres/ssddz_ui_friend/anniu1.png": {
+      "md5": "3b72f47a10b0678a08f6c3fd51f917c6"
+    }, 
+    "res/csbres/ssddz_ui_friend/anniu2.png": {
+      "md5": "5c3f178cafa31c7882160e526cdd0f70"
+    }, 
+    "res/csbres/ssddz_ui_friend/anniu3.png": {
+      "md5": "ddbcef58217a10ebe1d274d68be5c8a5"
+    }, 
+    "res/csbres/ssddz_ui_friend/anniu4.png": {
+      "md5": "10b8ee5219703d44eae74546ce5ce8e0"
+    }, 
+    "res/csbres/ssddz_ui_friend/anniu5.png": {
+      "md5": "c27c4683b78a18ceeae29e324a9a582b"
+    }, 
+    "res/csbres/ssddz_ui_friend/diban.png": {
+      "md5": "4fca705fd7dcb25d04ab91756a678449"
+    }, 
+    "res/csbres/ssddz_ui_friend/guanbianniu.png": {
+      "md5": "43277f6fe33cd59711b5cc127dd1b132"
+    }, 
+    "res/csbres/ssddz_ui_friend/haoyou.png": {
+      "md5": "46caef01cb7de9ba2c9dd1d3e6a00880"
+    }, 
+    "res/csbres/ssddz_ui_friend/kuang1.png": {
+      "md5": "9c7059675a6d47d4be14e0ff5c555da0"
+    }, 
+    "res/csbres/ssddz_ui_friend/kuang2.png": {
+      "md5": "90b11c4f6e913a939bd69f0a92850f40"
+    }, 
+    "res/csbres/ssddz_ui_friend/renwu.png": {
+      "md5": "3171a858f0d7e6488c06db6ca96b45d9"
+    }, 
+    "res/csbres/ssddz_ui_friend/ssddz_friend_anniu_1.png": {
+      "md5": "17de8835778ff96583e157847eca98de"
+    }, 
+    "res/csbres/ssddz_ui_friend/ssddz_friend_anniu_2.png": {
+      "md5": "5695f8d4e83d3c73be85a96ab36c87af"
+    }, 
+    "res/csbres/ssddz_ui_friend/ssddz_friend_anniu_3.png": {
+      "md5": "0ba8d16fe81677866061406032086983"
+    }, 
+    "res/csbres/ssddz_ui_friend/ssddz_friend_anniu_4.png": {
+      "md5": "94b1b02bed182f85174648fdb4773625"
+    }, 
+    "res/csbres/ssddz_ui_friend/ssddz_friend_pic_1.png": {
+      "md5": "e36396798425f3ac7db15d6cd5c314e5"
+    }, 
+    "res/csbres/ssddz_ui_function/dikuang.png": {
+      "md5": "3934d70b093129b121a77830bdfd182e"
+    }, 
+    "res/csbres/ssddz_ui_function/kuang1.png": {
+      "md5": "44878b801c752885dad846930a669d1d"
+    }, 
+    "res/csbres/ssddz_ui_function/kuang2.png": {
+      "md5": "6312c42f096c76f3b2d5e8a34324fa2b"
+    }, 
+    "res/csbres/ssddz_ui_function/renwu.png": {
+      "md5": "e00c3779f54febcaf49a9a0ccd6358aa"
+    }, 
+    "res/csbres/ssddz_ui_function/ssddz_funtion_anniu_1.png": {
+      "md5": "225a61bd358b3e08d9d8eed55732d572"
+    }, 
+    "res/csbres/ssddz_ui_function/ssddz_funtion_mail_1.png": {
+      "md5": "b1b865fdbe2a464647a0feac5767f96f"
+    }, 
+    "res/csbres/ssddz_ui_function/ssddz_funtion_mail_2.png": {
+      "md5": "33748e212b317a4684e554e51cc211fa"
+    }, 
+    "res/csbres/ssddz_ui_function/youxiang.png": {
+      "md5": "61fcec3b260c1f6042ab4e3e82592959"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_chujichang.png": {
+      "md5": "ea10d00405790f24fb60a7861b7d301e"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_diban.png": {
+      "md5": "42870cda9a2489dcbb1c0cf9dd95d087"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_fuhaochang.png": {
+      "md5": "3c5051b657c28f4ebd70c3c09c0ca0b1"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_gaojichang.png": {
+      "md5": "cccd985392348563df740b0b594dadde"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_gonggaotiao.png": {
+      "md5": "76b81d3498865668e7cffd4cfe8d6f8c"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_kuang1.png": {
+      "md5": "e461a7ffe87325742933388a0cdbcb50"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_laba.png": {
+      "md5": "f6690861ae87babb988c192ec74d03fc"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_menpiao.png": {
+      "md5": "6c8dfda3f747304e2f9d95a458067566"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_shurukuang.png": {
+      "md5": "2b2a6637bd7cf6cd12d3250f9c6eaaa2"
+    }, 
+    "res/csbres/ssddz_ui_gold/ssddz_gold_zhongjichang.png": {
+      "md5": "123d7a5d623ee95c1d3f35b6eb1bca9e"
+    }, 
+    "res/csbres/ssddz_ui_mail/anniu6.png": {
+      "md5": "ad610542f31cd2d827a398eaf202eb48"
+    }, 
+    "res/csbres/ssddz_ui_mail/dikung.png": {
+      "md5": "947e224b4587c63d9e15fda8c454a458"
+    }, 
+    "res/csbres/ssddz_ui_mail/dingbian.png": {
+      "md5": "4d349ff7bbdd8b82221773aae28929ab"
+    }, 
+    "res/csbres/ssddz_ui_mail/fanhui.png": {
+      "md5": "837d27fb750de8067ebc6ddfdab41618"
+    }, 
+    "res/csbres/ssddz_ui_mail/wenzi_youjian1.png": {
+      "md5": "ee84124f27741a82b517cbec1f743681"
+    }, 
+    "res/csbres/ssddz_ui_mail/xinfeng1.png": {
+      "md5": "8ae92f4b9e40735e00a72a70969d8b51"
+    }, 
+    "res/csbres/ssddz_ui_mail/xinfeng2.png": {
+      "md5": "03253ffd1844d1e50ce0ed45120e3d96"
+    }, 
+    "res/csbres/ssddz_ui_mall/anniu1.png": {
+      "md5": "f7a2ef4fbd6005b00d3b2e96cade49b4"
+    }, 
+    "res/csbres/ssddz_ui_mall/anniu2.png": {
+      "md5": "064dd1d25c7cf3ec3029922f8046d8e3"
+    }, 
+    "res/csbres/ssddz_ui_mall/anniu3.png": {
+      "md5": "74d6a729e7749b36898214b8dd9c3a33"
+    }, 
+    "res/csbres/ssddz_ui_mall/anniu5.png": {
+      "md5": "5ba90f75c1119d92cbbb674597319374"
+    }, 
+    "res/csbres/ssddz_ui_mall/anniu6.png": {
+      "md5": "a1b86ca4f76e4ba20170794edbe6f455"
+    }, 
+    "res/csbres/ssddz_ui_mall/anniu7.png": {
+      "md5": "da8ca8df094496750dba7e052ad208f0"
+    }, 
+    "res/csbres/ssddz_ui_mall/biaoti.png": {
+      "md5": "52e284c03ab87889d479596014844279"
+    }, 
+    "res/csbres/ssddz_ui_mall/biaoti2.png": {
+      "md5": "19da6d15a1f4388a1e7f36cb20c043b9"
+    }, 
+    "res/csbres/ssddz_ui_mall/dikuang1.png": {
+      "md5": "431f4186e2df5490fc7a7aea9d64465c"
+    }, 
+    "res/csbres/ssddz_ui_mall/dikuang2.png": {
+      "md5": "39a14ec19cc786b403467b9fd85a5d42"
+    }, 
+    "res/csbres/ssddz_ui_mall/dikuang3.png": {
+      "md5": "dcc7b542e18d69e5eb2ece87f380b877"
+    }, 
+    "res/csbres/ssddz_ui_mall/kuang.png": {
+      "md5": "603caead058340285e0939a69a4c2a8b"
+    }, 
+    "res/csbres/ssddz_ui_mall/shurukuang.png": {
+      "md5": "bb06188671b6b9429a16aca3e1516809"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_anniu_1.png": {
+      "md5": "f0be73172f5aed95b716ffb26e14c03a"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_baoxiang.png": {
+      "md5": "ebf61904ee0bfb9cb0b1914bc8d9b179"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_choice1.png": {
+      "md5": "c09376226a0a176561fa1ee322ec350f"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_choice2.png": {
+      "md5": "5b940c78275194639a98fd4b6a680b62"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_choice3.png": {
+      "md5": "42d16fe9fb4745618eb4f4011b4aa2de"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_diban.png": {
+      "md5": "8b03e795689ded51ce70b27c71c92f44"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_duihuan_ui_10.png": {
+      "md5": "51f1ab35fd076a8d5037b34c73600227"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_duihuan_ui_11.png": {
+      "md5": "617e4194e59019289e1f908d5f35633b"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_duihuan_ui_13.png": {
+      "md5": "7302c337c7ed4418e716e27b0af3f513"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_duihuan_ui_9.png": {
+      "md5": "c26539e48698b36e31c733658338ead8"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_jinxu.png": {
+      "md5": "127743b920393bd04a9b94904423ffc9"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_pay_wechat.png": {
+      "md5": "cc4935cc3ccddccff5e9514d142f6dab"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_pay_zhifubao.png": {
+      "md5": "b6022cd7d5309c11f03e7098ee4e1800"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_pic_1.png": {
+      "md5": "fc259e8de5f7b3aaf39a6d8adc0cadcd"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_pic_2.png": {
+      "md5": "ec247caee8288e435481592701a0394b"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_tubiaokuang.png": {
+      "md5": "0fac59155bfcbe0d6edd9e9e958e8d37"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_yi.png": {
+      "md5": "2836abd89e9e32f0e49d2ecaac80a982"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_yuan.png": {
+      "md5": "416caf716e94194b11cab7ef67a4411f"
+    }, 
+    "res/csbres/ssddz_ui_mall/ssddz_mall_zeng.png": {
+      "md5": "fc089e127a10be6930f56f960d6f539f"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_dailichongzhi1.png": {
+      "md5": "ad612f945da28bc7ce0bd2e25de103e9"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_dailichongzhi2.png": {
+      "md5": "3465fe51861937cb8757c57fdab835bc"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_diankachongzhi1.png": {
+      "md5": "f95d96a2a60c8f8a7de7917a72915389"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_diankachongzhi2.png": {
+      "md5": "0044091deef8390d8df3c059bb4fb862"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_queding.png": {
+      "md5": "f62f9e65c712a33e25692237d43a3207"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_shangcheng.png": {
+      "md5": "91eb17f92358ef702fb252ad7030383d"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_zhifubao1.png": {
+      "md5": "d26b11292552b540d94e81396cb89541"
+    }, 
+    "res/csbres/ssddz_ui_mall/wenzi_zhifubao2.png": {
+      "md5": "00cbcc98617a09b55afc0958556bd06d"
+    }, 
+    "res/csbres/ssddz_ui_mall/zhifubao.png": {
+      "md5": "4f56ec7dc8f3b5d3b93e2ca80e1fa6f0"
+    }, 
+    "res/csbres/ssddz_ui_money/anniu3.png": {
+      "md5": "ad610542f31cd2d827a398eaf202eb48"
+    }, 
+    "res/csbres/ssddz_ui_money/anniu4.png": {
+      "md5": "f9c388c86c1fc0b84e121b243c4c68ef"
+    }, 
+    "res/csbres/ssddz_ui_money/anniu6.png": {
+      "md5": "ae31ab406a9ae00b3dacf9f582323bc8"
+    }, 
+    "res/csbres/ssddz_ui_money/anniu8.png": {
+      "md5": "da8ca8df094496750dba7e052ad208f0"
+    }, 
+    "res/csbres/ssddz_ui_money/huadongcao.png": {
+      "md5": "82ca5f13a911674db8962a2768d844ce"
+    }, 
+    "res/csbres/ssddz_ui_money/huadongcao1.png": {
+      "md5": "177ce716107286324b027f1c8f1e6dd0"
+    }, 
+    "res/csbres/ssddz_ui_money/huadongkuai.png": {
+      "md5": "488783bddc4cfc9ce823b4dc994e53c5"
+    }, 
+    "res/csbres/ssddz_ui_money/liebiaodingbu.png": {
+      "md5": "292988f67f21e5dbd758a2dce2dde014"
+    }, 
+    "res/csbres/ssddz_ui_money/liebiaofengexian.png": {
+      "md5": "826b43276b6b13285a2e563ed7ca5f49"
+    }, 
+    "res/csbres/ssddz_ui_money/liebiaowenzi1.png": {
+      "md5": "bcbfcc1e1d4c4a6ce06192822e93426c"
+    }, 
+    "res/csbres/ssddz_ui_money/liebiaowenzi2.png": {
+      "md5": "bc8e357db93bb96f0fb7d243f4f3ece0"
+    }, 
+    "res/csbres/ssddz_ui_money/liebiaowenzi3.png": {
+      "md5": "3895e5b09ca2131b6891b01fad7e2041"
+    }, 
+    "res/csbres/ssddz_ui_money/liebiaowenzi4.png": {
+      "md5": "bb80514cfb4bb99f7df59bf230725d46"
+    }, 
+    "res/csbres/ssddz_ui_money/shurukuang.png": {
+      "md5": "21e4b00fa687db2f9ca1875e70ec92ac"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_cunqianguan.png": {
+      "md5": "9dd0e85c8458d9e9e600882718c15d92"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_cunru1.png": {
+      "md5": "7d53a03bedfcc8e073110d8a7161d52f"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_cunru2.png": {
+      "md5": "b41dd61da712e00e41f48da0d3ae9fc2"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_jiesuan1.png": {
+      "md5": "e21fdc3d02be3545c5b980483b913888"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_jiesuan2.png": {
+      "md5": "cbbde88c1331babba6b694e1089a5a78"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_jindu1.png": {
+      "md5": "3a880269372ebbf666599ddc25855254"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_jindu2.png": {
+      "md5": "75d598745ba6dace0d7170b2e4a2dbc9"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_lianxikefu.png": {
+      "md5": "32995c4037069d48ec2e738b46cde626"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_lijibangding.png": {
+      "md5": "383ab0844adfdf3bf1443634e04b5a4f"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_mima1.png": {
+      "md5": "691abafd0ec5f068a0ffd3324b2743af"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_mima2.png": {
+      "md5": "9e6f776319ff0ace276466af55e687f0"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_quchu1.png": {
+      "md5": "af7af4705d2f9c8a6aa3f60483875b63"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_quchu2.png": {
+      "md5": "de36c0580d96ecdac42ca9424adeb556"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_querencunru.png": {
+      "md5": "c13cdb1e16a07563fc44fe6ef828719e"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_querenquchu.png": {
+      "md5": "1565384bba48912ff00c7ff8fd9f4fc5"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_querenshezhi.png": {
+      "md5": "7010532ad67d81d86fc550377b8735d8"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_querenzhuanzhang.png": {
+      "md5": "c0bf4f3f2cf70d604b3a95f959296cd0"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_zhuanzhang1.png": {
+      "md5": "4fb26386c6f39c60a4d9a8a9e78ad79f"
+    }, 
+    "res/csbres/ssddz_ui_money/wenzi_zhuanzhang2.png": {
+      "md5": "d93a71ca9b49b10871fda12f34d7729d"
+    }, 
+    "res/csbres/ssddz_ui_money/zhifubao1.png": {
+      "md5": "292d4f572de1071bb74049f208a1c1c4"
+    }, 
+    "res/csbres/ssddz_ui_rank/dier.png": {
+      "md5": "136bf4999118ca660de0fe392d6b26c5"
+    }, 
+    "res/csbres/ssddz_ui_rank/dikuang1.png": {
+      "md5": "d3150742d4ddc7d906808e14fb3d5ff0"
+    }, 
+    "res/csbres/ssddz_ui_rank/dikuang2.png": {
+      "md5": "476c0e3642db6e23df5941643cf957ae"
+    }, 
+    "res/csbres/ssddz_ui_rank/disan.png": {
+      "md5": "4e54c0c74739e086404f4e9cb2f6d415"
+    }, 
+    "res/csbres/ssddz_ui_rank/diyi.png": {
+      "md5": "0d04a5fa0411286ec717840f74ba862f"
+    }, 
+    "res/csbres/ssddz_ui_rank/jiangli.png": {
+      "md5": "a0af991c512b96aabd122df74e0e1d9d"
+    }, 
+    "res/csbres/ssddz_ui_rank/shurukuang.png": {
+      "md5": "bc3290095dd35b56067f94da831465ea"
+    }, 
+    "res/csbres/ssddz_ui_rank/weishangbang.png": {
+      "md5": "0d657d4d6d74a6ce5b3dee49c904e08d"
+    }, 
+    "res/csbres/ssddz_ui_rank/wenzi_yinjinbang.png": {
+      "md5": "c19aad0bffae8b5cd67a946ec888dd6b"
+    }, 
+    "res/csbres/ssddz_ui_rank/yinlizichan.png": {
+      "md5": "0595989b845ffa0cb2338a1a14f2a52f"
+    }, 
+    "res/csbres/ssddz_ui_service/kefutouxiang.png": {
+      "md5": "ac25dc286ca18b0204fb7ba220462f8f"
+    }, 
+    "res/csbres/ssddz_ui_service/liaotiankuang.png": {
+      "md5": "39e23471b60c0a661253e7ddf60bbed0"
+    }, 
+    "res/csbres/ssddz_ui_service/liaotiankuang2.png": {
+      "md5": "a3ef7a5e76349e1cb09224abde98b656"
+    }, 
+    "res/csbres/ssddz_ui_service/shurukuang.png": {
+      "md5": "f797ce5cb800153649f0a4572444cc36"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_changjianwenti1.png": {
+      "md5": "b0934fe4912b5d458cb92902aadda8d4"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_changjianwenti2.png": {
+      "md5": "1c5b9e670bf31a6d43a4adcf36638050"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_kefu.png": {
+      "md5": "61b699c78492316884562057a63abc9e"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_lianxikefu1.png": {
+      "md5": "56150b9401210cd1e925162bead2ff41"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_lianxikefu2.png": {
+      "md5": "8de039c4ece278726a672c4e978f7cd4"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_shenqingdaili1.png": {
+      "md5": "c08ee5d390b0c65e829418d31d1ac9a9"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_shenqingdaili2.png": {
+      "md5": "ea9c0fbf2bb21a7a9418740bee420e01"
+    }, 
+    "res/csbres/ssddz_ui_service/wenzi_tijiao.png": {
+      "md5": "6e0b1e236d2c659a7e6c49c337eb843d"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_anniu_1.png": {
+      "md5": "37d276853cf91d53d308ab35de915ce0"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_anniu_2.png": {
+      "md5": "5444026a877a20abff793a1f6818a935"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_icon_buzhu.png": {
+      "md5": "8cfe52e37774ff459045d04849ce8a18"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_icon_fen.png": {
+      "md5": "e50b295c66eccb7554f130fc6159fe15"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_icon_gift.png": {
+      "md5": "84f18f7a1791c3cbf122ba0abeb327f9"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_icon_jinbi.png": {
+      "md5": "4667c8ba4a5c3e6ff7dba44fe90c9f3d"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_icon_ka.png": {
+      "md5": "fc367c90426fdf8df0810029d3310b8c"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_icon_libao.png": {
+      "md5": "d81567e3c65b508231ba0e3c93c4380f"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_pic_2.png": {
+      "md5": "8afd766170867ac273526cdfb7f62da9"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_pic_3.png": {
+      "md5": "90d3da009b646b6d58cebfbceed4fcc3"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_pic_4.png": {
+      "md5": "41767944901b8d31da203d9c82cf0a76"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_pic_5.png": {
+      "md5": "57c9c3996658faf6e247764607575391"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_pic_6.png": {
+      "md5": "59402cc7ef51d81d7df290129e5c9b2f"
+    }, 
+    "res/csbres/ssddz_ui_task/ssddz_task_pic_8.png": {
+      "md5": "e15ada0acb788031386a958ce7fbe3f8"
+    }, 
+    "res/csbres/tankuang/VoiceChatItem.png": {
+      "md5": "ae1b87678e56335c207183ab39b0aa87"
+    }, 
+    "res/csbres/tankuang/VoiceItem.png": {
+      "md5": "5c9dfe8fbb63abdc49abe6a7ae68fc84"
+    }, 
+    "res/csbres/tankuang/VoiceNum1.png": {
+      "md5": "c66ef6c5e92e4265756059d72ab62f2d"
+    }, 
+    "res/csbres/tankuang/VoiceNum2.png": {
+      "md5": "5e145d9fdf57a9c960a9db32e2a7aba6"
+    }, 
+    "res/csbres/tankuang/VoiceNum3.png": {
+      "md5": "dbf06fa9640b495ffa77d5be028eee4f"
+    }, 
+    "res/csbres/tankuang/VoiceNum4.png": {
+      "md5": "71d522a7b75cdc46797250ee8bcbe17f"
+    }, 
+    "res/csbres/tankuang/VoiceNum5.png": {
+      "md5": "c09e5e8760f5f43c10960c611fbff610"
+    }, 
+    "res/csbres/tankuang/VoicePR.png": {
+      "md5": "a741cdd24a3a573dc13d500073b5b15b"
+    }, 
+    "res/csbres/tankuang/VoicePR_1.png": {
+      "md5": "5cfaf762d81cab4e5c5cb8a9e3fe73c1"
+    }, 
+    "res/csbres/tankuang/ziti.TTF": {
+      "md5": "65557baef8a4ba9d6c6794054c2102cf"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/PaiBack.png": {
+      "md5": "83a7865a1e8533ff11bd2a1d095d7e7d"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/Table.png": {
+      "md5": "dccf1bd51b274998e61d90908b7f49a7"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/a_baozi.png": {
+      "md5": "2ab7bc399914fac71654daf723408410"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/a_danzhang.png": {
+      "md5": "d46731d903201049a70cc3432c6b7ab8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/a_duizi.png": {
+      "md5": "f3286630ebbcdf71b4b2e7cf3815643e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/a_jinhua.png": {
+      "md5": "856ee4331ca04d71c1e6234a130c20f9"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/a_shunjin.png": {
+      "md5": "997b479f450f35a2a3be6e1dddc4894c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/a_shunzi.png": {
+      "md5": "65b9dd6b3cd8276909ffa9d0983674b4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/anniu1.png": {
+      "md5": "11ea01564e6bb90df8b03e07babe77ac"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/anniu2.png": {
+      "md5": "d78ac254af78edf7ed6997a4cd4cdffa"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_1_100.png": {
+      "md5": "9d7e3cca25c8cd3856dba2106dd40721"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_1_1000.png": {
+      "md5": "ab4cad11421fe581fba6969bb4ed7b01"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_1_300.png": {
+      "md5": "dc3dafb6aa18a851edeb8dde16fb6241"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_1_500.png": {
+      "md5": "1b6d8a66c76d62671d323a3054022206"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_1_800.png": {
+      "md5": "e7557743aa147d24674b6ccfdb44858e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_2_1500.png": {
+      "md5": "3035817eaf2fd55c04b4bebd6d64ee77"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_2_2500.png": {
+      "md5": "bdaf31bca0fdf2c75ce11c1f58df4807"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_2_4000.png": {
+      "md5": "2533e41555988c2cf8556532f0cb8951"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_2_500.png": {
+      "md5": "61c0ed57ae08dcffeaf1012aaa322308"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_2_5000.png": {
+      "md5": "bb50bdca019a335e34a48a2976fc6ca5"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_3_1000.png": {
+      "md5": "27b29cac293ad69184b0cb9c25a3bdd8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_3_10000.png": {
+      "md5": "05338f6f1941635695aeb18632a176fd"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_3_3000.png": {
+      "md5": "35003e1d25fd0342d156b150b0cc17d1"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_3_5000.png": {
+      "md5": "1e66882ba482b78b7b277112a4af9689"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_3_8000.png": {
+      "md5": "625085772e6fd14d40b7ffbd075f40d7"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_4_10000.png": {
+      "md5": "9bb2d4f6ad18419043800c519e7558ce"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_4_100000.png": {
+      "md5": "061584513a724dd02d32087582ab8afc"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_4_30000.png": {
+      "md5": "90525c27200ede69872a59d6a8d4f032"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_4_50000.png": {
+      "md5": "6148fdc0b2ca3674b1840adcde9346da"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/chouma_4_80000.png": {
+      "md5": "c980ca4af2aec6cf285f3131c4bf4905"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/choumakuang.png": {
+      "md5": "febe9cc52d6947a4270a06ed9db6c253"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/choumatubiao.png": {
+      "md5": "6ecd94dd244733498af2af3a978d4db8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/choumatubiao2.png": {
+      "md5": "cc3d6171686070a9526960164c41bc48"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/dengdaixiaoyiju.png": {
+      "md5": "e817c47d45aea976701d968f3861abde"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/dikuang1.png": {
+      "md5": "fc33aa3c17fc9229e91e0bf88a23c018"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/dikuang2.png": {
+      "md5": "3934d70b093129b121a77830bdfd182e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/gouxuan1.png": {
+      "md5": "9e542b93ed6d6617506255d41243511e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/gouxuan2.png": {
+      "md5": "2437fe4967aafb25157ea556ac10eda7"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/huanzhuo.png": {
+      "md5": "c10133220747b69b2a1667dedfebfe81"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/kuang1.png": {
+      "md5": "e05c47a3526bb8211b6d85c7ec2ea480"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/liaotian.png": {
+      "md5": "f611c8a4a91b3e687f6994c5c6d75216"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/qipao.png": {
+      "md5": "514a532348679b521858b3ef81a041c0"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/shezhi.png": {
+      "md5": "270197aab3e4a6620eae42d8b5f26fd6"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/shou.png": {
+      "md5": "464d48c0db44dfb49f9b942c8ef77546"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/ssddz_icon_sheng.png": {
+      "md5": "fc367c90426fdf8df0810029d3310b8c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/touxiangkuangzhezhao.png": {
+      "md5": "bff7c8a2aaef20dce623852c36614fbc"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/touxiangxinxi.png": {
+      "md5": "4199bac69cf184806a916900a476dd70"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/tuichu.png": {
+      "md5": "d51534dce85999d3de53d4889e4015db"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/wenzi2.png": {
+      "md5": "44991a2154a10a8cddeecc8c290d1672"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/wenzi3.png": {
+      "md5": "6d0286342c25cf9b4e0423720f053441"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/zhuang.png": {
+      "md5": "478c125d0c429e87a49d15f26fb80b34"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_ZJH/zjh_koupai.png": {
+      "md5": "bec8555201210dd26b7594ac93b2ae20"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_award_ui_paiju_anniu5.png": {
+      "md5": "cadc3d2b65c3ab5345b7cdfb432a47fe"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/anniu1.png": {
+      "md5": "a753df8cebec612030b80760c07c486b"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/anniu2.png": {
+      "md5": "21d1ba4da9dad4f4cc989a0005eab527"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/bianji.png": {
+      "md5": "95a36265c34a81777640595427886da8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/biaoqingkuang.png": {
+      "md5": "5d7e7a1f7566f297319aadbb8a78d9ae"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/biaoti.png": {
+      "md5": "52e284c03ab87889d479596014844279"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/biaoti2.png": {
+      "md5": "19da6d15a1f4388a1e7f36cb20c043b9"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/diban.png": {
+      "md5": "71c4eec0f7e91329c7f8f48c9c27d4a4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/dikuang.png": {
+      "md5": "3934d70b093129b121a77830bdfd182e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/dikuang1.png": {
+      "md5": "71c4eec0f7e91329c7f8f48c9c27d4a4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/dikuang2.png": {
+      "md5": "94ebaa661e4a6dae8fe2b3ef57af35ef"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/duandai.png": {
+      "md5": "01f545dd80b50894655c101202715aea"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/gerenxinxi.png": {
+      "md5": "ae111f818a6f46d6c479ffc6cdd379c4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/gouxuan1.png": {
+      "md5": "7839a3cedea5cc24a1b369cac0138e40"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/gouxuan2.png": {
+      "md5": "8e8a0007075a31e4d40bee1a443ca0fb"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/guang1.png": {
+      "md5": "9be0d4f3b0f533d902b01f434c8b6f1e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/guang2.png": {
+      "md5": "d9dac7458e899fc786398a68d5c4e6b8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/huangguan.png": {
+      "md5": "0eb0bbf7000d09499647120b88c23313"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/jinbi.png": {
+      "md5": "3f1b8e1e2af1c152a61a92358c0c8ffb"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/jipaiqi3.png": {
+      "md5": "faa6abce9ecb2fe99e24921905fdf96d"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/kuang.png": {
+      "md5": "c68f134309ea8afe04070c9798c0cfb8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/kuang1.png": {
+      "md5": "e05c47a3526bb8211b6d85c7ec2ea480"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/kuang2.png": {
+      "md5": "60c9508dd6b07077a650e0ecb060854d"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/nan.png": {
+      "md5": "af87f937296024e379c29a106bc57aee"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/naozhongshuzi.png": {
+      "md5": "687c1c77acb5799a7033b470d073d208"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/nv.png": {
+      "md5": "71fa4c97e2d05c969d3d69192f819a2a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/off.png": {
+      "md5": "f296d49b1d5a2c2fcb355e26fd9ccf4c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/on.png": {
+      "md5": "aef7a60c7e263e6057d448ab2371dbc4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shezhi.png": {
+      "md5": "5d075e885242114b5611c990efdf92c9"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shujiakuang.png": {
+      "md5": "b6e017255ebf43d5f4d3f68091364e57"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shurukuang.png": {
+      "md5": "d5ac42a7554d5f80fc06de570d3cab91"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shurukuang1.png": {
+      "md5": "334b5e91720079c5ca51375a1640f6fa"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shurukuang2.png": {
+      "md5": "a6ca74638c0d4ea0c0dc7f023822319a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shurukuang3.png": {
+      "md5": "2b101448d466788b3afa603b20ede4ee"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/shuzi.png": {
+      "md5": "2ebd6df99eff5ce73d60a53e2f9bb868"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_game_biaoqian.png": {
+      "md5": "36fb68014bdf9a290fd37d0cf516ebc3"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_1.png": {
+      "md5": "8c30b46760b5793df6aec6a95d7cef06"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_2.png": {
+      "md5": "04a64d40f6d656fc68db1557165aea68"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_3.png": {
+      "md5": "788db6614db87cf57929a645a5f31acf"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_4.png": {
+      "md5": "11afbedf4123aa8ae05bfbbe36d0222a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_5.png": {
+      "md5": "750ca5baf4f66b8b9bc093bc9003b7e4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_6.png": {
+      "md5": "45f1e89ff25da88b66fe2e3f9d0ceefa"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_7.png": {
+      "md5": "c53f011f6ccb2073a8a3af1a0ee9abf7"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_ChatItem.png": {
+      "md5": "ae1b87678e56335c207183ab39b0aa87"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_OFF.png": {
+      "md5": "f2439f83eb225d66cf479ce940f11175"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_ON.png": {
+      "md5": "fea480546e14ad18f282caf44165430e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_anniu0.png": {
+      "md5": "124a855e41990e46003ab271a63507be"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_anniu1.png": {
+      "md5": "22ee2f849f941c8b315516a43565dbfb"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_anniu2.png": {
+      "md5": "66a9376f927bc34900d38fa3dcb858b2"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_biaoqingkuang.png": {
+      "md5": "bcab4c538a6c2c088cb9409af853cd80"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_di.png": {
+      "md5": "147038721adc996b70a84c436d2f64dd"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dianchi2.png": {
+      "md5": "560065e420fc6197d791773d2395a95c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_diban.png": {
+      "md5": "dc1e84173d94ef0eacc24042163f69b6"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dingkuang.png": {
+      "md5": "c28d15aa4e82a5fd9a51a5ce8f03dd91"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dingkuang1.png": {
+      "md5": "97afe4981ef35b5f4593e7d52cc74ed6"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dingkuang2.png": {
+      "md5": "fb2c6954ce72d6b9eaa43c045a1a3217"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dingkuang3.png": {
+      "md5": "2f3bfcedebcc2e630fcdebed56d02314"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dingkuang4.png": {
+      "md5": "b36407e43589c4dbd87fd23ac2cb9e25"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dingkuang5.png": {
+      "md5": "0df1f3a1ff5d6c3234cc694ff25462e8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dizhushengli.png": {
+      "md5": "4796f46da0c325ca10942fefa49c4d76"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_dizhushibai.png": {
+      "md5": "af473c4979c049b1692709ef801be8f3"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_duihuakuang1.png": {
+      "md5": "83397d007e76dfad45f9d5d68be3d097"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_duihuakuang2.png": {
+      "md5": "43e52fe3a6b6c7e5f55d59703c83118b"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_huanzhuo.png": {
+      "md5": "174271b054dbacf418d6fb25d11a6b98"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_hudong1.png": {
+      "md5": "8c30b46760b5793df6aec6a95d7cef06"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_hudong2.png": {
+      "md5": "04a64d40f6d656fc68db1557165aea68"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_hudong3.png": {
+      "md5": "788db6614db87cf57929a645a5f31acf"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_hudong4.png": {
+      "md5": "750ca5baf4f66b8b9bc093bc9003b7e4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_hudong5.png": {
+      "md5": "11afbedf4123aa8ae05bfbbe36d0222a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_hudong6.png": {
+      "md5": "45f1e89ff25da88b66fe2e3f9d0ceefa"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_jia.png": {
+      "md5": "29c0a06114ea07da1c55aec3b69eb036"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_jipaiqi2.png": {
+      "md5": "898ad85ac45b53c6e249c4d3ee82a144"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_juese1.png": {
+      "md5": "9e79a55601fd45c62514eafbc52fdea3"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_juese2.png": {
+      "md5": "7dac18c7a22a1e2e98b8f7ba0c68c486"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_juese3.png": {
+      "md5": "3b1f43c60841dd3ec5fc03f46d5e2fcc"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_juese4_shengli.png": {
+      "md5": "4fd3978c8a05c96ba2c99134dd04c267"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_juese5_shibai.png": {
+      "md5": "efc8968c9342d2b3933d7deaedc7f602"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kaibaoxiang_ka1.png": {
+      "md5": "681434ab2575d3c5bfcfe3d108350b6e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kaibaoxiang_ka2.png": {
+      "md5": "6c1a93d2d600238ee693c80c27f4c68e"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kaibaoxiang_ka3.png": {
+      "md5": "2c951d72dca938482b776873ff64d0af"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kaibaoxiang_ka4.png": {
+      "md5": "a2e46a3699d9da0b9720ff11929d8a16"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kuang1.png": {
+      "md5": "c8da0570aa21ae2c0c4a075d7c3919df"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kuang2.png": {
+      "md5": "39367a356020d532746531c25d224405"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_kuang3.png": {
+      "md5": "89699e9d72aa2863391d9839d2109553"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_liebiaotiao.png": {
+      "md5": "8f56a2e476c91c36c16c7e79e48dcbf3"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_line.png": {
+      "md5": "a2508abb1a7ed177a28b2f32af05d393"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_line2.png": {
+      "md5": "9e5916bca3b7aa28d2cc71a4896ebbb6"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_mingzikuang1.png": {
+      "md5": "14a6ffc19f23622b61be690806e51060"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_mingzikuang2.png": {
+      "md5": "398e4f5bee936ca74dbc31592e20b298"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_nan.png": {
+      "md5": "7c54aeb9fe291c3adb51f0cfecc6c4ec"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_nongmingshengli.png": {
+      "md5": "30304507e5b3e12857690da927c96fc0"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_nongmingshibai.png": {
+      "md5": "cf32700d3de5fcaba26ff5c15c95c42f"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_nv.png": {
+      "md5": "9a7a48439031801c4cd3c9265639d475"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_paibeimian.png": {
+      "md5": "8470c1512162ce28b217bad7c08e0bca"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_paizhuo.png": {
+      "md5": "80060133af37155006d764870b6adf8d"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_pochan.png2.png": {
+      "md5": "ca088ce4a117d063dd85936fdd4cc23c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_pochan1.png": {
+      "md5": "1b84f01aa0e089fee2f9eddff1a35e8f"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_puochan.png": {
+      "md5": "ecca76406e1692a5f88470f72c365119"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_renwu.png": {
+      "md5": "be83fcac26e6534960ad649b6ebac13a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_shengli.png": {
+      "md5": "afa89ae9874b17a9a6a5abc312505f19"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_shengwangka.png": {
+      "md5": "94b9121d514c77d841bafa654d4dde39"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_shibai.png": {
+      "md5": "5c4fefa1a48f2f012720ab05e1f9cb65"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_touxiang.png": {
+      "md5": "611593a06098faedc75cab5297503182"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_tuoguan1.png": {
+      "md5": "8b61562f770a2bce5be67b61c2088799"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_tuoguan2.png": {
+      "md5": "af02d78acf61cd0b55f9d2f8ea069e8b"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_tuoguan3.png": {
+      "md5": "26fd3f1ad8ba7ba33ca00d0f97aaffc4"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_xuanpai.png": {
+      "md5": "59ed4b3f7b980cdb0105523288ab7b83"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_xuanze.png": {
+      "md5": "77e81405d9520626ef1fbccaf95d181a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/ssddz_table_yuandian.png": {
+      "md5": "fa07500552659edfd31b119c081c52e6"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/tiao.png": {
+      "md5": "4bd6ec6d5eb59d2800c199baeab71256"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/touxiangkuang.png": {
+      "md5": "151b528a4733518122b54e6981a64f7a"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/tubiaokuang.png": {
+      "md5": "32665523310bd19ea059eea5f54f6470"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/tuoxiangkuang.png": {
+      "md5": "3b387fdcdb59337eaa1fc6c7de93a1e8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/wenzi1.png": {
+      "md5": "d95cb3470b7bad8bb9e553e023ae26da"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/xiala1.png": {
+      "md5": "e1121f12c3be85b03cfdf6b0ad21d236"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/xiala2.png": {
+      "md5": "50ffeaaa28a1cac5f8b9f7ae181cc418"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/xian.png": {
+      "md5": "1dc2fb2b22c5a241a3989c364a45342c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/xiaokuang.png": {
+      "md5": "ffc6469a830601d55b6e86d22a2e1a2c"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/xingxing.png": {
+      "md5": "a31d0652730c243f67689236700710ec"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/yeqian1.png": {
+      "md5": "a4f3f569e403ef245d1efd78204df1b8"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/yeqian2.png": {
+      "md5": "97c3180f74f1a2a9f533729c6c8f786f"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/yinjia.png": {
+      "md5": "0d42414841417cbef7f6dc5f6d0d5a7d"
+    }, 
+    "res/csbres/uiPaiJu/ssddz_table/yinjiakuang.png": {
+      "md5": "58ee43ce987b6a8f3c5a0d0a6bf6914b"
+    }, 
+    "res/csbres/uiPaiJu/ui_dumiao_shuzi1.png": {
+      "md5": "0ca4be4f5c2ba8392cde870bdef1b2cc"
+    }, 
+    "res/csbres/uiPaiJu/ui_dumiao_shuzi2.png": {
+      "md5": "fceca7ea6d11cfbbf3380953fdb1ec49"
+    }, 
+    "res/csbres/uiPaiJu/ui_lixian.png": {
+      "md5": "d9164693e2ba2a952cf63b057a0072bf"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_anniu1.png": {
+      "md5": "930b29a3646192873d9c5b662e6ec258"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_anniu1_1.png": {
+      "md5": "e90340cc2e28f42b2034083b35cbce40"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_anniu2.png": {
+      "md5": "3e2a4767eb3e0376f4068db8cfb2a9d1"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_anniu2_1.png": {
+      "md5": "4481d6d3a4e36a0eb7a1eed80994151f"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_anniu3.png": {
+      "md5": "1f7a1a2f8dcaeeed5e91d569529bf0d0"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_anniu3_1.png": {
+      "md5": "ade312787cb270e9a444a3c274aee3de"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_fenshu.png": {
+      "md5": "e0cb663b7b30debe749725d413ecfd8c"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_jushu.png": {
+      "md5": "1fa3d1d6bf1a5cc0f40ab3f769343066"
+    }, 
+    "res/csbres/uiPaiJu/ui_paiju_wifi.png": {
+      "md5": "a7b7e135fb14e4c3877399a131a2eda3"
+    }, 
+    "res/csbres/uiPaiJu/ui_paishu_shuzi.png": {
+      "md5": "e9397e338347c9fa2fde4e67f9fa24c5"
+    }, 
+    "res/csbres/uiPaiJu/ui_wor_zhunbei.png": {
+      "md5": "c554a5e232e7be1933280cd5466afb48"
+    }, 
+    "res/csbres/uiPaiJu/ui_zhuang.png": {
+      "md5": "630b0fc32ec4e595b6d81bc68aacbd07"
+    }, 
+    "res/csbres/uiPaiJu/wenzi_fuzhi.png": {
+      "md5": "ea5ae59d72b8bbe4a9a2a06e49d05721"
+    }, 
+    "res/csbres/uiPaiJu/wenzi_yaoqing.png": {
+      "md5": "f78c9921ba9f53a0ba4cfb60441733dd"
+    }, 
+    "res/csbres/uiPaiJu/wenzi_zhunbei.png": {
+      "md5": "b3bb97457bc1971d6b3979ebe4a610e0"
+    }, 
+    "res/csbres/uiPaiJu/zhuomian_di.png": {
+      "md5": "0d0d3f85f0b7f8c38ee12f9fd05715a5"
+    }, 
+    "res/csbres/uiPaiJu/zhuomian_touxiangkuang.png": {
+      "md5": "761f66c8aa86952ef2b691dc09b84038"
+    }, 
+    "res/csbres/uiTextureChat/Image_bian1.png": {
+      "md5": "442f8d86dd9bd1ae511ce31434c1f8e5"
+    }, 
+    "res/csbres/uiTextureChat/chatEmoji.plist": {
+      "md5": "e2e48a86458cb96bbe1917a90a22061d"
+    }, 
+    "res/csbres/uiTextureChat/chatEmoji.png": {
+      "md5": "5f5d79394982d477e52b2d763ccfb968"
+    }, 
+    "res/csbres/uiTextureChat/chatEmoji.xml": {
+      "md5": "bd317c4f0216bfeaeb4fd06e62d140e3"
+    }, 
+    "res/csbres/uiTextureChat/ui_common_duihuakuang1.png": {
+      "md5": "85c3be5cc3085f1af55e5536017ed3b0"
+    }, 
+    "res/csbres/uiTextureChat/ui_common_duihuakuang2.png": {
+      "md5": "963e8bc0331d33009883c1323943abf9"
+    }, 
+    "res/csbres/uiTextureChat/ui_general_fenge03.png": {
+      "md5": "f1dc69bdac12bb06f6533dbcce5224cf"
+    }, 
+    "res/csbres/uiTextureJinBi/chujichang.png": {
+      "md5": "650963f1121ce125e10c59f0d6ba2db1"
+    }, 
+    "res/csbres/uiTextureJinBi/ddz_jinbi_zi.png": {
+      "md5": "4d0736b00c4766645410ba7b7c891f5b"
+    }, 
+    "res/csbres/uiTextureJinBi/gaojichang.png": {
+      "md5": "1b4d5fa6312c6002836bf24102b328a1"
+    }, 
+    "res/csbres/uiTextureJinBi/ssddz_award_jinbi.png": {
+      "md5": "9b861aa69cb08943edd8101e5f2b27d6"
+    }, 
+    "res/csbres/uiTextureJinBi/ssddz_gold_biaoqian.png": {
+      "md5": "85068657fa1f99c2bc155cd0e39c7d5a"
+    }, 
+    "res/csbres/uiTextureJinBi/zhongjichang.png": {
+      "md5": "bc903c0a53040a4fcc3e4a5ac0d751ed"
+    }, 
+    "res/csbres/uiTextureSetting/club_tk_bt.png": {
+      "md5": "30b4dbeef5efcf31d4f5857484203a8f"
+    }, 
+    "res/csbres/uiTextureSetting/club_tk_btn1.png": {
+      "md5": "e40bc8de1139c4b9c4df59b2823d3610"
+    }, 
+    "res/csbres/uiTextureSetting/club_tk_btn2.png": {
+      "md5": "4b43b509cc73e8a5f618fa920054a5db"
+    }, 
+    "res/csbres/uiTextureSetting/club_tk_dikuang.png": {
+      "md5": "42f49833635909fe4dbc59cc138fa3d0"
+    }, 
+    "res/csbres/uiTextureSetting/ui_wor_GPS.png": {
+      "md5": "16bb956043e118fcf41920e6c81f5fa5"
+    }, 
+    "res/csbres/uiTextureSetting/ui_wor_JZGPS.png": {
+      "md5": "f6bde293c700228923135096c58861da"
+    }, 
+    "res/csbres/uiTextureSetting/ui_wor_jiesanfangjian.png": {
+      "md5": "363b0f6c1000dc8a511a4c2389c70647"
+    }, 
+    "res/debugconfig.lua": {
+      "md5": "7e2041166cb8d3ae4eb5f57e6287399f"
+    }, 
+    "res/effects/eff_aixin.plist": {
+      "md5": "654d49f17d0971b11f55bdb8cced4009"
+    }, 
+    "res/effects/eff_aixin.png": {
+      "md5": "3a08e530df053f79748095b3951844c9"
+    }, 
+    "res/effects/eff_aixin.xml": {
+      "md5": "1c71c0c67e44e7416224510204958cb5"
+    }, 
+    "res/effects/eff_choujiang.plist": {
+      "md5": "73f2530b9614e8a239dfbecd37abc5e9"
+    }, 
+    "res/effects/eff_choujiang.png": {
+      "md5": "6bbd9494c2d332ea133a888037df47c7"
+    }, 
+    "res/effects/eff_choujiang.xml": {
+      "md5": "1ccba34dc7a490ea398606c88acc6cf3"
+    }, 
+    "res/effects/eff_guangquan.plist": {
+      "md5": "7d562087133a22548ac31cdf7028aa50"
+    }, 
+    "res/effects/eff_guangquan.png": {
+      "md5": "b5cf54bf2ce8cff5a1eb661a029a5bd8"
+    }, 
+    "res/effects/eff_guangquan.xml": {
+      "md5": "5d4ab77e7951c289a837e6325c246cf3"
+    }, 
+    "res/effects/eff_hudong1.plist": {
+      "md5": "98ac9ab74374a4c05422f02806e96038"
+    }, 
+    "res/effects/eff_hudong1.png": {
+      "md5": "3a08e530df053f79748095b3951844c9"
+    }, 
+    "res/effects/eff_hudong1.xml": {
+      "md5": "3ce808b16395eedd13b27cb432068fcd"
+    }, 
+    "res/effects/eff_hudong2.plist": {
+      "md5": "e646109692c1d5614f7354f638db88da"
+    }, 
+    "res/effects/eff_hudong2.png": {
+      "md5": "88ea5729c5cdec774ac7e3b6e65d9ad6"
+    }, 
+    "res/effects/eff_hudong2.xml": {
+      "md5": "f8045590ad71f95db323eae626318554"
+    }, 
+    "res/effects/eff_hudong3.plist": {
+      "md5": "5effc23ee651666eae8d4f515a55d18c"
+    }, 
+    "res/effects/eff_hudong3.png": {
+      "md5": "d7c2fd6499f49a7e304eb42f01ee731a"
+    }, 
+    "res/effects/eff_hudong3.xml": {
+      "md5": "b002402ba644a5a95ea8c4a5940f42e3"
+    }, 
+    "res/effects/eff_hudong4.plist": {
+      "md5": "683b15d54f3ea99fcbe57b1ab461a66d"
+    }, 
+    "res/effects/eff_hudong4.png": {
+      "md5": "666bc593532b8ca7434d0004fa1d6eb2"
+    }, 
+    "res/effects/eff_hudong4.xml": {
+      "md5": "03e6ac9bbead3dc4099914147d22459b"
+    }, 
+    "res/effects/eff_hudong5.plist": {
+      "md5": "785a0c1b4133b3942145955590e38331"
+    }, 
+    "res/effects/eff_hudong5.png": {
+      "md5": "cc9c3145f6d7aa25ed014ab0729d0b69"
+    }, 
+    "res/effects/eff_hudong5.xml": {
+      "md5": "0d1211542ac2ff54c85f1bf367759398"
+    }, 
+    "res/effects/eff_hudong6.plist": {
+      "md5": "f9a9f2f29cbf372eeaa9300a3fe7a9eb"
+    }, 
+    "res/effects/eff_hudong6.png": {
+      "md5": "ef41002ba198e5d98b65aa1aba2258fd"
+    }, 
+    "res/effects/eff_hudong6.xml": {
+      "md5": "ac1affd357eabe2604f3949a4dd98b01"
+    }, 
+    "res/effects/eff_jiazaitouzi.plist": {
+      "md5": "7ea9e5a73b432532b5df59938936f572"
+    }, 
+    "res/effects/eff_jiazaitouzi.png": {
+      "md5": "d0f71c33ad06bf47e1eb791e217fc604"
+    }, 
+    "res/effects/eff_jiazaitouzi.xml": {
+      "md5": "fbc63d213b1616dc0bb6165efeba1ba4"
+    }, 
+    "res/effects/eff_jidan.plist": {
+      "md5": "b049d4344358237d5c56cb1c706786c1"
+    }, 
+    "res/effects/eff_jidan.png": {
+      "md5": "88ea5729c5cdec774ac7e3b6e65d9ad6"
+    }, 
+    "res/effects/eff_jidan.xml": {
+      "md5": "47fd93f06ecf4e350286432e2ea9e7bd"
+    }, 
+    "res/effects/eff_languo.plist": {
+      "md5": "3e32a9a93646099f234e6483810768f3"
+    }, 
+    "res/effects/eff_languo.png": {
+      "md5": "ac319afeccfb7bfc92ad08e8d4eaa8f1"
+    }, 
+    "res/effects/eff_languo.xml": {
+      "md5": "54ef10316a9a6b7cd41e64e82c729eb5"
+    }, 
+    "res/effects/eff_mobao.plist": {
+      "md5": "9d8a755c9b3a4792edfeaa6e425166e2"
+    }, 
+    "res/effects/eff_mobao.png": {
+      "md5": "42d16fe9fb4745618eb4f4011b4aa2de"
+    }, 
+    "res/effects/eff_mobao.xml": {
+      "md5": "46dcbd7655ae7b015d5134fb3a14966f"
+    }, 
+    "res/effects/eff_tuoxie.plist": {
+      "md5": "ddfc559a5c7126ef1b79f79e64d6e8f6"
+    }, 
+    "res/effects/eff_tuoxie.png": {
+      "md5": "d7c2fd6499f49a7e304eb42f01ee731a"
+    }, 
+    "res/effects/eff_tuoxie.xml": {
+      "md5": "28a4140e612bffab9d0bc136564801b0"
+    }, 
+    "res/effects/eff_xianhua.plist": {
+      "md5": "45b72d8e654c7931e5c37009231c2412"
+    }, 
+    "res/effects/eff_xianhua.png": {
+      "md5": "666bc593532b8ca7434d0004fa1d6eb2"
+    }, 
+    "res/effects/eff_xianhua.xml": {
+      "md5": "ee71e14c843a7b2f4400878179a8a695"
+    }, 
+    "res/effects/eff_zhadan.plist": {
+      "md5": "0863100a25ecbd330b38941af916bc17"
+    }, 
+    "res/effects/eff_zhadan.png": {
+      "md5": "cc9c3145f6d7aa25ed014ab0729d0b69"
+    }, 
+    "res/effects/eff_zhadan.xml": {
+      "md5": "a45077831841f20ab539f25c358e5ec8"
+    }, 
+    "res/effects/eff_zuichun.plist": {
+      "md5": "1c869cbf634ee58ad912d0e1ae29bc17"
+    }, 
+    "res/effects/eff_zuichun.png": {
+      "md5": "ef41002ba198e5d98b65aa1aba2258fd"
+    }, 
+    "res/effects/eff_zuichun.xml": {
+      "md5": "113044364f30d077f9409ba7ab87c0b1"
+    }, 
+    "res/effects/lizi_star.plist": {
+      "md5": "98fed8cface5b88a87a88859ec9b9ee8"
+    }, 
+    "res/effects/lizi_star.png": {
+      "md5": "235e6aee4b3944fc4a4b7b801a7e05d1"
+    }, 
+    "res/icon.jpg": {
+      "md5": "02ce05a66d4af221a6e8314095aa0b54"
+    }, 
+    "res/icon.png": {
+      "md5": "d3b70aa4e9320e3c4611f33ae1a3c3f2"
+    }, 
+    "res/img_activity_invite.jpg": {
+      "md5": "57ee7f88713940a92939a5e918007bda"
+    }, 
+    "res/img_activity_share.jpg": {
+      "md5": "57ee7f88713940a92939a5e918007bda"
+    }, 
+    "res/moduledefault/bbnn/project.manifest": {
+      "md5": "c717b8ed0369ebf04300ea1471cdff9a"
+    }, 
+    "res/moduledefault/bbnn/version.manifest": {
+      "md5": "1e54d970cb09e54695c213c72a948276"
+    }, 
+    "res/moduledefault/brnn/project.manifest": {
+      "md5": "3b134040ad2a6e06c19aa76afdb1306d"
+    }, 
+    "res/moduledefault/brnn/version.manifest": {
+      "md5": "1098e48c2c9e0b14a907ad6841f69c6f"
+    }, 
+    "res/moduledefault/ddz/project.manifest": {
+      "md5": "449b3f460d0aab1fc5d9720c4f7c5d52"
+    }, 
+    "res/moduledefault/ddz/version.manifest": {
+      "md5": "aeabf46655e621ab2be1bab53d0731c5"
+    }, 
+    "res/moduledefault/hh/project.manifest": {
+      "md5": "8c2943ee8dc67b3113349adee44a039a"
+    }, 
+    "res/moduledefault/hh/version.manifest": {
+      "md5": "d04891bce60033be799d3dbf781ad56c"
+    }, 
+    "res/moduledefault/slot/project.manifest": {
+      "md5": "3691967982cc180306f467582e794583"
+    }, 
+    "res/moduledefault/slot/version.manifest": {
+      "md5": "67c2426952d1db37968c5732c03c1449"
+    }, 
+    "res/moduledefault/slotflm/project.manifest": {
+      "md5": "d9a4c56cd1bfd0d2dc223fec7a7feb33"
+    }, 
+    "res/moduledefault/slotflm/version.manifest": {
+      "md5": "c8d1658f22c591e3a5e0b17870e216ba"
+    }, 
+    "res/moduledefault/slotsh/project.manifest": {
+      "md5": "c1aa86a9e90736ea4570e4ad25347f40"
+    }, 
+    "res/moduledefault/slotsh/version.manifest": {
+      "md5": "968887963195345daedbdea381902a61"
+    }, 
+    "res/moduledefault/zjh/project.manifest": {
+      "md5": "6a9629180b087d8bb71338322ebc661b"
+    }, 
+    "res/moduledefault/zjh/version.manifest": {
+      "md5": "0eb2f9b779427da4d68b22c6dc6fe3fd"
+    }, 
+    "res/pb/clientmsg.pb": {
+      "md5": "bd1401120119408b23a2bde57623ed82"
+    }, 
+    "res/sound/dating/Choose_Level.mp3": {
+      "md5": "70cbd18b6419ad641b216a8862a80bd8"
+    }, 
+    "res/sound/dating/Dating_Back_Botton.mp3": {
+      "md5": "21dfd68dcc87138b053782d685de1911"
+    }, 
+    "res/sound/dating/Dating_Button.mp3": {
+      "md5": "52b259bcf5ee4d38c7c3c1c2ae33ec5e"
+    }, 
+    "res/sound/dating/Dating_bg.mp3": {
+      "md5": "a3af46e267b36c8aca2f4c24db7ab1f6"
+    }, 
+    "res/sound/dating/Disabled_Button.mp3": {
+      "md5": "2f5fa9ea58a0150197704d4041540586"
+    }, 
+    "res/sound/dating/Window_Close.mp3": {
+      "md5": "e8e392eb1daab547cf4dd2af9371dee7"
+    }, 
+    "res/sound/dating/Window_Open.mp3": {
+      "md5": "6acba975b89457b5a050eafd519c75e2"
+    }, 
+    "res/sound/effect/Special_tanchuang.mp3": {
+      "md5": "f8394c0ccb3d6434a5019abc65800279"
+    }, 
+    "res/sound/effect/ddz_effect_chupai.mp3": {
+      "md5": "9a9eb287a1432303d8f08399a55cb4b0"
+    }, 
+    "res/sound/effect/ddz_effect_dianpai.mp3": {
+      "md5": "7fa43aea0198a32139eeb6c7a4de30d5"
+    }, 
+    "res/sound/effect/ddz_effect_fapai.mp3": {
+      "md5": "6108de35fca329fcb41aff88fa15684f"
+    }, 
+    "res/sound/effect/ddz_effect_feiji.mp3": {
+      "md5": "8896c6333f0669b4ac1762bfaa217fca"
+    }, 
+    "res/sound/effect/ddz_effect_settle_jinbao.mp3": {
+      "md5": "84d4ff75ddd487d168641aafd4520d9e"
+    }, 
+    "res/sound/effect/ddz_effect_settle_jinbi.mp3": {
+      "md5": "182838266b47ed01fe4ba707f89f875a"
+    }, 
+    "res/sound/effect/ddz_effect_settle_loss.mp3": {
+      "md5": "39a7d7d7d3146d1f5df826c5e2f0923e"
+    }, 
+    "res/sound/effect/ddz_effect_tuolaji.mp3": {
+      "md5": "78bdfe52706c80d16ae90882ba077d37"
+    }, 
+    "res/sound/effect/ddz_effect_xipai.mp3": {
+      "md5": "6108de35fca329fcb41aff88fa15684f"
+    }, 
+    "res/sound/effect/ddz_effect_zhadan.mp3": {
+      "md5": "abec961a00575740f6cb54a2fc24e00a"
+    }, 
+    "res/sound/effect/eff_fapai.mp3": {
+      "md5": "df627355e0d92b9af2d500446e09d7ac"
+    }, 
+    "res/sound/effect/eff_laizizhuanpai.mp3": {
+      "md5": "ff4db850b3eed87577e9223bdda0d529"
+    }, 
+    "res/sound/effect/female/Audio_Card_Bomb_W.mp3": {
+      "md5": "8b14052956fa1d718ccdf26c07b7b049"
+    }, 
+    "res/sound/effect/female/Audio_Card_DoubleLine_W.mp3": {
+      "md5": "dd4643a267057fa1b84ff4658c034116"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_10_W.mp3": {
+      "md5": "ffa8275baea405f9ecd9ee86bf4594a9"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_2_W.mp3": {
+      "md5": "8d97ae1c12ee69f6235b607b4bc201dc"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_3_W.mp3": {
+      "md5": "2152d3e690b7a344babbc23853540385"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_4_W.mp3": {
+      "md5": "0b3b85e7fbff6c71224e9933c72d34a7"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_5_W.mp3": {
+      "md5": "407ea2785f03135d58a73d87a91c8b01"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_6_W.mp3": {
+      "md5": "5ae6ddcb6d7dea44938e3e9bc94c50d6"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_7_W.mp3": {
+      "md5": "293a85e61f05dc7bad97b3ed18e6e526"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_8_W.mp3": {
+      "md5": "ac9bf15ae4c694c06d98bc2c651b4ee6"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_9_W.mp3": {
+      "md5": "78efcea7574a609ca2468ce80a4cfbde"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_A_W.mp3": {
+      "md5": "6987ff6fbce7b7e11731a43cbb41cf10"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_J_W.mp3": {
+      "md5": "c83c0129731f24159d38b064c2c65247"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_K_W.mp3": {
+      "md5": "ace8360a6bc2d37512a8c2c86ac260ed"
+    }, 
+    "res/sound/effect/female/Audio_Card_Double_Q_W.mp3": {
+      "md5": "a7beca372c4b0089d0467956eb7f2349"
+    }, 
+    "res/sound/effect/female/Audio_Card_Four_Take_2Double_W.mp3": {
+      "md5": "ff406dfbd118ce5772c15f32180e2b2f"
+    }, 
+    "res/sound/effect/female/Audio_Card_Four_Take_2_W.mp3": {
+      "md5": "70b4e29ac298e1212567221e86483e3f"
+    }, 
+    "res/sound/effect/female/Audio_Card_Last_1_W.mp3": {
+      "md5": "1219ac0083fe5773451a46c680ec3827"
+    }, 
+    "res/sound/effect/female/Audio_Card_Last_2_W.mp3": {
+      "md5": "210e05629ce5c74b6609d26b3811acc8"
+    }, 
+    "res/sound/effect/female/Audio_Card_Mingpai_W.mp3": {
+      "md5": "dfd038f6a0a6e6e1f6a513962705b44f"
+    }, 
+    "res/sound/effect/female/Audio_Card_Plane_W.mp3": {
+      "md5": "bd23503895523f1ff53bbcad6c4d2ef5"
+    }, 
+    "res/sound/effect/female/Audio_Card_Rocket_W.mp3": {
+      "md5": "78a80b8baea9d4384f2495336008cc9b"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_10_W.mp3": {
+      "md5": "0b64f45ce75a9477af174c90003500ff"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_2_W.mp3": {
+      "md5": "504b16d706a69cfbe3d6264a98701be8"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_3_W.mp3": {
+      "md5": "8faf2cf48080d406fdd24e0cf25b7f6b"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_4_W.mp3": {
+      "md5": "ad2eba3e678e1ed3535af9ba3ea06c20"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_5_W.mp3": {
+      "md5": "5067c224b5ff7947827e08c26c34e43c"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_6_W.mp3": {
+      "md5": "c263a3fbe0f5fdf2e4bf05f2317b3851"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_7_W.mp3": {
+      "md5": "0f310db3924ae4f4128f284cd6429fc3"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_8_W.mp3": {
+      "md5": "3ad9d0e4ce5d4304218eb5b2571d8d92"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_9_W.mp3": {
+      "md5": "9d8b0f314f44793800f618057fc7d460"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_A_W.mp3": {
+      "md5": "3cdd92bc66d15c6711622073ee199ba6"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_J_W.mp3": {
+      "md5": "c70ffd40562add5da8877afaae838f13"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_Joker1_W.mp3": {
+      "md5": "51bbfaded7a5af1a49c60d6edbeecd81"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_Joker2_W.mp3": {
+      "md5": "0e1f77634d443eb3783a1c6146dada7a"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_K_W.mp3": {
+      "md5": "c3f5a9083a41b9b44538d5fb8b0a8327"
+    }, 
+    "res/sound/effect/female/Audio_Card_Single_Q_W.mp3": {
+      "md5": "f3aceea16ecb689b7aea2e848c074393"
+    }, 
+    "res/sound/effect/female/Audio_Card_Straight_W.mp3": {
+      "md5": "9c79a1c7e3b4f37c764f27be65ce1af3"
+    }, 
+    "res/sound/effect/female/Audio_Card_Super_W.mp3": {
+      "md5": "b7c2dd35e4e6458651f1c02c91d2397e"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_10_W.mp3": {
+      "md5": "abaadab9dd5c2679a33bdb1c2ada0e2b"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_2_W.mp3": {
+      "md5": "7fc2ebee997489479b9c429b092b9dec"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_3_W.mp3": {
+      "md5": "7fc6edace38d1e5c591c060b56acc362"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_4_W.mp3": {
+      "md5": "63e395e4bd733aec0d24fbb12d6fe8ff"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_5_W.mp3": {
+      "md5": "5041e091ab417ef8a59427079807b8ca"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_6_W.mp3": {
+      "md5": "15d3f57d7ad591259131b2e25e96d2e3"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_7_W.mp3": {
+      "md5": "6975c2d7665ffd2e04bf115ae7db53dd"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_8_W.mp3": {
+      "md5": "2c93f7e17af1a21e3516442e95748215"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_9_W.mp3": {
+      "md5": "64cc9e4b7f5f6790c00a808037d29ae2"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_A_W.mp3": {
+      "md5": "b4d30cf24ef95b4e766d1e9f266de0a3"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_J_W.mp3": {
+      "md5": "e62517d889b9bf0a7d1c477bfaa28632"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_K_W.mp3": {
+      "md5": "15a10e5bf85845a64031cb00f3e6e6df"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_Q_W.mp3": {
+      "md5": "f4ee1dd7b60db5f8e50ff1b20628f1ab"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_Take_Double_W.mp3": {
+      "md5": "26227cff22d4a1cb049cc35ec56d845c"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_Take_One_W.mp3": {
+      "md5": "dbc9f27f8cceecd21c971f2a463cb624"
+    }, 
+    "res/sound/effect/female/Audio_Card_Three_W.mp3": {
+      "md5": "f92c7aa60c280246f066ca634f753553"
+    }, 
+    "res/sound/effect/female/Audio_Guided_Missible_W.mp3": {
+      "md5": "80b91b914727db79956374c6ad27896b"
+    }, 
+    "res/sound/effect/female/Audio_Pass1_W.mp3": {
+      "md5": "b7b6f2ae69ec9d7d2c16e549914605a6"
+    }, 
+    "res/sound/effect/female/Audio_Pass2_W.mp3": {
+      "md5": "f58ec29bdc0d6666f7d24794fa975199"
+    }, 
+    "res/sound/effect/female/Audio_Pass3_W.mp3": {
+      "md5": "fbf560beffce5331b530f45ce9b00962"
+    }, 
+    "res/sound/effect/female/Audio_Pass4_W.mp3": {
+      "md5": "ae33d1900d83ad42bf4b1331a6a21ba3"
+    }, 
+    "res/sound/effect/female/Audio_Sky_Bomb_W.mp3": {
+      "md5": "e7361a533c6ff560fef60cef91f016f9"
+    }, 
+    "res/sound/effect/female/Audio_Sky_Honur_W.mp3": {
+      "md5": "646605c2d1bfbfff20c9b2893c089f29"
+    }, 
+    "res/sound/effect/female/Audio_Spring_W.mp3": {
+      "md5": "b8c78a4e65d30da1c128e623d205d239"
+    }, 
+    "res/sound/effect/female/Audio_Yasi1_W.mp3": {
+      "md5": "8602afe7fe41b1d9f7b38e32053ee2cf"
+    }, 
+    "res/sound/effect/female/Audio_Yasi2_W.mp3": {
+      "md5": "2162c759818fb161fb08b43071a22f94"
+    }, 
+    "res/sound/effect/female/Audio_Yasi3_W.mp3": {
+      "md5": "08d3fe23f4f8f9117590b75af6004a65"
+    }, 
+    "res/sound/effect/female/CALL_DOUBLE_W.mp3": {
+      "md5": "c37e3dcb3015102e0598c7cf586aa706"
+    }, 
+    "res/sound/effect/female/CALL_NO_DOUBLE_W.mp3": {
+      "md5": "6811487553176993b2ff4c4366a138ca"
+    }, 
+    "res/sound/effect/female/CallLandlord_BJDZ1_W.mp3": {
+      "md5": "1a2dba01e88c4c1ecc6bd69c5f1491dd"
+    }, 
+    "res/sound/effect/female/CallLandlord_BJDZ2_W.mp3": {
+      "md5": "fdd635202be64a4c74deefed77f43fab"
+    }, 
+    "res/sound/effect/female/CallLandlord_BJDZ_W.mp3": {
+      "md5": "b3d62e3d22d0df71bc9b490dd53791d6"
+    }, 
+    "res/sound/effect/female/CallLandlord_BQDZ_W.mp3": {
+      "md5": "41a559c4a649124e45e344c2832b922e"
+    }, 
+    "res/sound/effect/female/CallLandlord_JDZ_W.mp3": {
+      "md5": "95cf9a8cfd05266b11fab9d35ffb7ab8"
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ1_W.mp3": {
+      "md5": "534982c56734adce40d379a69466fd8c"
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ2_W.mp3": {
+      "md5": "eec0e35681fc989d85871b3dd387f6b9"
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ3_W.mp3": {
+      "md5": "ce6cad4f7bcc84ad77515e6c8c89d53e"
+    }, 
+    "res/sound/effect/female/CallLandlord_QDZ_W.mp3": {
+      "md5": "3f727f4270ab42c93bf3d0c018a561a0"
+    }, 
+    "res/sound/effect/female/CallLandlord_Score1_W.mp3": {
+      "md5": "1e273cc349580ffccf8f2f8a9b8c9fa8"
+    }, 
+    "res/sound/effect/female/CallLandlord_Score2_W.mp3": {
+      "md5": "446118964a9ad783e3e012dfbb9ee37d"
+    }, 
+    "res/sound/effect/female/CallLandlord_Score3_W.mp3": {
+      "md5": "87379efb340564fe05bb502c64090b04"
+    }, 
+    "res/sound/effect/male/Audio_Card_Bomb_M.mp3": {
+      "md5": "c3b9d481ec4499319304fc2c002695ad"
+    }, 
+    "res/sound/effect/male/Audio_Card_DoubleLine_M.mp3": {
+      "md5": "aaae48cf5f238aa1df5b9f96a04bf490"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_10_M.mp3": {
+      "md5": "125b3aadc6bdcc278f25552abc287415"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_2_M.mp3": {
+      "md5": "89a8de5bba703536c758d3baa6c23e9d"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_3_M.mp3": {
+      "md5": "3ac17cc8b790dd429d7f7f591b47c7f7"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_4_M.mp3": {
+      "md5": "b75b91d164008f75cf5227bac3bcf06c"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_5_M.mp3": {
+      "md5": "04638639a8de86f7c24611021faa5d02"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_6_M.mp3": {
+      "md5": "65e73ccbd597fb71dedbc42f23385d17"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_7_M.mp3": {
+      "md5": "0eae8d63d77adf6ad49a67e431273990"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_8_M.mp3": {
+      "md5": "023cd60150105175213e7657a45d1112"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_9_M.mp3": {
+      "md5": "54933af96764cc4561d21839376e0c7c"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_A_M.mp3": {
+      "md5": "867f24efd02e78b155f4901358174d96"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_J_M.mp3": {
+      "md5": "14827c948211947c43ae6cded68229af"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_K_M.mp3": {
+      "md5": "2ca9668e9f59b59d72950ea686675d6b"
+    }, 
+    "res/sound/effect/male/Audio_Card_Double_Q_M.mp3": {
+      "md5": "20735e8aae8dce10951cad470a4cb7e1"
+    }, 
+    "res/sound/effect/male/Audio_Card_Four_Take_2Double_M.mp3": {
+      "md5": "91b60b3a33879f4d489aac1c89b21e19"
+    }, 
+    "res/sound/effect/male/Audio_Card_Four_Take_2_M.mp3": {
+      "md5": "c64049d46e631a6333969a0ac8365e34"
+    }, 
+    "res/sound/effect/male/Audio_Card_Last_1_M.mp3": {
+      "md5": "b2369a43f5be83de86ad5ad02b2faeef"
+    }, 
+    "res/sound/effect/male/Audio_Card_Last_2_M.mp3": {
+      "md5": "f43cbcb2de308fa5ff11fa224c197cac"
+    }, 
+    "res/sound/effect/male/Audio_Card_Mingpai_M.mp3": {
+      "md5": "85aa1d0907f69cd27ef3cffb36215570"
+    }, 
+    "res/sound/effect/male/Audio_Card_Plane_M.mp3": {
+      "md5": "bebbe1131521ec5a5e89e6a81f4bb7cc"
+    }, 
+    "res/sound/effect/male/Audio_Card_Rocket_M.mp3": {
+      "md5": "87ea71c57195406b41630b6df3bcc577"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_10_M.mp3": {
+      "md5": "dd9c8adfaf662119b9d46da88f492611"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_2_M.mp3": {
+      "md5": "ff05e28e892ab06b09e55959a055c309"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_3_M.mp3": {
+      "md5": "d0d5997fe349557412c5ce9ef62b3e32"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_4_M.mp3": {
+      "md5": "43e1e098f6f41542ff8e3d1548d15c69"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_5_M.mp3": {
+      "md5": "c0701031987de9f138c2750f107fc67a"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_6_M.mp3": {
+      "md5": "030068170df34076743410275eb2ee2b"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_7_M.mp3": {
+      "md5": "84149a6153e26cd7759cdac743826365"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_8_M.mp3": {
+      "md5": "5d983d91c267a70235ae13f3b7204441"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_9_M.mp3": {
+      "md5": "f26e37c792aca494cd3e3dcc6b48cc4d"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_A_M.mp3": {
+      "md5": "04f688f0f671662c4453432599d1cdcd"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_J_M.mp3": {
+      "md5": "d133a71611be3ec1d1c9c462d5789af8"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_Joker1_M.mp3": {
+      "md5": "21876fa38cfee2f5ae2f4575fed4ed76"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_Joker2_M.mp3": {
+      "md5": "a081c65b709693f1b131cbe03dcafc64"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_K_M.mp3": {
+      "md5": "15410d92da8a6e03d5a594660143e993"
+    }, 
+    "res/sound/effect/male/Audio_Card_Single_Q_M.mp3": {
+      "md5": "7b2602afaa831f56f6e4fd54d0185c97"
+    }, 
+    "res/sound/effect/male/Audio_Card_Straight_M.mp3": {
+      "md5": "dc9f3328a156651388c61330441942e9"
+    }, 
+    "res/sound/effect/male/Audio_Card_Super_M.mp3": {
+      "md5": "c25b3d76a9d2f5c40b3a36a24fd47d96"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_10_M.mp3": {
+      "md5": "83f43770db97b851d03293965856a51b"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_2_M.mp3": {
+      "md5": "3ae3ed69c2ef5714a9caa18e3c25f781"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_3_M.mp3": {
+      "md5": "028210ae2f609518cae7c0a1b43efb65"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_4_M.mp3": {
+      "md5": "aacb3be92b4c6e519771c6e0ae292d36"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_5_M.mp3": {
+      "md5": "6cdaa360366fd5fdd9ece2b07f2ccff0"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_6_M.mp3": {
+      "md5": "cf9ed8ede404728a98476e164da723c2"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_7_M.mp3": {
+      "md5": "bdb3cb72a3ff78d468f1be224fc71079"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_8_M.mp3": {
+      "md5": "1caa665915f512b9b244ccb59fd00187"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_9_M.mp3": {
+      "md5": "d219a3fe982de3f76dbfd12d85a6cbe3"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_A_M.mp3": {
+      "md5": "250014f2a42e10efbc79afd0a54ed794"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_J_M.mp3": {
+      "md5": "3add4828c118b2d89b1e2edf92f5f7dd"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_K_M.mp3": {
+      "md5": "85a3c26355a6f34cdf9d9970ec0d3902"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_M.mp3": {
+      "md5": "42107e0ff9848ec66db3124d0e857d3a"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_Q_M.mp3": {
+      "md5": "a009b4c2c8e40323f92c28c57a7c1d32"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_Take_Double_M.mp3": {
+      "md5": "5e5843c716a7de9e3cc017363f97e493"
+    }, 
+    "res/sound/effect/male/Audio_Card_Three_Take_One_M.mp3": {
+      "md5": "ee1bc18a7438578ab0cd14bc277faa2c"
+    }, 
+    "res/sound/effect/male/Audio_Guided_Missible_M.mp3": {
+      "md5": "a163ac4b9d3f66c95d5e782fe694fcb8"
+    }, 
+    "res/sound/effect/male/Audio_Pass1_M.mp3": {
+      "md5": "29cc2eabdcae1bbf2aa4cd348ece9927"
+    }, 
+    "res/sound/effect/male/Audio_Pass2_M.mp3": {
+      "md5": "c986eb2bc66440238bd31a770ccf5b3c"
+    }, 
+    "res/sound/effect/male/Audio_Pass3_M.mp3": {
+      "md5": "dfa39d89e1aa00182d1faa1fc42f4556"
+    }, 
+    "res/sound/effect/male/Audio_Pass4_M.mp3": {
+      "md5": "abdfc6e228f0fa5890a3758c5b7c21fb"
+    }, 
+    "res/sound/effect/male/Audio_Sky_Bomb_M.mp3": {
+      "md5": "3bd8a502438585858a8ab98d1e8044a6"
+    }, 
+    "res/sound/effect/male/Audio_Sky_Honur_M.mp3": {
+      "md5": "b94e6ff170b359ccb55dff87015c7921"
+    }, 
+    "res/sound/effect/male/Audio_Spring_M.mp3": {
+      "md5": "c4e89e6a8cde01ed69583b742886396c"
+    }, 
+    "res/sound/effect/male/Audio_Yasi1_M.mp3": {
+      "md5": "116a4b19a96edea2a10dbd87fa23e44c"
+    }, 
+    "res/sound/effect/male/Audio_Yasi2_M.mp3": {
+      "md5": "a5f1ed160e5412a9859a211540fb08ed"
+    }, 
+    "res/sound/effect/male/Audio_Yasi3_M.mp3": {
+      "md5": "45109404b1a0cfaf67c66f7e8a5983e8"
+    }, 
+    "res/sound/effect/male/CALL_DOUBLE_M.mp3": {
+      "md5": "8a3eed416fa643fb15080a9d171b2128"
+    }, 
+    "res/sound/effect/male/CALL_NO_DOUBLE_M.mp3": {
+      "md5": "0d7337883f69493f70db069c555089f7"
+    }, 
+    "res/sound/effect/male/CallLandlord_BJDZ1_M.mp3": {
+      "md5": "a053c8d50fba82cc6aab0f7344bfdef1"
+    }, 
+    "res/sound/effect/male/CallLandlord_BJDZ2_M.mp3": {
+      "md5": "1ae8defbf1fb8654374a9473e14696c1"
+    }, 
+    "res/sound/effect/male/CallLandlord_BJDZ_M.mp3": {
+      "md5": "4ac6175c55e5dbcc10ac962a49226276"
+    }, 
+    "res/sound/effect/male/CallLandlord_BQDZ_M.mp3": {
+      "md5": "68d7768263eeecda77037797c297c0b7"
+    }, 
+    "res/sound/effect/male/CallLandlord_JDZ_M.mp3": {
+      "md5": "4eba79a4197384486120f590b8c2e87e"
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ1_M.mp3": {
+      "md5": "d14dff647cd7b2f8d37ad7dfab91d8f6"
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ2_M.mp3": {
+      "md5": "b5c2d8c87570af4386c368d74fae8fb3"
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ3_M.mp3": {
+      "md5": "9e0d76feeaf7fff58757e4f797b6488b"
+    }, 
+    "res/sound/effect/male/CallLandlord_QDZ_M.mp3": {
+      "md5": "a451b958cc32663d55c7b4d7ea1183f6"
+    }, 
+    "res/sound/effect/male/CallLandlord_Score1_M.mp3": {
+      "md5": "c6ef1995dd77571b9d560e6766ebd893"
+    }, 
+    "res/sound/effect/male/CallLandlord_Score2_M.mp3": {
+      "md5": "6b98565339fdae38c2418e03f45226ec"
+    }, 
+    "res/sound/effect/male/CallLandlord_Score3_M.mp3": {
+      "md5": "981bb6c1507f0f1538521bee24a2dec1"
+    }, 
+    "res/sound/effect/quickText/duanju_1.mp3": {
+      "md5": "22d998f394702f957c4790da8c622857"
+    }, 
+    "res/sound/effect/quickText/duanju_10.mp3": {
+      "md5": "98a3b7ea3d714fe93d32ef2a3ae8704f"
+    }, 
+    "res/sound/effect/quickText/duanju_11.mp3": {
+      "md5": "05a6a28804ff7a14b92609897b481616"
+    }, 
+    "res/sound/effect/quickText/duanju_12.mp3": {
+      "md5": "aa3fabe1c9d4f0b3e2d67c884ba56871"
+    }, 
+    "res/sound/effect/quickText/duanju_13.mp3": {
+      "md5": "ecd3452997f0eba04ae1584624b34974"
+    }, 
+    "res/sound/effect/quickText/duanju_14.mp3": {
+      "md5": "086d52364dd0cc03c1a4aad5ea60fc31"
+    }, 
+    "res/sound/effect/quickText/duanju_2.mp3": {
+      "md5": "0da584daa78df504e555bc3103cec3b5"
+    }, 
+    "res/sound/effect/quickText/duanju_3.mp3": {
+      "md5": "fa40c21c5434bc792a09def4f0efb6a3"
+    }, 
+    "res/sound/effect/quickText/duanju_4.mp3": {
+      "md5": "719fad8753a13f95abdad85b31fad504"
+    }, 
+    "res/sound/effect/quickText/duanju_5.mp3": {
+      "md5": "766e11a5792a608923b249856e831a53"
+    }, 
+    "res/sound/effect/quickText/duanju_6.mp3": {
+      "md5": "11813688205f3592ec736968a6e62310"
+    }, 
+    "res/sound/effect/quickText/duanju_7.mp3": {
+      "md5": "a59a27a233d3d5bd58c6c44c11120f6f"
+    }, 
+    "res/sound/effect/quickText/duanju_8.mp3": {
+      "md5": "dc692850261a51e3536130655528b316"
+    }, 
+    "res/sound/effect/quickText/duanju_9.mp3": {
+      "md5": "30e8d004e81aecd5852a9717e6b4559a"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog0_W.mp3": {
+      "md5": "ded2a036612363fa915fc214a73d778a"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog10_W.mp3": {
+      "md5": "f6f30b9486a793a72b7b9f45c082ae30"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog1_W.mp3": {
+      "md5": "b1359782e60358626b23c27c667b8110"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog2_W.mp3": {
+      "md5": "10590f91731e45fab4350aabf8bdd586"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog3_W.mp3": {
+      "md5": "e190ca84c8747e8d6031967cf24ebea3"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog4_W.mp3": {
+      "md5": "6398f3e95e6d4257a9075332d528cde1"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog5_W.mp3": {
+      "md5": "6b2f2bff4d2ba2642d88b3eb0ee34035"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog6_W.mp3": {
+      "md5": "5dcb068ecb200bf2e67768e56b1b0b61"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog7_W.mp3": {
+      "md5": "eaa70ed2a11d6cd44f4882908b592576"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog8_W.mp3": {
+      "md5": "6c8de1cbd65a85b5f796fcae9db8a61e"
+    }, 
+    "res/sound/effect/quickText/female/Audio_Dialog9_W.mp3": {
+      "md5": "d69889fa8cd5f94ca1ae4eec18bd3259"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog0_M.mp3": {
+      "md5": "1c13d8f598369967cc22014eebaf13fc"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog10_M.mp3": {
+      "md5": "7def039af5f223c088cb2d37e3f66c65"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog1_M.mp3": {
+      "md5": "6a57bb90faf4ec1eb7be781212312c49"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog2_M.mp3": {
+      "md5": "33642227bbd39f4bd09cd7ec869e4a02"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog3_M.mp3": {
+      "md5": "be917c84ec46ce54600d3fbdb046b936"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog4_M.mp3": {
+      "md5": "3bcc701f4577f245ee349522ec8a6c13"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog5_M.mp3": {
+      "md5": "965f1f445e195232381b81396b1bd785"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog6_M.mp3": {
+      "md5": "d40adeea1bbf59e610890d88d4eee064"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog7_M.mp3": {
+      "md5": "828c97e7f4f42bd880c56ec9e516963e"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog8_M.mp3": {
+      "md5": "2aca2ce49dfd72ced3f3543bd3991319"
+    }, 
+    "res/sound/effect/quickText/male/Audio_Dialog9_M.mp3": {
+      "md5": "56e0ed2b227f66e8ed1010a74fed3ebd"
+    }, 
+    "res/sound/effect/widdz_effect_settle_win.mp3": {
+      "md5": "5a18a3885ef6a33185386bc339d8b00b"
+    }, 
+    "res/sound/music/almost_timeout.mp3": {
+      "md5": "f9a941340c432d5f5c9615500a2d1716"
+    }, 
+    "res/sound/music/bg_fight.mp3": {
+      "md5": "847798f468bc1b6a209e8284db44ffcc"
+    }, 
+    "res/sound/music/bg_fight2.mp3": {
+      "md5": "d36a766eb3f951aa0f7e00deb775b1d1"
+    }, 
+    "res/sound/music/bg_main_game.mp3": {
+      "md5": "bd8350dfa6fca2a5e6564747523a8057"
+    }, 
+    "res/sound/music/button_close.mp3": {
+      "md5": "78fbcc388c68d180c78e0160961e43bf"
+    }, 
+    "res/sound/music/button_open.mp3": {
+      "md5": "2abb2c0a48236f3376afd2be5c6bccdc"
+    }, 
+    "res/sound/music/click_tile.mp3": {
+      "md5": "6fd0d116ad9c37a37d3ca7a9396c3358"
+    }, 
+    "res/sound/music/kanbao.wav": {
+      "md5": "dff558f1848a5d25c27f5a530a5e86e6"
+    }, 
+    "res/sound/music/lost.mp3": {
+      "md5": "6efbdfd9d4444e9cd6bb34e740abdcea"
+    }, 
+    "res/sound/music/mo_card.mp3": {
+      "md5": "00bfe6a755770affb4a3cc710dccdf06"
+    }, 
+    "res/sound/music/out_card.mp3": {
+      "md5": "48b6370b880908c1c9f0102dc42e1f41"
+    }, 
+    "res/sound/music/win.mp3": {
+      "md5": "c57a143b5c458382e1b8fcb351159354"
+    }, 
+    "src/GameApp.lua": {
+      "md5": "1fc587a80c276a8416504cd3575c75a9"
+    }, 
+    "src/Hall/DDZRoomView.lua": {
+      "md5": "fc4f6a5ecc580ace3771ec0546a384da"
+    }, 
+    "src/Hall/EventNewsView.lua": {
+      "md5": "f6e1d69989b09356512eb47659ac8062"
+    }, 
+    "src/Hall/GameSettingView.lua": {
+      "md5": "843e3e53a07625cad1679e826f366015"
+    }, 
+    "src/Hall/HallAwardView.lua": {
+      "md5": "44f57b3e6f14a302b39453ce1381b74f"
+    }, 
+    "src/Hall/HallBanKPwdView.lua": {
+      "md5": "46a744d7adf610fa12bd936c150b7ed0"
+    }, 
+    "src/Hall/HallCreateRoomView.lua": {
+      "md5": "bf5d939651d22fe0e7901e2e654cd600"
+    }, 
+    "src/Hall/HallDataManage.lua": {
+      "md5": "dd68a5e5df66b985d31310f9ef2be228"
+    }, 
+    "src/Hall/HallEnum.lua": {
+      "md5": "3f3f457cf458cd971891d1d737707cb4"
+    }, 
+    "src/Hall/HallEventView.lua": {
+      "md5": "48e59f89804ff746843a1f8b5f6be8eb"
+    }, 
+    "src/Hall/HallFirstRechargeView.lua": {
+      "md5": "99bfaa2e4bbfdb2a65b0c415db7ef81e"
+    }, 
+    "src/Hall/HallFreeView.lua": {
+      "md5": "4f6e4ba7572576d277cfb286d3263951"
+    }, 
+    "src/Hall/HallGetView.lua": {
+      "md5": "7bf4424356a5a5b12b9942fea0d7527a"
+    }, 
+    "src/Hall/HallGiftView.lua": {
+      "md5": "78ac10e582933d82309ff39eddfd7a50"
+    }, 
+    "src/Hall/HallInformationView.lua": {
+      "md5": "1f8b25110f669c5cc7b6c91b41094301"
+    }, 
+    "src/Hall/HallJoinRoomView.lua": {
+      "md5": "d16b0fbce2726f8461519c45240b2822"
+    }, 
+    "src/Hall/HallMailDetailView.lua": {
+      "md5": "e5b718978a81a6d13f10eb506ae89c3c"
+    }, 
+    "src/Hall/HallMailView.lua": {
+      "md5": "536ed9b02ebc9a9abe131c545cd149d5"
+    }, 
+    "src/Hall/HallMainView.lua": {
+      "md5": "771a5064fbaa395470d20894eaa4ba85"
+    }, 
+    "src/Hall/HallMatchingView.lua": {
+      "md5": "28a507a8ad7d22da227e04028468cbc1"
+    }, 
+    "src/Hall/HallMsgSender.lua": {
+      "md5": "2b0286c89569ebc6d5577133f4c8b9b1"
+    }, 
+    "src/Hall/HallNetMsgListener.lua": {
+      "md5": "7b400984b5c9ccad017a6b2ba363fa4d"
+    }, 
+    "src/Hall/HallNoticeView.lua": {
+      "md5": "ff682a92d878ca2dbf1603b678e192c3"
+    }, 
+    "src/Hall/HallPiggyBankView.lua": {
+      "md5": "3e6421ed5a3ebeffcaceba562c9af210"
+    }, 
+    "src/Hall/HallPopView.lua": {
+      "md5": "063cc583c860ba490f5a216bac1b38bd"
+    }, 
+    "src/Hall/HallRankView.lua": {
+      "md5": "c1073c433857eaa2403c1ef574be7770"
+    }, 
+    "src/Hall/HallRoomInfoView.lua": {
+      "md5": "10547870128a1fa075199f94e0a97e5f"
+    }, 
+    "src/Hall/HallScene.lua": {
+      "md5": "39cbfcea4e3064409e6cc359b7e46f48"
+    }, 
+    "src/Hall/HallServiceView.lua": {
+      "md5": "635ddda584738753b58e8f670650b974"
+    }, 
+    "src/Hall/HallSettingView.lua": {
+      "md5": "97aca5d911bbc1de624e2102295467e9"
+    }, 
+    "src/Hall/HallShareView.lua": {
+      "md5": "6f783d689d7b98fdac4490f7dc6d5ae2"
+    }, 
+    "src/Hall/HallShopView.lua": {
+      "md5": "7cd445aa96dfd85c8061bf03d02b8e11"
+    }, 
+    "src/Hall/HallTaskView.lua": {
+      "md5": "1a130c05b93f60da075399d0afe64bdc"
+    }, 
+    "src/Hall/HallTurnView.lua": {
+      "md5": "e12a2fcb6c7cebda7a13b1b350ae2bb9"
+    }, 
+    "src/Hall/HallUserView.lua": {
+      "md5": "ab949e349d00d90006de023b73f6616f"
+    }, 
+    "src/Hall/RoomRuleBBNN.lua": {
+      "md5": "60797bbd562da95933c646f161c04188"
+    }, 
+    "src/Hall/init.lua": {
+      "md5": "20730c6fbed7ee1211fa861d061b3537"
+    }, 
+    "src/Login/LoginLayer.lua": {
+      "md5": "b4e2fb146bcd320e391e5a0932aa46ac"
+    }, 
+    "src/Login/LoginLoading.lua": {
+      "md5": "147e98f0c31b1a98dffafd0fae9d7148"
+    }, 
+    "src/Login/LoginScene.lua": {
+      "md5": "6d3d56333ab8080f56b379239fcac27a"
+    }, 
+    "src/Login/LoginTelLayer.lua": {
+      "md5": "9b2b2e4fef566286fda5df9b1ab71723"
+    }, 
+    "src/Login/RestartLayer.lua": {
+      "md5": "29792438ba2e0d39337e2793dc0c927c"
+    }, 
+    "src/Logo/HotUpdate.lua": {
+      "md5": "37394493831dc93204b7b06084affac8"
+    }, 
+    "src/Logo/Logo.lua": {
+      "md5": "babfd186db1839eb99271e2882b7524c"
+    }, 
+    "src/Logo/MainScene.lua": {
+      "md5": "0c4e52ddbb07b9a80e1f366b1d61ae5e"
+    }, 
+    "src/LuaExtend.lua": {
+      "md5": "a53350bbe4e9612530f2f9132a06dddd"
+    }, 
+    "src/app/BaseUI/BaseScene.lua": {
+      "md5": "8fbb93804938d06a0d3aa7bfaf3ed009"
+    }, 
+    "src/app/GameConfig.lua": {
+      "md5": "d7b1cddb968d23ea2616ee89ec95f2c3"
+    }, 
+    "src/app/Global/GameData.lua": {
+      "md5": "4749104f958c19164784994bea7c4938"
+    }, 
+    "src/app/Global/Global.lua": {
+      "md5": "ef0771b3e0a48e7af07998285dfb6260"
+    }, 
+    "src/app/Global/GlobalData.lua": {
+      "md5": "7c84f1ec47849bc058429f6888cd6287"
+    }, 
+    "src/app/Global/Helper.lua": {
+      "md5": "88088a14545a59717e9654246c441948"
+    }, 
+    "src/app/Global/HttpHelper.lua": {
+      "md5": "5c2c7cba5e7c56bda5e64667e25415db"
+    }, 
+    "src/app/Global/IDCard.lua": {
+      "md5": "2d2260b93cd191094ea7c75bbe6c0747"
+    }, 
+    "src/app/Global/MsgQueue.lua": {
+      "md5": "593165aebe7b6c6ee859661f61212078"
+    }, 
+    "src/app/Global/Queue.lua": {
+      "md5": "41eeb2ed731877a2c304131e4d36b199"
+    }, 
+    "src/app/Global/ResultRecordManager.lua": {
+      "md5": "879f8150b7c3e69dfebc92b4cc4070f9"
+    }, 
+    "src/app/Global/SceneManager.lua": {
+      "md5": "2f632545f4999208b49a84d1ead8cbc5"
+    }, 
+    "src/app/Global/StringConfig.lua": {
+      "md5": "7b2e16b09a3c06159715dacd25b4f254"
+    }, 
+    "src/app/Global/Utility.lua": {
+      "md5": "51541f0360e9a10370ed48a38c0baa63"
+    }, 
+    "src/app/Global/VoiceMgr.lua": {
+      "md5": "7650e7a78748ac2ea2b5552daacf094a"
+    }, 
+    "src/app/Global/XMLAnimateHelper.lua": {
+      "md5": "e749faeae63603c0b564043351906db2"
+    }, 
+    "src/app/Global/enum.lua": {
+      "md5": "682d182722ffb809e3b542b2ea8c66fd"
+    }, 
+    "src/app/GlobalNetMgr/GlobalMsgListener.lua": {
+      "md5": "ff6883d6b73404fc5e731979464866bd"
+    }, 
+    "src/app/GlobalNetMgr/MsgSender.lua": {
+      "md5": "5b34d13a5db64c0cef7768dbe424ad35"
+    }, 
+    "src/app/Platform/Platform.lua": {
+      "md5": "6fbf54d26e3ce4beb4b8b404dc6abfc0"
+    }, 
+    "src/app/Platform/PlatformCallBack.lua": {
+      "md5": "728e3506bdb3308d910a23c188256d34"
+    }, 
+    "src/app/Platform/Platform_Android.lua": {
+      "md5": "7e2bf6b255cf829b4801b231295e60c5"
+    }, 
+    "src/app/Platform/Platform_IOS.lua": {
+      "md5": "23af9161fd0890355641e3384ae73b21"
+    }, 
+    "src/app/Platform/Platform_Win32.lua": {
+      "md5": "74e089878a62e7272ce1cbda9dbf24d7"
+    }, 
+    "src/app/Protobuf/protobuf.lua": {
+      "md5": "ab07698e62933e66da12ba2724d1ad08"
+    }, 
+    "src/app/framebase/AudioManager.lua": {
+      "md5": "5d4be70666f336589db8e723835d7762"
+    }, 
+    "src/app/framebase/NetworkBridge.lua": {
+      "md5": "6283886a99d249887177b053c49a2ded"
+    }, 
+    "src/app/framebase/ToolMd5.lua": {
+      "md5": "555072a2d021da04632e6d692497344b"
+    }, 
+    "src/app/framebase/XmlParser.lua": {
+      "md5": "102ab9ab478734b5611411bcb15c042b"
+    }, 
+    "src/app/framebase/YHAnimatePackerLua.lua": {
+      "md5": "dc9746a1529429668dea83aab426204b"
+    }, 
+    "src/app/framebase/YHEventHandler.lua": {
+      "md5": "3e7db7d23d02d294e8b8e229e2409a64"
+    }, 
+    "src/app/framebase/i18nUtils.lua": {
+      "md5": "44e8ea65ebaff158950adced308b7b63"
+    }, 
+    "src/app/init.lua": {
+      "md5": "2ed81260383852ad933888633e24c2f0"
+    }, 
+    "src/app/string_zh.lua": {
+      "md5": "c51cd200f686458b355cd0151077335a"
+    }, 
+    "src/component/GamingHeartControl.lua": {
+      "md5": "b678d86f0aa19da795654b297ceb70a9"
+    }, 
+    "src/component/LoginNode.lua": {
+      "md5": "107e8932ec0afaf343c70aee69657aaa"
+    }, 
+    "src/component/MsgBox.lua": {
+      "md5": "5089eeb18c7422610a2b7faa2379ff2b"
+    }, 
+    "src/component/NetLoading.lua": {
+      "md5": "5dd084c61900929f36dccfdf34ad2333"
+    }, 
+    "src/component/QuickReconnectLayer.lua": {
+      "md5": "f17cff0010f396d5ed3677ceae815e72"
+    }, 
+    "src/component/UITools.lua": {
+      "md5": "d27e2c389f4580ee3e93b9228f1ba101"
+    }, 
+    "src/config.lua": {
+      "md5": "7bb045cf1648af5d0a7b7860a84780ef"
+    }, 
+    "src/main.lua": {
+      "md5": "05e0abb7842a6506aeca18a39af6b1b3"
+    }, 
+    "src/module/ModuleAction.lua": {
+      "md5": "91b04542e278065cf3a9490e8a7ec2f7"
+    }, 
+    "src/module/ModuleManager.lua": {
+      "md5": "bd4d315a48ce9182f6caed5eee60a873"
+    }, 
+    "src/module/ModuleUpdate.lua": {
+      "md5": "2c012284bd93393c6de43caea58b04eb"
+    }, 
+    "src/publicui/GameHelpLayer.lua": {
+      "md5": "b8ab4f9eb71270590263c885e6a3f6ac"
+    }
+  }, 
+  "packageUrl": "http://download.tianjigame.com/jlpk/debug_hotupdate", 
+  "remoteManifestUrl": "http://download.tianjigame.com/jlpk/debug_hotupdate/project.manifest", 
+  "remoteVersionUrl": "http://download.tianjigame.com/jlpk/debug_hotupdate/version.manifest", 
+  "searchPaths": [], 
+  "version": "1.0.1"
+}

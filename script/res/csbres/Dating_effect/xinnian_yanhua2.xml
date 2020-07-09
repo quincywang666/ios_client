@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>xinnian_yanhua2.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>xinnian_yanhua2</name>
+            <delay>0.1</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>yanhua3330000.png</spriteFrame>
+            <spriteFrame>yanhua3330001.png</spriteFrame>
+            <spriteFrame>yanhua3330002.png</spriteFrame>
+            <spriteFrame>yanhua3330003.png</spriteFrame>
+            <spriteFrame>yanhua3330004.png</spriteFrame>
+            <spriteFrame>yanhua3330005.png</spriteFrame>
+            <spriteFrame>yanhua3330006.png</spriteFrame>
+            <spriteFrame>yanhua3330007.png</spriteFrame>
+            <spriteFrame>yanhua3330008.png</spriteFrame>
+            <spriteFrame>yanhua3330009.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

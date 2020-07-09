@@ -1,0 +1,62 @@
+
+binqiutupo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 175, 332
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 131, 282
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 175, 349
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 2, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 2, 18
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+f
+  rotate: true
+  xy: 2, 125
+  size: 178, 127
+  orig: 178, 127
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 305
+  size: 171, 150
+  orig: 171, 150
+  offset: 0, 0
+  index: -1
+h
+  rotate: false
+  xy: 286, 390
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+honghei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E
+  rotate: false
+  xy: 158, 310
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 2, 234
+  size: 154, 189
+  orig: 154, 189
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 2, 2
+  size: 98, 121
+  orig: 98, 121
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 2, 125
+  size: 138, 107
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 158, 285
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1

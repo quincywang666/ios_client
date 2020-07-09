@@ -1,0 +1,41 @@
+
+tongzi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c
+  rotate: false
+  xy: 2, 120
+  size: 112, 138
+  orig: 112, 138
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 211, 348
+  size: 97, 119
+  orig: 97, 119
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 2, 2
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 116, 239
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 260
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1

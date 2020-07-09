@@ -1,0 +1,41 @@
+
+ririshengcai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaa
+  rotate: false
+  xy: 2, 2
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+aaaa
+  rotate: false
+  xy: 2, 104
+  size: 205, 200
+  orig: 205, 200
+  offset: 0, 0
+  index: -1
+aaaaa
+  rotate: false
+  xy: 2, 40
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1
+aaaaaa
+  rotate: false
+  xy: 92, 79
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+aaaaaaa
+  rotate: false
+  xy: 209, 259
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1

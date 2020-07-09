@@ -1,0 +1,41 @@
+
+denglong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong
+  rotate: false
+  xy: 178, 97
+  size: 63, 154
+  orig: 63, 154
+  offset: 0, 0
+  index: -1
+denglong1
+  rotate: true
+  xy: 2, 52
+  size: 53, 129
+  orig: 53, 129
+  offset: 0, 0
+  index: -1
+denglong2
+  rotate: true
+  xy: 133, 40
+  size: 55, 119
+  orig: 55, 119
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 2, 2
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 107
+  size: 174, 144
+  orig: 174, 144
+  offset: 0, 0
+  index: -1

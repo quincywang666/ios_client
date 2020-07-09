@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8ed00195-ba59-4567-bf2a-a03e02541a91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8ed00195-ba59-4567-bf2a-a03e02541a91" : {
+
+    },
+    "b07e97f9-bcf3-4979-a764-fd21c9dfcdb6" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8ed00195-ba59-4567-bf2a-a03e02541a91" : 9223372036854775807,
+    "b07e97f9-bcf3-4979-a764-fd21c9dfcdb6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EEF9EFD0-B851-4717-AF45-3C9EC71DEF7E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8ed00195-ba59-4567-bf2a-a03e02541a91" : "mahjong\/",
+    "b07e97f9-bcf3-4979-a764-fd21c9dfcdb6" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cocos2d_lua_bindings",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Client\/MJClient\/frameworks\/cocos2d-x\/cocos\/scripting\/lua-bindings\/proj.ios_mac\/cocos2d_lua_bindings.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.37\/mahjong",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8ed00195-ba59-4567-bf2a-a03e02541a91"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.3.9",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b07e97f9-bcf3-4979-a764-fd21c9dfcdb6"
+    }
+  ]
+}

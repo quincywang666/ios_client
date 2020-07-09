@@ -1,0 +1,83 @@
+
+jinpingmei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 114, 139
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+huaduo1
+  rotate: false
+  xy: 276, 335
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+huaduo2
+  rotate: false
+  xy: 276, 367
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 177, 324
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 241
+  size: 173, 182
+  orig: 173, 182
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 2, 2
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: false
+  xy: 2, 2
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 138
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 2, 44
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 114, 163
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 177, 256
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1

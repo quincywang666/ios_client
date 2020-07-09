@@ -1,0 +1,62 @@
+
+gongfuxiongmao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ear
+  rotate: false
+  xy: 2, 168
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 276, 344
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 208, 281
+  size: 41, 9
+  orig: 41, 9
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 2, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 74, 105
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+lefthand
+  rotate: false
+  xy: 208, 292
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+righthand
+  rotate: false
+  xy: 2, 12
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+rightshou
+  rotate: false
+  xy: 2, 73
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1

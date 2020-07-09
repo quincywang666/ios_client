@@ -1,0 +1,55 @@
+
+fumantang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 2
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 223, 305
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 2, 84
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 183, 226
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 183, 248
+  size: 38, 135
+  orig: 38, 135
+  offset: 0, 0
+  index: -1
+f
+  rotate: false
+  xy: 93, 135
+  size: 82, 57
+  orig: 82, 57
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 194
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
